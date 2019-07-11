@@ -1,0 +1,1641 @@
+---
+pt:
+  about:
+    work_with_us:
+      cta: Ver vagas atuais
+      headline: Trabalhe connosco
+      text: Quer fazer parte de uma equipa unida pela paixão para construir algo fantástico
+        que faz a diferença, onde tem espaço para desenvolver a sua criatividade,
+        trazer os seus próprios talentos e onde é bem-vindo tal como é? Então fale
+        connosco, encontre o seu lugar e junte-se a nós!
+  application:
+    application:
+      contact_information:
+        question: Tens uma dúvida? Contata-nos em <a href="mailto:%{email_address}">%{email_address}</a>
+          ou liga para a nossa equipa de vendas em <a href="tel:%{phone_number}">%{phone_number}</a>
+      footer:
+        about: 
+        api: API
+        blog: 
+        contact: Contato
+        demo: Demo
+        docs: Documentação
+        enterprise: 
+        features: Caraterísticas
+        home: Início
+        imprint: Impressão
+        jobs: Carreiras
+        landing_pages: 
+        migrating: Migração
+        partner: Parceiros
+        press: 
+        pricing: Preço
+        privacy: Privacidade
+        solutions:
+          dropdown: Soluções
+        status: Estado do serviço
+        terms: Termos
+        topics:
+          company: Empresa
+          info: Informações acerca do produto
+          solutions: As Nossas Soluções
+          support: Suporte
+        webinars: Conferência via Web
+      landingpage_navigation:
+        contact_us: 
+      navigation:
+        account_management: Gestão da Conta
+        blog: Blog
+        blog_text: Mantém-te a par dos mais recentes conhecimentos e tutoriais sobre
+          localização
+        code_samples: Exemplos de Código
+        customers: Clientes
+        demo: Demo
+        demo_text: Experimenta já a PhraseApp
+        developers: Programadores
+        developers_text: Fácil de integrar e simples de gerir, diretamente a partir
+          da tua linha de comandos
+        documentation: Documentação
+        documentation_text: Todas as informações de que precisas para começar
+        features: Caraterísticas
+        getting_started: Guia de Utilização
+        installation: Instalação
+        login: Inicie sessão
+        managers: Gestores
+        managers_text: Coordena a tua equipa com funções específicas e trabalhos atribuíveis.
+        notifications: Notificações
+        pricing: Preço
+        quickstart: Início Rápido para Programadores
+        reports_statistics: Relatórios e Estatísticas
+        resources: Recursos
+        signup: Experimente gratuito
+        solutions: Soluções
+        solutions_text: A única plataforma de localização que vai reunir toda a tua
+          equipa
+        toggle_navigation: Navegação Alternada
+        tools_libraries: Ferramentas e Bibliotecas
+        translators: Tradutores
+        translators_text: Acelera o teu fluxo de trabalho e vê as alterações efetuadas
+          em contexto real
+        user_management: Gestão de Utilizadores
+        webinars: Conferências via Web
+        webinars_text: Saiba mais sobre os recursos e boas práticas
+  apply:
+    button: 
+    form:
+      hints:
+        certificates: 
+        cv: 
+      labels:
+        certificates: 
+        cv: 
+        department: 
+        email: 
+        letter_of_motivation: 
+        name: 
+        phone_number: 
+        photo: 
+        referrer: 
+      placeholders:
+        your_email_address: 
+        your_name: 
+        your_phone_number: 
+    headline: 
+    subheader: 
+    title: 
+  cli_examples:
+    labels:
+      create_job: 
+      download_locale: 
+      more: 
+      upload_file: 
+  contacts:
+    form:
+      send_message: Envia Mensagem
+      your_email_address: O teu endereço de email
+      your_message: A tua mensagem
+      your_name: O teu nome
+    intro: Precisa de ajuda com a PhraseApp? Basta enviar uma mensagem para a equipa
+      de apoio através do seguinte formulário.
+    new:
+      contact_us: Contata-nos
+      we_re_here_to: Estamos aqui para ajudar em quaisquer dúvidas ou comentários.
+    view_documentation: Ver Documentação
+  contacts_controller:
+    message_could_not_be_sent: 
+    message_sent_successfully: 
+  date:
+    abbr_month_names: 
+    formats:
+      default: 
+      long: 
+      short: 
+    month_names: 
+  demo_requests:
+    form:
+      company: Sua empresa
+      email: Seu e-mail de negócios
+      help_message: Com podemos ajudá-lo?
+      name: Seu nome
+      other-country-code-phone-hint: 
+      phone: Seu número de telefone
+      send_message: Submeter o seu pedido
+    headline: Obter uma demonstração
+    subline: Agende sua demo pessoal
+  demo_requests_controller:
+    message_sent_successfully: 
+  errors:
+    messages:
+      invalid_email_format: 
+  features:
+    best_choice: 
+    enterprise:
+      contact_us: 
+      headline: 
+      optional_available: 
+    groups:
+      automated_communication: 
+      change_tracking: 
+      context: 
+      control: 
+      edit_and_organize: 
+      integration: 
+      proofreading_workflows: 
+      quality: 
+      special_requirements: 
+      user_management: 
+    list:
+      acl:
+        description: <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/user-management"
+          target="_blank">Organiza a tua equipa de localização</a> ao atribuir funções
+          específicas e direitos de acesso a cada membro da equipa consoante os projetos
+          e as línguas.
+        title: Funções de Utilizador e Controlo de Acesso
+      api:
+        description: Adapta a PhraseApp ao teu fluxo de trabalho através da nossa
+          <a href="https://help.phraseapp.com/phraseapp-api/phraseapp-api-docs" target="_blank">API</a>.
+          A API permite-te importar ficheiros de localização, fazer download de ficheiros
+          de localização, identificar keys ou interagir de outras maneiras com os
+          dados de localização armazenados na PhraseApp para a tua conta.
+        title: API
+      autopilot:
+        description: Deixa que a PhraseApp <a href="https://help.phraseapp.com/translate-website-and-app-content/let-phraseapp-translate-for-you-using-machine-translation/autopilot"
+          target="_blank">traduza automaticamente novos conteúdos</a> recorrendo a  Tradução
+          Automática e a Memória de Tradução.
+        title: Autopilot
+      branching:
+        description: Trabalha em <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-use-version-control-with-phraseapp/branches"
+          target="_blank">vários lançamentos e versões</a> ao mesmo tempo - tal como
+          em Git.
+        title: Branching e Versões
+      cli:
+        description: A <a href="https://help.phraseapp.com/setup/set-up-phraseapp-for-any-technology-or-platform/other-technologies"
+          target="_blank">Ferramenta de Linha de Comandos</a> permite-te navegar rapidamente
+          nos projetos e traduções a partir da linha de comandos, em vez de te perderes
+          com longos e morosos pedidos. Disponível para Linux, Mac OS X e Windows.
+        title: Linha de Comandos
+      comments:
+        description: Informa, discute ou faz perguntas aos membros da equipa sobre
+          determinadas traduções ao <a href="https://help.phraseapp.com/" target="_blank">comentar
+          keys individuais</a>.
+        title: Comentários e Referências
+      conversion:
+        description: Evita ficheiros corrompidos de línguas através do  <a href="https://help.phraseapp.com/"
+          target="_blank">controlo de validação da PhraseApp</a>.
+        title: Conversão de Formato de Ficheiro e Validação de Sintaxe
+      formats:
+        description: A PhraseApp suporta uma enorme variedade de maneiras de exportar
+          e importar as tuas traduções para todos os <a href="https://phraseapp.com/docs/guides/formats/"
+          target="_blank">formatos comuns de ficheiros de localização</a>. Suportamos
+          os seguintes formatos durante a importação e exportação de ficheiros, bem
+          como o acesso à API.
+        title: "+ de 40 Formatos de Ficheiro"
+      glossary:
+        description: Mantém a consistência. O nosso  <a href="https://help.phraseapp.com/improve-translation-quality/use-glossary/translation-glossary"
+          target="_blank">Glossário</a> consiste numa lista exclusiva de termos predefinidos
+          para a tua empresa que permanece inalterada em todos os idiomas.
+        title: Glossário
+      history:
+        description: Revê todas as versões anteriores de uma tradução no separador
+          <a href="https://help.phraseapp.com/translate-website-and-app-content/phraseapp-translation-editor/translation-editor"
+          target="_blank">Histórico</a> do nosso Editor de Tradução.
+        title: Histórico
+      in_context_editor:
+        description: O nosso <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-setup-and-configure-the-phraseapp-in-context-editor-ice/"
+          target="_blank">In-Context Editor</a> pode ser integrado em quase todas
+          as aplicações web e oferece a possibilidade de traduzir conteúdos diretamente
+          no teu site.
+        title: In-Context Editor para a Web
+      jobs:
+        description: <a href="https://help.phraseapp.com/manage-translations-and-languages/assign-translation-work-with-jobs/jobs"
+          target="_blank">Organiza todas as tuas tarefas de tradução</a> designando
+          membros para a equipa, dando instruções e estabelecendo prazos para os locais
+          à tua escolha.
+        title: Trabalhos Atribuíveis
+      mfa:
+        description: Aumenta os teus padrões de segurança e inclui <a href="https://help.phraseapp.com/"
+          target="_blank">Autenticação de Dois Fatores</a>, quer através de código
+          2FA ou código de acesso OAuth.
+        title: Autenticação de Dois Fatores (2FA/MFA)
+      notifications:
+        description: Mantém-te <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/communicate-with-your-team/notifications"
+          target="_blank">sempre informado</a> sobre as mais recentes alterações no
+          teu projeto através das notificações diretamente na PhraseApp e via e-mail.
+        title: Notificações por E-mail e na App
+      ota:
+        description: Publica as tuas traduções mais rápida e facilmente do que nunca.
+          Não esperes mais pela próxima implementação e começa já a publicar todas
+          as tuas traduções em tempo real diretamente na PhraseApp com a funcionalidade
+          <a href="https://help.phraseapp.com/phraseapp-over-the-air-ota/phraseapp-over-the-air-introduction"
+          target="_blank">OTA</a>.
+        title: Over the Air (OTA)
+      proofreading:
+        description: Implementa facilmente um <a href="https://help.phraseapp.com/translate-website-and-app-content/verify-and-proofread-translations/verification-and-proofreading"
+          target="_blank">fluxo de trabalho de revisão e verificação</a> para traduções
+          novas e atualizadas.
+        title: Fluxos de Trabalho de Revisão
+      repo_sync:
+        description: A PhraseApp oferece uma <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-use-version-control-with-phraseapp/github-sync"
+          target="_blank">integração nativa com GitHub e Bitbucket</a>.
+        title: Sincronização com GitHub e Bitbucket.
+      screenshots:
+        description: Reforça a informação contextual ao <a href="https://help.phraseapp.com/manage-translations-and-languages/manage-keys-efficiently/screenshots"
+          target="_blank">anexar capturas de ecrã</a> às tuas keys de tradução.
+        title: Capturas de Ecrã Anexáveis
+      search:
+        description: <a href="https://help.phraseapp.com/manage-translations-and-languages/manage-keys-efficiently/working-more-efficiently-with-tags"
+          target="_blank">Adiciona várias etiquetas</a> e controla quais as keys que
+          pertencem a determinada secção do teu projeto.
+        title: Etiquetas em Tags e Pesquisa
+      smartsuggest:
+        description: Utiliza sugestões em tempo real para traduções enquanto traduzes
+          no Editor de Tradução da PhraseApp. O <a href="https://help.phraseapp.com/translate-website-and-app-content/phraseapp-translation-editor/smartsuggest"
+          target="_blank">SmartSuggest</a> acelera o teu trabalho de tradução e melhora
+          a consistência em geral.
+        title: SmartSuggest
+      source_copy_editing:
+        description: <a href="https://help.phraseapp.com/manage-translations-and-languages/manage-locales-and-languages/managing-locales-and-languages"
+          target="_blank">Edita os teus ficheiros de língua de partida</a> diretamente
+          na PhraseApp.
+        title: Edição de Ficheiros-Fonte
+      stats:
+        description: <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/reports-and-statistics"
+          target="_blank">Mantém-te sempre informado</a> sobre as atividades individuais
+          dos membros da tua equipa, incluindo a quantidade de keys e palavras traduzidas
+          e verificadas.
+        title: Estatísticas por Utilizador / Local
+      tm:
+        description: Acelera o teu processo de localização com a nossa <a href="https://help.phraseapp.com/improve-translation-quality/use-translation-memory/translation-memory"
+          target="_blank">Memória de Tradução</a>. A Memória de Tradução lembra-se
+          de traduções utilizadas nos teus projetos e sugere resultados compatíveis.
+        title: Memória de Tradução
+      tracking:
+        description: Mantém-te a par dos andamento dos teus projetos <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/reports-and-statistics"
+          target="_blank">acompanhando as mais recentes atividades</a> e filtra-os
+          por utilizador, evento ou intervalos de tempo específicos.
+        title: Monitorização da Atividade
+      webhooks:
+        description: Personaliza o teu fluxo de notificações permitindo que os <a
+          href="https://help.phraseapp.com/phraseapp-for-developers/how-to-configure-webhooks/webhooks"
+          target="_blank">Webhooks</a> notifiquem serviços externos, como clientes
+          de chat, ferramentas de gestão de projetos ou APIs externas de eventos.
+        title: Integração com Webhook (p. ex., Slack)
+    names:
+      2fa: 
+      access_control: 
+      account_manager: 
+      advanced_workflows: 
+      api_access: 
+      attachable_screenshots: 
+      autopilot: 
+      bitbucket_sync: 
+      branching: 
+      comment_mentionings: 
+      extended_statistics: 
+      filterable_activities: 
+      formats_and_syntax_validation: 
+      github_and_bitbucket_sync: 
+      github_sync: 
+      glossary: 
+      history: 
+      in_context_editor: 
+      jobs: 
+      mobile_statistics: 
+      notifications: 
+      onboarding_support: 
+      on_premise_hosting: 
+      ordering: 
+      ota: 
+      pci: 
+      pre_translations: 
+      proofreading: 
+      search_and_tagging: 
+      single_sign_on: Tenha acesso ao PhraseApp convenientemente via SAML, com um
+        provedor de identidade de sua escolha.
+      sketch: 
+      sla: 
+      smart_suggestions: 
+      source_copy_editing: 
+      support: 
+      translation_memory: 
+      verification_system: 
+      webhook_integrations: 
+      workflow: 
+    package_prices_per_user_per_month: 
+    sections:
+      developer_centric:
+        description: A PhraseApp dá especial atenção às necessidades dos programadores.
+          Para nós, isso significa uma importação e exportação rápida e fiável de
+          ficheiros de idiomas, uma API versátil, uma ferramenta CLI dedicada, suporte
+          para mais de 40 formatos de ficheiro, funcionalidades de branching na PhraseApp
+          e muito mais!
+        items:
+          api: API robusta
+          branching: Branching & Versões
+          cli: CLI Tool
+          formats: "+ de 40 Formatos de Ficheiro"
+          repo_sync: Sincronização de Repositório
+          webhooks: Webhooks
+        title: Centrada no programador
+      formats:
+        description: Suportamos inúmeros formatos de ficheiros de localização em múltiplas
+          plataformas e linguagens de programação.
+        title: Entendemos o teu formato
+      getting_things_done:
+        description: Organiza todos os teus projetos de tradução de software diretamente
+          na PhraseApp, sob a forma de Trabalhos. Notifica automaticamente todos os
+          membros da equipa envolvidos sempre que forem necessárias traduções ou assim
+          que estas sejam concluídas. Mantém-te sempre no controlo com monitorização
+          de processos, relatórios e estatísticas em tempo real.
+        items:
+          jobs: Trabalhos Atribuíveis
+          notifications: Notificações & Comentários
+          proofreading: Fluxos de Trabalho de Revisão
+          stats: Estatísticas de Progresso
+        title: Produtividade ao Máximo
+      workflow:
+        description: Crie rapidamente integrações prontas para a produção com ferramentas
+          modernas, desde componentes React até webhooks em tempo real.
+        title: Fluxo de trabalho de tradução mais rápido
+    table_head:
+      description:
+        column-1: 
+        column-2: 
+        column-3: 
+        column-4: 
+    tooltips:
+      2fa: 
+      access_control: 
+      account_manager: 
+      advanced_workflows: 
+      api_access: 
+      attachable_screenshots: 
+      autopilot: 
+      bitbucket_sync: 
+      branching: 
+      comment_mentionings: 
+      extended_statistics: 
+      filterable_activites: 
+      filterable_activities: 
+      formats_and_syntax_validation: 
+      github_and_bitbucket_sync: 
+      github_sync: 
+      glossary: 
+      history: 
+      in_context_editor: 
+      jobs: 
+      mobile_statistics: 
+      notifications: 
+      onboarding_support: 
+      on_premise_hosting: 
+      ordering: 
+      ota: 
+      pci: 
+      pre_translations: 
+      proofreading: 
+      search_and_tagging: 
+      single_sign_on: Tenha acesso ao PhraseApp convenientemente via SAML, com um
+        provedor de identidade de sua escolha.
+      sketch: 
+      sla: 
+      smart_suggestions: 
+      source_copy_editing: 
+      support: 
+      translation_memory: 
+      verification_system: 
+      webhook_integrations: 
+      workflow: 
+    your_choice: 
+  general:
+    beta: 
+    check_out_the_live_demo: Ver demonstração ao vivo
+    coming_soon: 
+    cta:
+      get_a_demo: Obter uma demonstração
+    new: 
+    read_more: 
+    see_details_in_our_documentation: Ver mais detalhes na nossa documentação
+    trial:
+      start_your_free_trial: Experimente gratuito
+      subline: Fácil de instalar. Compre ou cancele em qualquer altura.
+      teaser_headline: É hora de começar
+    users: 
+    we_are_hiring: Estamos a contratar!
+  home:
+    cli:
+      available_on_github: Descarregar de Github
+      free_download: Download Gratuito
+      headline: "Toda a PhraseApp API no seu terminal. \nCom a PhraseApp CLI Tool."
+      learn_more: Saiba mais
+      meta_description: 
+      page_title: Download da PhraseApp CLI Tool
+      step1_headline: 1. Faça o download e instale
+      step1_text: Faça o download e instale o cliente a partir de %{link}.
+      step2_headline: 2. Inicializar
+      step2_text: Use o comando %{command} para inicializar e configurar o seu projeto.
+      step3_headline: 3. Upload
+      step3_text: Use o comando %{command} para fazer o upload dos seus ficheiros
+        locais existentes para a PhraseApp.
+      sub_headline: A PhraseApp CLI tool permite navegar nos seus projetos e traduções
+        rapidamente a partir da linha de comando em vez de perder tempo com peddos
+        longos. Disponível para Linux, Mac OS X e Windows.
+      view_on_github: Ver no Github
+    enterprise:
+      account_manager_text: Mesmo além da configuração inicial, estamos sempre ao
+        seu lado e acompanhamos você e sua equipe com uma pessoa de contato central,
+        que cuida de qualquer preocupação de forma rápida e simples.
+      account_manager_title: Gerente de conta pessoal
+      availability_description: 
+      availability_headline: 
+      get_in_touch: 
+      headline: 
+      integrate_text: 
+      integrate_title: 
+      meta_description: PhraseApp on-premise é PhraseApp dentro de sua infraestrutura
+        de hospedagem ou seu provedor de nuvem. PhraseApp suporta Azure, Amazon AWS
+        e Google Cloud Platform.
+      page_title: 
+      secure_desc: 
+      secure_headline: 
+      security_description: PhraseApp On-Premise é a solução perfeita para empresas
+        com regulamentos rigorosos de hospedagem de dados. Ele pode ser facilmente
+        integrado à sua própria infraestrutura de TI por trás do firewall da sua empresa.
+        Com PhraseApp On-Premise você permanece no controle de todos os seus dados.
+      security_headline: Soberania de dados
+      support_description: Nossos serviços de nível empresarial e suporte premier
+        são dedicados ao sucesso de suas equipes. Oferecemos documentação abrangente,
+        tutoriais de integração e assistência pessoal sempre que você precisar.
+      support_headline: 
+      support_text: Estamos comprometidos com o sucesso de sua equipe e apoiá-lo como
+        um cliente Enterprise durante toda a fase de configuração.
+      support_title: 
+      translate_on_infrastructure: A solução de gerenciamento de tradução em seu próprio
+        hardware por trás do firewall da sua empresa. Colabore com a sua equipa, encontre
+        tradutores profissionais e mantenha-se no topo do processo.
+      trusted_by: 
+    index:
+      boost_localization:
+        api_headline: API
+        api_text: A nossa API foi concebida para se adequar a todos os processos de
+          localização de software. Podes facilmente importar ficheiros de localização,
+          fazer download de ficheiros de localização, identificar keys ou interagir
+          de variadas formas com os dados de localização armazenados na PhraseApp
+          através da API.
+        editor_headline: Editor de Tradução
+        editor_text: O Editor de Tradução foi criado para gerir traduções rapidamente
+          com o máximo de contexto e assistência possível. Trabalha mais depressa
+          recorrendo à ferramenta mais adequada ao trabalho.
+        features: Descobre mais sobre as funcionalidades da PhraseApp
+        headline: Tudo o que precisas para acelerar a tua localização
+        integrations_headline: Integrações
+        integrations_text: Os requisitos das equipas de localização podem variar consoante
+          o país. Ao oferecer várias possibilidades de integração, como a nossa API,
+          Over the Air e Sincronização GitHub, podes facilmente integrar a PhraseApp
+          no teu fluxo de trabalho.
+        quality_headline: Qualidade
+        quality_text: A PhraseApp oferece inúmeros recursos especificamente projetados
+          para melhorar a qualidade e a consistência da tua tradução, como o nosso
+          Glossário, Memória de Tradução, In-Context Editor, SmartSuggest e muito
+          mais.
+        tagline: A PhraseApp é o lugar onde as equipas de localização se reúnem para
+          lançar traduções de forma mais rápida e fácil que nunca.
+      customer_logos_tagline: Com a confiança de mais de 1000 empresas
+      features:
+        developer: Programador
+        headline: Uma melhor experiência de localização para todos
+        manager: Gestor
+        tagline: 'A PhraseApp é uma solução de gestão de traduções criada a pensar
+          em toda a equipa. '
+        translator: Tradutor
+      quote_slider:
+        headline: Por que os nossos clientes adoram a PhraseApp
+        read_study: Lê o Estudo de Caso na Íntegra
+      references:
+        headline: A solução de tradução preferida de mais de 1000 empresas em todo
+          o mundo
+        tagline: Redimensionar negócios ao nível global, conseguir tempo de lançamento
+          mais rápido para o mercado e criar uma melhor experiência de utilização
+          são apenas algumas das razões pelas quais muitas empresas procuram a PhraseApp
+          para as suas necessidades de localização.
+      slogan: Modernizar o Trabalho de Localização
+      slogan_tagline: Chegou a hora de dizer adeus às enormes folhas de cálculos com
+        traduções, à longa comunicação por e-mail, aos ficheiros corruptos de idiomas,
+        à falta de contexto, aos processos que não são transparentes,  aos lançamentos
+        em atraso e a tudo o mais que possa tornar a localização um problema.
+      submit_button_label: Experimente
+      testimonials:
+        kreditech:
+          author_name: 
+          author_position: Vice-presidente sénior da Kreditech
+          quote: '"A PhraseApp tem sido uma parte importante da expansão internacional
+            bem-sucedida da Kreditech, tanto a nível de país como de produto!"'
+        uship:
+          author_name: 
+          author_position: Principal arquiteto de software na uShip
+          quote: '"A PhraseApp é a solução mais amigável do mercado para o utilizador
+            e para a implementação contínua."'
+    jobs:
+      apply_now_label: 
+      benefits:
+        headline: Os Seus Benefícios
+      benifits:
+        expertise:
+          headline: Aprenda com pessoas com todos os tipos de experiência
+          text: Estamos constantemente a evoluir e a esforçarmo-nos para partilhar
+            o nosso conhecimento e as nossas forças individuais entre a nossa equipa.
+            Aprenda com especialistas em engenharia de software e localização para
+            explorar o seu caminho.
+        flexible:
+          headline: Ambiente flexível onde o trabalho é divertido
+          text: Trabalhe num ambiente profissional onde pode ser produtivo e divertir-se
+            também. Nós apoiamo-nos e damos a liberdade de que precisa para trabalhar
+            de forma eficaz.
+        free_drinks:
+          headline: Bebidas & fruta gratuitas
+          text: Aproveite a nossa cozinha com tudo o que precisa e espaço para se
+            sentarem todos juntos ao almoço. Além disso, há sempre bebidas e frutas
+            grátis para um lanche saudável.
+        hierarchy:
+          headline: Sistema hierárquico progressivo
+          text: Estamos estruturados num sistema de auto-organização ágil que encoraja
+            cada membro da equipa a contribuir e a desenvolver plenamente a sua criatividade,
+            habilidades pessoais e talentos.
+        latest_technology:
+          headline: Trabalhe com as mais recentes tecnologias
+          text: Estamos constantemente a trabalhar com as mais recentes tecnologias
+            no nosso desenvolvimento de software, sempre à procura da melhor qualidade
+            de código e a cuidar da próxima pessoa que tem de trabalhar com o mesmo.
+        location:
+          headline: 'Escritório penthouse agradável e perfeitamente localizado '
+          text: 'Desfrute do seu trabalho no nosso escritório de designer cheio de
+            claridade e espaçoso localizado no centro de Hamburgo. Damos a todos o
+            seu próprio lugar para pensar e espaço para colaborar. '
+        team_events:
+          headline: 'Eventos de equipa com regularidade '
+          text: Aproveitamos definitivamente o nosso terraço na cobertura com vista
+            panorâmica sobre Hamburgo. Quer seja um bom churrasco à antiga com uma
+            cerveja gelada ou um bom pequeno-almoço, gostamos de nos juntar após o
+            trabalho terminar.
+        work_with:
+          headline: Trabalhe com pessoas fantásticas
+          text: 'Faça parte de uma equipa jovem e dinâmica cheia de pessoas de mente
+            aberta onde todas têm as suas próprias competências e talentos, mas que
+            estão unidas pela mesma paixão de construir algo que importa. '
+      core_value:
+        be_friendly_helpful: 
+        be_open_awesome: 
+        move_fast_agile: 
+        stay_hungry_challenging: 
+        think_ahead_outstanding: 
+        trust_yourself_others: 
+      core_values:
+        headline: Os nossos valores
+        text: Aqui, na PhraseApp, vivemos com base em alguns valores simples que nos
+          guiam através do nosso negócio diário.
+      employee:
+        david: 
+        fabian: 
+        jannis: 
+        kathryn_ross: 
+        manuel: 
+        tim: 
+        tina_heit: 
+        ziwei_liu: 
+      jobs: Junte-se à PhraseApp!
+      meta_description: Junte-se à equipa da PhraseApp como marketeer, um programador
+        de Ruby/Go ou faça parte da nossa equipa de vendas.
+      positions:
+        headline: Vagas atuais
+        initiative:
+          headline: Não encontrou a posição que pretendia?
+          text: Adorávamos ouvi-lo na mesma. Contacte-nos ou envie-nos uma candidatura
+            espontânea!
+      subline: Ajude-nos a tornar as equipas de localização de software de todo o
+        mundo mais produtivas, proporcionando uma solução de gestão de tradução mais
+        rápida, fácil e transparente.
+      view_current_openings: Ver vagas atuais
+      what_our_employees_say:
+        headline: O que dizem os nossos funcionários
+    on_premise:
+      contact:
+        teaser_headline: 
+        teaser_tagline: 
+      features_headline: 
+    voucher:
+      messages:
+        success: 
+  job_applications:
+    create:
+      success_message: 
+  landingpage:
+    home:
+      enterprise:
+        get_in_touch: Entre em contacto
+  layouts:
+    application:
+      contacts:
+        new:
+          page_title: Contata a equipa da PhraseApp
+      demo_requests:
+        new:
+          page_title: Cadastre-se para uma demonstração pessoal
+      home:
+        index:
+          page_title: 'PhraseApp: Gestão de tradução para software'
+          schema_contact_option: 
+        jobs:
+          page_title: Estamos a contratar em Hamburgo
+      pages:
+        about:
+          page_title: Sobre a PhraseApp
+        demo:
+          page_title: Demonstração da PhraseApp em Ação
+        features:
+          page_title: Gestão fácil da tradução
+        features_developers:
+          page_title: 
+        features_managers:
+          page_title: 
+        features_translators:
+          page_title: 
+        imprint:
+          page_title: Impressão
+        pricing:
+          page_title: Teste grátis da PhraseApp e evolutivo e preço justo
+        privacy:
+          page_title: Política de Privacidade da PhraseApp
+        terms:
+          page_title: Termos de Serviço da PhraseApp
+      page_title: 'PhraseApp: Gestão de tradução para software'
+      user_requests:
+        new:
+          page_title: Contacte a equipa PhraseApp
+  meta:
+    description: Traduza melhor o seu software. Edite e partilhe ficheiros locais
+      online. Trabalhe com os seus tradutores ou encomende uma tradução profissional
+      para o seu projeto de localização.
+  packages:
+    description:
+      control: 
+      core: 
+      quality: 
+    feature_teaser:
+      control: Sistema de verificação, Workflows avançados, Relatórios e <a data-turbolinks="false"
+        data-anchor="#control-features" href="#">mais</a>
+      core: "Palavras ilimitadas, API, Encomendas de tradução, \nSuporte Online e
+        <a data-turbolinks=\"false\" data-anchor=\"#core-features\" href=\"#\">mais</a>"
+      quality: Memória de tradução, Glossário, Editor no contexto e <a data-turbolinks="false"
+        data-anchor="#quality-features" href="#">mais</a>
+    intro:
+      header: Três Planos. A sua escolha.
+      text: Comece com Core ou adicione características adicionais ao seu plano. Pode
+        experimentara todas as características e seleccionar o seu plano adequado.
+        Pode atualizar o seu plano em qualquer altura.
+  pages:
+    about:
+      about: Sobre a PhraseApp
+      blog:
+        cta: Mais artigos
+      customer-stories:
+        headline: 'Histórias de Sucesso '
+        paragraph: Saiba como as outras empresas usam a PhraseApp para construírem
+          relações mais fortes com os seus clientes e mudarem a sua maneira de fazer
+          negócio.
+      for_software_creators_translating: Para os criadores de software, traduzir os
+        seus produtos deve ser natural e sem esforço.
+      from_our_blog:
+        headline: Do nosso blogue
+      get_social: Siga-nos nas redes sociais
+      meta_description: A PhraseApp começou como um protótipo chamado "phrase". A
+        PhraseApp serve agora centenas de empresas em mais de 40 países e está a crescer
+        rapidamente.
+      mission-paragraph: Tornamos as equipas por todo o mundo mais produtivas, tornando
+        a localização do software mais rápida, fácil e transparente.
+      misson-headline: 'A Nossa Missão: Localização de Software Simples'
+      our-team: Conheça a nossa fantástica equipa
+      our_team:
+        and_you:
+          text: Junte-se a nós
+          title: E Você?
+      phraseapp-story-1: '"Devemos ter a plataforma disponível em 4 semanas!", disse-nos
+        o nosso investidor sobre a plataforma de reservas de viagens que estávamos
+        a construir.  E acrescentou: "Deve estar disponível em 24 idiomas". A nossa
+        equipa na altura era experiente no desenvolvimento de software para startups
+        de rápido crescimento, mas este tipo de ritmo de internacionalização era rápido
+        mesmo para nós. A nossa procura por um produto que poderia facilitar a localização
+        do nosso software a esta escala foi infrutífera. Finalmente, decidimos criar
+        uma aplicação para permitir que os nossos tradutores localizassem os nossos
+        modelos da internet no local enquanto navegavam na nossa plataforma de reservas.
+        A edição no local acelerou instantaneamente o nosso processo e, eventualmente,
+        tornou-se a base do nosso Editor In-Context.'
+      phraseapp-story-2: Mostrá-mo-la a outros programadores e recebemos muitos comentários
+        positivos, e disseram-nos que adorariam usá-la nos seus projetos. Assim, no
+        final de 2011, a ideia de construir uma plataforma de localização a partir
+        das ferramentas que criámos floresceu num protótipo para a PhraseApp.
+      phraseapp-story-3: 'Um ano depois, tivemos um número crescente de clientes e
+        expandimos a ferramenta para se tornar uma plataforma, oferecendo a API aos
+        clientes, ferramentas de integração e suporte de fluxo de trabalho para um
+        processo de localização completo. O nosso objetivo ficou claro: Precisamos
+        de resolver a localização para os programadores de software e procurar soluções
+        ainda mais simples para as tarefas típicas de gestores de localização e tradutores
+        de software.'
+      phraseapp-story-4: 'É para isso que estamos aqui e continuaremos a estar: Tentamos
+        constantemente procurar eliminar etapas desnecessárias dos processos de localização
+        e tornar a localização do software mais simples em todos os sentidos. A PhraseApp
+        está a crescer rapidamente e atua em centenas de negócios em mais de 60 países.'
+      stats:
+        countries:
+          label: países
+          value: 60+
+        languages:
+          label: diferentes idiomas
+          value: 145+
+        translated_words:
+          label: milhões de palavras traduzidas
+          value: 260+
+        users:
+          label: utilizadores PhraseApp
+          value: 30k+
+      story: A história
+      subline: A PhraseApp é a maneira mais simples de localizar o seu site ou aplicativo
+        móvel. Os clientes de todo o mundo contam com a PhraseApp como sendo a solução
+        de gestão de tradução mais abrangente e amigável para os programadores.
+      we_believe_in_a: Acreditamos que todos deveriam poder usar o software na sua
+        língua nativa
+    customers:
+      customer_story:
+        comdirect:
+          company: 
+        companies: 
+        company: 
+        cvent:
+          company: 
+          headline: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          headline_5: 
+          headline_6: 
+          headline_7: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_11_1: 
+          p_11_2: 
+          p_11_3: 
+          p_11_4: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: Engenheiro Principal de Software, Cvent
+            text: '"Com a PhraseApp, conseguimos modernizar o nosso processo de localização
+              e levar o nosso conjunto de aplicações a um público global mais alargado."'
+          result_1: 
+          result_2: 
+          result_3: 
+        download: 
+        fair-trade-usa:
+          benefits:
+            headline: 
+            p_1: 
+            p_2: 
+            p_3: 
+            subhead: 
+          challenge:
+            headline: 
+            p_1: 
+            p_2: 
+            p_3: 
+            subhead: 
+          company: 
+          headline: 
+          introduction:
+            headline: 
+            p_1: 
+          quote1:
+            author_position: Vice-Presidente da Inovação Tecnológica, Fair Trade USA
+            text: '"A PhraseApp tem sido fundamental para que a nossa pequena, mas
+              poderosa, equipa de engenharia localize aplicações digitais."'
+          result_1: 
+          result_2: 
+          result_3: 
+          solution:
+            headline: 
+            p_1: 
+            p_2: 
+            p_3: 
+            p_4: 
+            subhead: 
+          stats:
+            countries:
+              label: 
+              value: 
+            partners:
+              label: 
+              value: 
+            process_time:
+              label: 
+              value: 
+            reached:
+              label: 
+              value: 
+        familo:
+          '1': 
+          '10': '"A PhraseApp excedeu todas as nossas expectativas. Este software
+            ajudou-nos a agilizar as localizações e tornou-se líder do setor. Os resultados
+            falam por si."'
+          '11': 
+          '12': 
+          '13': 
+          '14': 
+          '15': 
+          '2': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          author:
+            name: Hauke Windmueller
+            position: CEO da FAMILO
+          headline: 
+          result_1: 
+          result_2: 
+          result_3: 
+        features_used: 
+        headline: 
+        kreditech:
+          '1': 
+          '10': 
+          '11': 
+          '12': 
+          '2': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          author:
+            position: 
+          company: 
+          headline: 
+          quote: 
+          results:
+            '1': 
+            '2': 
+            '3': 
+        livestorm:
+          company: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_16: 
+          p_2: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: Engenheiro de Desenvolvimento, Livestorm
+            text: '"O processo de localização é muito mais eficiente, o que torna
+              muito mais fácil lançar novas versões e adicionar novos locais."'
+          result_1: 
+          result_2: 
+          result_3: 
+        njiuko-comdirect:
+          headline: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          headline_5: 
+          headline_6: 
+          headline_7: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_16: 
+          p_17: 
+          p_18: 
+          p_19: 
+          p_2: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: 
+            text: 
+          quote2:
+            author_position: Vice-President Sénior da Interface de Utilizador, comdirect
+            text: '"A variedade de respostas que a PhraseApp oferece melhora significativamente
+              a qualidade geral da linguagem da ferramenta: soa mais natural, o que
+              a torna muito mais aliciante para os nossos clientes."'
+          result_1: 
+          result_2: 
+          result_3: 
+        njiuko:
+          company: 
+        results: 
+        stats:
+          countries: 
+          first: 
+          in_german_banking: 
+          languages: 
+          localization_costs: 
+          markets: 
+          needed_manpower: 
+          process_time: 
+          projects: 
+          recognized_queries: 
+          saved_per_release: 
+          team_size: 
+          users_since_phraseapp: 
+          words: 
+        the_conversation:
+          '1': 
+          '10': 
+          '11': 
+          '12': '"A plataforma de colaboração intuitiva e fácil de usar da PhraseApp
+            tornou-a uma importante ferramenta de confiança durante a nossa expansão
+            em França."'
+          '13': 
+          '14': 
+          '15': 
+          '16': 
+          '17': 
+          '2': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          company: 
+          headline: 
+          quote_author_name: James Healy
+          quote_author_position: Diretor Técnico, The Conversation
+          result_1: 
+          result_2: 
+          result_3: 
+        uship:
+          '1': 
+          '10': 
+          '11': 
+          '12': 
+          '13': 
+          '14': 
+          '15': 
+          '16': 
+          '17': 
+          '18': 
+          '19': 
+          '2': 
+          '20': '"A PhraseApp é a solução mais adequada para programadores e para
+            uma implementação contínua no mercado. Desde o momento em que começámos
+            a procurar uma solução, a PhraseApp depressa se destacou de toda a concorrência."'
+          '23': 
+          '24': 
+          '25': 
+          '26': 
+          '27': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          author_name: Ed Vinyard
+          author_position: Arquiteto Líder de Software, uShip
+          company: 
+          headline: 
+          result_1: 
+          result_2: 
+          result_3: 
+          result_4: 
+        xing:
+          company: 
+          headline: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          headline_5: 
+          headline_6: 
+          headline_7: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_2: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: Líder da Equipa de Estratégia de Redação & Conteúdos
+            text: '"Graças à PhraseApp, podemos expandir o nosso negócio e o portefólio
+              de produtos sem nos preocuparmos mais com a localização."'
+          result_1: 
+          result_2: 
+          result_3: 
+      cvent:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      fair-trade-usa:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      familo:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      features:
+        api:
+          description: 
+          name: 
+        buy_translations:
+          description: 
+          name: 
+        integration:
+          description: 
+          name: 
+        in_context_editor:
+          description: 
+          name: 
+        jobs:
+          description: 
+          name: 
+        notifications:
+          description: 
+          name: 
+        projects:
+          description: 
+          name: 
+        translation_memory:
+          description: 
+          name: 
+        user_management:
+          description: 
+          name: 
+        verification_system:
+          description: 
+          name: 
+      kreditech:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      livestorm:
+        excerpt: 
+        headline: 
+        meta_description: 
+        page_title: 
+        subline: 
+        type: 
+      meta_description: 
+      njiuko-comdirect:
+        excerpt: 
+        headline: 
+        meta_description: 
+        page_title: 
+        subline: 
+        type: 
+      page_title: 
+      read_casestudy: 
+      read_more: Ler mais
+      the_conversation:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      uship:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      xing:
+        excerpt: 
+        headline: 
+        meta_description: 
+        page_title: 
+        subline: 
+        type: 
+    demo:
+      api_documentation: Documentação API
+      in_context_editor: In-Context Editor
+      in_context_editor_demo: In-Context Editor Demo
+      localization_api: Localização de API
+      meta_description: 'PhraseApp em Ação: Translation Center, In-Context Editor
+        & API'
+      our_api_lets_you: O nosso API permite que cries fluxos de trabalho personalizados
+        e melhores a integração da PhraseApp no teu processo de localização.
+      password_label: Password
+      phraseapp_in_action: PhraseApp em Ação
+      run_command: Abrir no navegador
+      the_phraseapp_in_context: A PhraseApp In-Context Editorpode pode ser integrada
+        dentro de, praticamente, qualquer aplicação web e oferece a possibilidade
+        de traduzir o conteúdo diretamente no teu site.
+      the_translation_center_is: O Translation Center é a espinha dorsal do sistema
+        de gestão de tradução da PhraseApp. A interface web permite gerir todas as
+        línguas e traduções em diversas plataformas.
+      the_translation_odering_works: Podes trabalhar com a tua própria equipa de tradutores
+        ou simplesmente pedir traduções profissionais dos nossos parceiros de tradução.
+        O lançamento de novas línguas é agora possível em poucas horas.
+      translation_center: Translation Center
+      translation_center_demo: Translation Center Demo
+      translation_center_in_context: Translation Center, In-Context Editor, API
+      translation_odering: Traduções
+      translation_odering_demo: Sabe mais
+      user_label: Utilizador
+    features:
+      40_formats: Formatos
+      api: API
+      autopilot_headline: Autopilot
+      branching_support: Branching & Versões
+      cli: Linha de Comandos
+      comments: Comentários
+      editor: Editor de Tradução
+      email_app_notifications: Notificações por E-mail e na App
+      feature_list_headline: Tudo o que precisas para acelerar
+      formats:
+        show_all: Mostrar todos os formatos
+      format_finder:
+        cta: Encontre o formato de localização correto para o seu framework com o
+          nosso <a href="%{format_finder_path}">Format Finder</a>
+      history: Histórico
+      in_context_editor: In-Context-Editor
+      jobs: Tarefas atribuíveis
+      meta_description: "A sua solução de gestão de tradução \npara aplicações da
+        internet e telemóvel. Colabore com a sua equipa, encontre tradutores profissionais
+        e esteja sempre atento ao processo\n"
+      oneclick_headline: Traduções com um clique
+      oneclick_text: Utiliza a tua própria equipa de tradutores ou compra simplesmente
+        traduções profissionais dos nossos parceiros.
+      ota: Over the Air (OTA)
+      proofreading: Revisão
+      repository_sync: Sincronização GitHub e Bitbucket
+      search_key_tagging: Etiquetas em Tags e Pesquisa
+      slogan: Criada para Acabar com os Teus Problemas de Localização
+      slogan_tagline: Descobre porque é que a localização deixa de ser um problema
+        ao experimentares a PhraseApp, a solução de localização mais avançada do mercado.
+      statistics_per_locale: Estatísticas por Utilizador/Local
+      user_roles: Funções de Utilizador e Controlo de Acesso
+      versioning_headline: Versões e Branching
+      versioning_text: Sincroniza automaticamente os teus projetos PhraseApp com o
+        teu repositório GitHub ou Bitbucket e trabalho em múltiplas versões.
+      webhook: Webhooks
+      workflow_gallery:
+        dashboard:
+          link: Painel de Controlo
+          text: O Painel de Controlo é onde se junta toda a informação relacionada
+            com projetos. Aqui podes acompanhar o progresso dos trabalhos que foram
+            atribuídos individualmente, bem como o progresso geral da tradução, e
+            muito mais!
+        project_overview:
+          link: Vista Geral de Projeto
+          text: A Vista Geral de Projeto é a principal página de vista geral para
+            todos os teus projetos de localização. Com a ajuda dos Projetos, podes
+            organizar todas as traduções relacionadas com um objetivo específico de
+            localização, configurar permissões e adicionar capturas de ecrã.
+        translation_editor:
+          link: Editor de Tradução
+          text: 'O Editor de Tradução permite-te procurar traduções, gerir keys e
+            executar o trabalho de tradução propriamente dito. No processo de tradução,
+            disponibiliza metainformação útil e ajuda os tradutores e gestores a traduzir
+            conteúdos rapidamente sem perder o foco. '
+    features_developers:
+      meta_description: 
+    features_managers:
+      meta_description: 
+    features_translators:
+      meta_description: 
+    imprint:
+      headline: Impressão
+    migrations:
+      read_guide: 
+      stage_headline: 
+      stage_subline: 
+    pricing:
+      enterprise:
+        cta: Contacta-nos
+        description_short: Mais de 50 utilizadores? Necessidades de alojamento On-premise
+          ou SLA? Contacta a nossa equipa.
+        headline: Tens necessidades empresariais?
+        plan_name: 
+      faqs:
+        add_user:
+          answer: Todos os planos incluem um determinado número de lugares para utilizadores.
+            Podes adicionar lugares para utilizadores. A qualquer momento, podes adicionar
+            lugares para utilizadores ao teu plano. Aplicam-se as seguintes tarifas
+            para utilizadores adicionais no respetivo plano.
+          headline: Posso adicionar ao meu plano lugares para utilizadores?
+        faqs: Perguntas Frequentes
+        payment_options:
+          answer: |-
+            Permitimos o pagamento por cartão de crédito (Visa, MasterCard, American Express), SEPA, transferência bancária e PayPal. Entra em contacto com a nossa equipa de apoio ao cliente caso tenhas algum pedido especial aquando da aquisição, tal como o tratamento da nota de encomenda.
+
+            As condições de pagamento predefinidas são as de pagamento dentro de 14 dias após emissão da fatura (Net 14).
+          headline: Que opções de pagamento a PhraseApp disponibiliza?
+        startup_plan:
+          answer: Temos preços especiais para start-ups selecionadas e planos gratuitos
+            para projetos de código aberto. Entra em contacto com a nossa equipa de
+            apoio caso a tua empresa ainda não esteja numa posição que a permita pagar
+            integralmente a nossa tarifa.
+          headline: E se eu precisar de menos de 5 utilizadores?
+        trial:
+          answer: Durante o seu período de teste gratuito, de 14 dias, tens acesso
+            a todas as funcionalidades do plano Pro. A qualquer momento, podemos ajudar-te
+            a encontrar o plano mais adequado às suas necessidades. Todos os planos
+            incluem acesso API, acesso ao nosso Centro de Tradução, Sincronização
+            do Repositório de Código Fonte e todos os formatos por nós suportados.
+            Não há limite para palavras, segmentos, keys e projetos.
+          headline: O que está incluído na versão experimental?
+        upgrade:
+          answer: Podes fazer upgrade ao teu plano a qualquer momento. A tua assinatura
+            é renovada automaticamente no final do período de faturação, a menos que
+            a canceles em conformidade com os nossos termos e condições. Os downgrades
+            entram em vigor após o término do período atual de faturação.
+          headline: Posso fazer upgrade?
+      headline: Preços
+      meta_description: Um serviço de localização Fácil e Poderoso para aplicações
+        da internet e telemóveis com planos de preços acessíveis, de acordo com o
+        seu negócio global.
+      modal:
+        features:
+          headline: 
+      plan:
+        additional_user: 'Plano %{plan_name}: lugar para utilizador adicional a %{costs}
+          por utilizador/mês'
+        billing_period:
+          annually: FATURAÇÃO ANUAL
+          monthly: FATURAÇÃO MENSAL
+        exclusive:
+          feature:
+            line_1: API, In-Context Editor & Centro de Tradução
+            line_2: Gestor Pessoal de Conta
+            line_3: Acordo de Níveis de Serviço Personalizado
+            line_4: SDK Móvel para 1,2 milhões de utilizadores ativos por mês
+            line_5: 
+          title: Exclusive
+          usecase: Uma experiência personalizada na PhraseApp com Acordo de Nível
+            de Serviço (SLA)
+        features:
+          more_link:
+            text: Comparar planos
+        lite:
+          feature:
+            line_1: Sincronização com GitHub, Bitbucket e API
+            line_2: Fluxo de Trabalho de Revisão Simples
+            line_3: Suporte para Branching
+            line_4: DSK Móvel para 200 mil utilizadores ativos por mês
+            line_5: Todos os formatos incluídos - <a href="https://phraseapp.com/docs/guides/format-finder/">lista
+              completa</a>
+          title: Lite
+          usecase: Para equipas de produção que se debatem com um processo de localização
+            complexo.
+        period_switch:
+          to_monthly: Mudar para faturação mensal
+          to_yearly: Mudar para faturação anual
+        pro:
+          feature:
+            line_1: Sincronização com GitHub, Bitbucket e API
+            line_2: Memória de Tradução e Glossário
+            line_3: Fluxo de Trabalho de Revisão Avançado
+            line_4: Autopilot para tradução automática
+            line_5: Suporte para Branching
+            line_6: SDK Móvel para 1 milhão de utilizadores ativos por mês
+            line_7: 
+          title: Pro
+          usecase: Para equipas modernas de desenvolvimento de software, equipas de
+            localização e marcas globais.
+        recommendation: Mais Popular
+        seats_included: "%{count} utilizadores incluídos"
+        signup_cta: Experimenta gratuitamente
+      price_month: "/ mês"
+      startup:
+        cta: Candidatura
+        description: Oferecemos 50% de desconto a start-ups selecionadas e planos
+          gratuitos a projetos de código aberto.
+        headline: Start-up nos primeiros passos?
+      subline: "Nenhum plano tem restrições ao limite de palavras e projetos armazenados.<br>\nEscolhe
+        um plano que seja adequado às tuas circunstâncias e ao tamanho da tua equipa. "
+    privacy:
+      content: 
+      headline: Política de Privacidade
+      last_revised: 
+      meta_description: A PhraseApp leva a privacidade dos seus dados muito a sério.
+        Qualquer dado recolhido será tratado pela PhraseApp de acordo com as regulações
+        legais.
+    sketch:
+      meta_description: 
+      page_title: 
+    sketchplugin:
+      claim: 
+      claim_sub: 
+      docs_cta: 
+      features_headline: 
+      features_sub_headline: 
+      function_pull: 
+      function_pull_tooltip: 
+      function_push: 
+      function_push_tooltip: 
+      function_translate: 
+      function_translate_tooltip: 
+      headline: 
+      main_cta: 
+      sub_headline: 
+      usecase_iterations: 
+      usecase_iterations_tooltip: 
+      usecase_placeholder: 
+      usecase_placeholder_tooltip: 
+      usecase_sync: 
+      usecase_sync_tooltip: 
+      webinar_cta: 
+    terms:
+      headline: Termos do Serviço
+      meta_description: Estes termos de serviço permitem-lhe aceder e usar os websites
+        e serviços da PhraseApp. Por favor leia os mesmos com atenção antes de usar
+        o serviço de localização.
+  personas:
+    developers:
+      metrics:
+        metric_1: '50'
+        metric_2: '48'
+        metric_3: '95'
+        text_1: Redução no tempo de implementação
+        text_2: Poupadas por lançamento, em média
+        text_3: Tempo de resposta mais rápido
+      quote:
+        headline: Por que os programadores adoram a PhraseApp
+      stage:
+        slogan: Gestão de Tradução Feita para Programadores
+        slogan_tagline: No que diz respeito a desenvolver projetos, tentamos sempre
+          a solução mais simples. Altamente intuitiva, eficiente e facilmente integrada,
+          a PhraseApp foi criada para programadores e por programadores.
+      tabbed_content:
+        api_text: Adapta a PhraseApp ao teu fluxo de trabalho. A nossa <a href="https://help.phraseapp.com/phraseapp-api/phraseapp-api-docs"
+          target="_blank">API</a> permite-te importar ficheiros de localização, fazer
+          download de ficheiros de localização, identificar keys ou interagir de outras
+          maneiras com os dados de localização armazenados na PhraseApp para a tua
+          conta.
+        autopilot_text: Deixa a PhraseApp traduzir automaticamente novos conteúdos
+          com recurso a Tradução Automática e Memória de Tradução. Com o Autopilot,
+          podes traduzir automaticamente novas keys, ficheiros de locais ou outros
+          ficheiros em vários idiomas, imediatamente após os adicionares à PhraseApp.
+        branching_support_text: Trabalha em múltiplos lançamentos e versões ao mesmo
+          tempo – tal como em Git.
+        cli_text: A Ferramenta de Linha de Comandos permite-te navegar rapidamente
+          nos projetos e traduções a partir da linha de comandos, em vez de te perderes
+          com longos e morosos pedidos. Disponível para Linux, Mac OS X e Windows.
+        formats_text: A PhraseApp suporta uma imensa variedade de formas de exportar
+          e importar as tuas traduções para todos os formatos de ficheiro de localização
+          comuns. Suportamos os seguintes formatos durante a importação de ficheiros,
+          exportação de ficheiros e acesso à API.
+        nav_headline: Recursos para Programadores
+        ota_text: Publica as tuas traduções mais rápida e facilmente do que nunca.
+          Não esperes mais pela próxima implementação e começa já a publicar todas
+          as tuas traduções em tempo real diretamente na PhraseApp com a funcionalidade
+          OTA.
+        repository_sync_text: A PhraseApp oferece uma integração nativa com GitHub
+          e Bitbucket
+        webhook_text: Personaliza o teu fluxo de notificações permitindo que os Webhooks
+          notifiquem serviços externos, como clientes de chat, ferramentas de gestão
+          de projetos ou APIs externas de eventos.
+    managers:
+      metrics:
+        metric_1: '50'
+        metric_2: '80'
+        metric_3: 2-3
+        text_1: Menos recursos humanos necessários
+        text_2: 'Diferença notória em Envolvimento e Experiência do Utilizador '
+        text_3: de trabalho poupado, em média, por mês
+      quote:
+        headline: Por que os gestores adoram a PhraseApp
+      stage:
+        slogan: A Melhor Experiência em Localização de Software
+        slogan_tagline: Gestores de Localização, Gestores de Produto, Gestores de
+          Engenharia, entre outros, todos utilizam a PhraseApp para promover, acelerar
+          e expandir os seus projetos de localização. Começa já a controlar os teus
+          fluxos de trabalho de localização com a PhraseApp.
+      tabbed_content:
+        email_app_notifications_text: Mantém-te sempre informado sobre as mais recentes
+          alterações no teu projeto através das notificações diretamente na PhraseApp
+          e via e-mail.
+        jobs_text: Organiza todas as tuas tarefas de tradução designando membros para
+          a equipa, dando instruções e estabelecendo prazos para os locais à tua escolha.
+        nav_headline: Recursos para Gestores
+        proofreading_text: Implementa facilmente um fluxo de trabalho de revisão e
+          verificação para traduções novas e atualizadas.
+        statistics_per_locale_text: Mantém-te sempre informado sobre as atividades
+          individuais dos membros da tua equipa, incluindo a quantidade de keys e
+          palavras traduzidas e verificadas.
+        user_roles_text: Organiza a tua equipa de localização ao atribuir funções
+          específicas e direitos de acesso a cada membro da equipa consoante os projetos
+          e as línguas.
+    metrics:
+      headline: Temos a prova
+      tagline: A PhraseApp produz resultados sólidos e quantificáveis para os nossos
+        clientes em todo o mundo.
+      unit_days: dias
+      unit_hours: horas
+      unit_percentage: "%"
+    translators:
+      metrics:
+        metric_1: '21'
+        metric_2: '90'
+        metric_3: '100'
+        text_1: Traduções mais rápidas com SmartSuggest
+        text_2: Redução de erros
+        text_3: Menos folhas de cálculo
+      quote:
+        headline: Por que os tradutores adoram o PhraseApp
+      stage:
+        slogan: Uma Excelente Ferramenta para Tradutores
+        slogan_tagline: 'O contexto importa. É por isso que a PhraseApp está constantemente
+          a esforçar-se por oferecer aos tradutores uma experiência de localização
+          de software com mais importância dada ao contexto. '
+      tabbed_content:
+        comments_text: Informa, discute ou faz perguntas aos membros da equipa sobre
+          determinadas traduções ao comentar keys individuais.
+        editor_text: A PhraseApp disponibiliza recursos e mecanismos eficazes para
+          lidar com um elevado número de keys e restrições técnicas em projetos de
+          tradução complexos.
+        history_text: Reveja todas as versões anteriores de uma tradução no separador
+          Histórico do nosso Editor de Tradução
+        in_context_editor_text: O In-Context Editor da PhraseApp pode ser integrado
+          em quase todas as aplicações web e oferece a possibilidade de traduzir conteúdos
+          diretamente no teu site.
+        nav_headline: Recursos para Tradutores
+        search_key_tagging_text: Adiciona várias etiquetas e controla quais as keys
+          que pertencem a determinada secção do teu projeto.
+  selection_msg:
+    one: 
+    other: 
+    zero: 
+  simple_form:
+    hints:
+      package_offer:
+        pricing:
+          currency: 
+    labels:
+      contact:
+        email: Email
+        message: Mensagem
+        name: Nome
+      demo_request:
+        company: Companhia
+        country_area_code_phone: 
+        email: Email
+        help_message: Mensagem
+        name: Nome
+        other_country_area_code_phone: 
+        phone: Telefone
+  team:
+    fact:
+      aleks_maksimow: 
+      christopher_murach: 
+      colin_witt: 
+      corinna_maier: 
+      dalibor_stajic: 
+      david_ost: 
+      edin_hadzic: 
+      elina_eickstaedt: 
+      elizabeth_orwig: 
+      fabian_kirchner: 
+      felix_meese: 
+      frederik_vollert: 
+      gamze_kaplan: 
+      henning_schlinkmann: 
+      jana-marie_lecher: 
+      jannis_rhein: 
+      jenifer_eggeling: 
+      kathryn_ross: 
+      kristina_reinhardt: 
+      malte_jansen: 
+      manuel_boy: 
+      mariana_tutlys: 
+      matthias_nitsche: 
+      maximilian_schroeder: 
+      moritz_helbich: 
+      mustafa_cetin: 
+      pierre_zenker: 
+      sharona_allameh: 
+      soenke_behrendt: 
+      sonja_gaertner: 
+      stefan_bruhns: 
+      stephan_schoening: 
+      sven_dunemann: 
+      til_fabel: 
+      tim_ibo_leers: 
+      tina_heit: 
+      tobias_schwab: 
+      torben_fabel: 
+      vincent_dahmen: 
+      wolfram_graetz: 
+      ziwei_liu: 
+    role:
+      account_director: 
+      account_executive: 
+      account_manager: 
+      brand_manager: 
+      business_development_manager: 
+      business_development_student: 
+      ceo: 
+      content_marketing_manager: 
+      csm: 
+      cso: 
+      cto: 
+      engineer: 
+      engineering_intern: 
+      head_of_cs: 
+      head_of_hr: 
+      head_of_marketing: 
+      head_of_product: 
+      head_of_sales: 
+      hr_coordinator: 
+      hr_manager: 
+      junior_sales_manager: 
+      lead_generation: 
+      marketing_manager: 
+      online_marketing_student: 
+      operations_manager: 
+      product_manager: 
+      product_marketing_manager: 
+      recruiter_female: 
+      sales_development_rep: 
+      startegic_project_manager: 
+      technical_lead_gen: 
+      visual_designer: 
+  user_requests:
+    form:
+      cause_for_help: Como é que nos encontrou?
+      pressing_problem: Qual o seu problema mais urgente?
+      send_message: Entre em contacto
+      who_are_you: Sobre si
+      your_email_address: Qual é o seu endereço de e-mail?
+      your_message: Com podemos ajudá-lo?
+    new:
+      how_can_we_help: Como podemos ajudá-lo?
+  user_requests_controller:
+    message_sent_successfully: Mensagem enviada com sucesso.
