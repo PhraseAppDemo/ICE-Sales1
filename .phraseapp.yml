@@ -9,7 +9,7 @@ phraseapp:
          update_translations: true
    pull:
      targets:
-     - file: ./quote/<locale_code>.lproj
+     - file: ./quote/<locale_code>.yml
        params:
          file_format: strings
 
