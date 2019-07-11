@@ -8,7 +8,7 @@ phraseapp:
          update_translations: true
    pull:
      targets:
-     - file: ./quote/<locale_code>.yml
+     - file: ./ICE-Scarlet/<locale_code>.yml/<locale_code>.yml
        params:
          file_format: strings
 
