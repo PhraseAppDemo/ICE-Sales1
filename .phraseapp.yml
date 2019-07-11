@@ -2,13 +2,13 @@ phraseapp:
    project_id: 03697a531a2e5cddb1f30e39a04f16ea
    push:
      sources:
-     - file: ./ICE-Scarlet/<locale_code>.yml
+     - file: ./ICE-Blue-and-Yellow/<locale_code>.yml
        params:
          file_format: strings
          update_translations: true
    pull:
      targets:
-     - file: ./ICE-Scarlet/<locale_code>.yml/<locale_code>.yml
+     - file: ./ICE-Blue-and-Yellow/<locale_code>.yml/<locale_code>.yml
        params:
          file_format: strings
 
