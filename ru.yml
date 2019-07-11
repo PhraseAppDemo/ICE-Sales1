@@ -1,0 +1,1719 @@
+---
+ru:
+  about:
+    work_with_us:
+      cta: Просмотр текущих вакансий
+      headline: Работайте с нами
+      text: Хочешь ли ты быть частью команды, объединенной страстью создавать что-то
+        великое, что имеет значение, в которой у тебя есть место для творчества и
+        реализации своeгo творческoгo потенциалa,  и где теб  примyт таким, какoй
+        ты есть? Тогда  cвяжись c нами, найди свое место и присоединяйся к нам!
+  application:
+    application:
+      contact_information:
+        question: 'У вас есть вопрос? Свяжитесь с нами через <a href="mailto:%{email_address}"%{email_address}''</a>
+          или позвоните нашему отделу продаж  ".%{phone_number} '
+      footer:
+        about: 
+        api: API
+        blog: Блог
+        contact: Контакт
+        demo: Демо-версия
+        docs: Документация
+        enterprise: On-Premise
+        features: Продукт
+        home: Главная
+        imprint: Дополнительно
+        jobs: Карьера
+        landing_pages: 
+        migrating: Миграция данных
+        partner: Партнеры
+        press: 
+        pricing: Стоимость
+        privacy: Приватность
+        solutions:
+          dropdown: Продукт
+        status: Состояние системы
+        terms: Условия использования
+        topics:
+          company: О компании
+          info: Информация о продукте
+          solutions: Наши продукты
+          support: Служба поддержки
+        webinars: 
+      landingpage_navigation:
+        contact_us: Свяжитесь с нами
+      navigation:
+        account_management: Управление аккаунтом
+        blog: Блог
+        blog_text: Будьте в курсе последних новостей о локализации
+        code_samples: Примеры кода
+        customers: Клиенты
+        demo: Демо-версия
+        demo_text: Запросить демонстрацию PhraseApp
+        developers: Разработчикам
+        developers_text: Простота интеграции и управления, непосредственно из командной
+          строки.
+        documentation: Документация
+        documentation_text: Все, что необходимо для начала работы
+        features: Продукт
+        getting_started: Начало работы
+        installation: Установка
+        login: Вход
+        managers: Менеджерам
+        managers_text: Координируйте работу своей команды, распределяйте роли и задачи
+        notifications: Уведомления
+        pricing: Стоимость
+        quickstart: Quickstart для разработчиков
+        reports_statistics: Отчеты и статистика
+        resources: Ресурсы
+        signup: Пробная версия
+        solutions: Продукт
+        solutions_text: Единая платформа для всех членов команды локализации
+        toggle_navigation: Показать/скрыть навигацию
+        tools_libraries: Инструменты и библиотеки
+        translators: Переводчикам
+        translators_text: Ускорьте рабочий процесс внося изменения в режиме реального
+          времени.
+        user_management: Управление пользователями
+        webinars: Вебинары
+        webinars_text: Подробнее о функциях и передовых практиках
+  apply:
+    button: Yчастyй сейчас!
+    form:
+      hints:
+        certificates: Для загрузки более одного файла используйте ZIP-формат.
+        cv: Желательно в формате PDF.
+      labels:
+        certificates: Сертификаты и отчеты
+        cv: CV
+        department: Департамент
+        email: Email
+        letter_of_motivation: Мотивационное письмо
+        name: Имя
+        phone_number: Номер телефона
+        photo: Фото
+        referrer: Где Вы услышали о нас?
+      placeholders:
+        your_email_address: Ваш email
+        your_name: Твое имя
+        your_phone_number: Ваш номер телефона
+    headline: Присоединяйтесь к PhraseApp!
+    subheader: Не нашли подходящую должность? Мы всегда можем это обсудить!
+    title: Заявления о приеме на работу
+  cli_examples:
+    labels:
+      create_job: Создать задачу
+      download_locale: Загрузить локаль
+      more: Узнать больше
+      upload_file: Загрузить файл
+  contacts:
+    form:
+      send_message: Отправить сообщение
+      your_email_address: Ваш электронный адрес
+      your_message: Ваше сообщение
+      your_name: Твое имя
+    intro: Вам нужна помощь с PhraseApp? Просто отправьте сообщение в службу поддержки,
+      заполнив форму ниже.
+    new:
+      contact_us: Свяжитесь с нами
+      we_re_here_to: Мы будем рады помочь вам с любыми вопросами.
+    view_documentation: Посмотреть документацию
+  contacts_controller:
+    message_could_not_be_sent: 
+    message_sent_successfully: Сообщение успешно отправлено
+  date:
+    abbr_month_names: 
+    formats:
+      default: 
+      long: 
+      short: 
+    month_names: 
+  demo_requests:
+    form:
+      company: Ваша компания
+      email: Ваша бизнес-почта
+      help_message: Чем мы можем Вам помочь?
+      name: Имя
+      other-country-code-phone-hint: 
+      phone: Ваш номер телефона
+      send_message: Отправить запрос
+    headline: Забронировать демонстрацию
+    subline: Забронируйте демонстрацию продукта с нашими специалистами.
+  demo_requests_controller:
+    message_sent_successfully: Спасибо за ваше сообщение. Мы будем на связи как можно
+      скорее.
+  errors:
+    messages:
+      invalid_email_format: не является действительным адресом электронной почты
+  features:
+    best_choice: Лучший выбор
+    enterprise:
+      contact_us: свяжитесь с нами.
+      headline: Крупная компания?
+      optional_available: Больше информации о решениях для крупных компаний
+    groups:
+      automated_communication: Automate
+      change_tracking: Отслеживание изменений
+      context: Context
+      control: Сохраняйте контроль
+      edit_and_organize: Редактировать и организовать
+      integration: интегрировать
+      proofreading_workflows: Proofreading Workflows
+      quality: Улучшить качество
+      special_requirements: Выполнить Compliance
+      user_management: Управление пользователями
+    list:
+      acl:
+        description: <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/user-management"
+          target="_blank">Организуйте свою группу локализации</a> , назначив выделенные
+          роли и права доступа каждому члену команды в соответствии с проектами и
+          языками.
+        title: Управление пользавателями и контроль доступа
+      api:
+        description: Настройте PhraseApp в соответствии с вашим рабочим процессом  <a
+          href="https://help.phraseapp.com/phraseapp-api/phraseapp-api-docs" ="_blank">API</a>.
+          API позволяет импортировать и загружать файлы локали, ключи тегов или взаимодействовать
+          с данными локализации, хранящимися в PhraseApp для вашей учетной записи.
+        title: API
+      autopilot:
+        description: Позвольте PhraseApp <a href="https://help.phraseapp.com/translate-website-and-app-content/let-phraseapp-translate-for-you-using-machine-translation/autopilot"
+          target="_blank">автоматически переводить новый контент</a> с помощью машинного
+          перевода и памяти переводов.
+        title: Autopilot
+      branching:
+        description: Работайте над <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-use-version-control-with-phraseapp/branches"
+          target="_blank">несколькими выпусками и версиями</a> одновременно - как
+          в Git.
+        title: Branching & Versioning
+      cli:
+        description: <a href="https://help.phraseapp.com/setup/set-up-phraseapp-for-any-technology-or-platform/other-technologies"
+          target="_blank">Command Line Tool</a> позволяет быстро перемещаться по проектам
+          и переводам из командной строки, вместо того, чтобы возиться с длинными
+          запросами скручивания. Доступно для Linux, MacOS и Windows.
+        title: Инструмент командной строки
+      comments:
+        description: Сообщите, обсудите или задайте членам команды вопросы относительно
+          конкретных переводов, <a href="https://help.phraseapp.com/" target="_blank">комментируя
+          отдельные ключи</a> .
+        title: Комментарии и упоминания
+      conversion:
+        description: Избегайте испорченных языковых файлов с помощью <a href="https://help.phraseapp.com/"
+          target="_blank">PhraseApp’s validation check</a>.
+        title: Конвертация файлов и проверка синтаксиса
+      formats:
+        description: PhraseApp поддерживает множество способов экспорта и импорта
+          ваших переводов для всех <a href="https://phraseapp.com/docs/guides/formats/"
+          target="_blank">общепризнанных форматов файлов локализации</a>.
+        title: 40+ форматов файлов
+      glossary:
+        description: Оставайтесь последовательными. Наш <a href="https://help.phraseapp.com/improve-translation-quality/use-glossary/translation-glossary"
+          target="_blank">Glossary</a> представляет собой список предопределенных
+          терминов, уникальных для вашего бизнеса, который остается неизменным на
+          всех языках.
+        title: Glossary
+      history:
+        description: Просматривайте предыдущие варианты перевода в <a href="https://help.phraseapp.com/translate-website-and-app-content/phraseapp-translation-editor/translation-editor"
+          target="_blank">History</a>.
+        title: История изменений
+      in_context_editor:
+        description: <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-setup-and-configure-the-phraseapp-in-context-editor-ice/"
+          target="_blank">In-Context Editor</a> может быть интегрирован практически
+          в любое веб-приложение и обеспечивает возможность перевода контента непосредственно
+          на вашем сайте.
+        title: In-Context Editor
+      jobs:
+        description: <a href="https://help.phraseapp.com/manage-translations-and-languages/assign-translation-work-with-jobs/jobs"
+          target="_blank">Распределяйте задачи среди ваших сотрудников, устанавливайте
+          сроки и отслеживайте прогресс.
+        title: Распределение задач
+      mfa:
+        description: Повысьте стандарты безопасности и включите <a href="https://help.phraseapp.com/"
+          target="_blank">2-Factor Authentication</a>, будь то  2FA или маркер доступа
+          OAuth.
+        title: 2-факторная аутентификация (2FA/MFA)
+      notifications:
+        description: Всегда <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/communicate-with-your-team/notifications"
+          target="_blank"> оставайтесь в курсе</a> всех последних изменений в вашем
+          проекте через электронную почту и интегрированный сервис уведомлений PhraseApp.
+        title: 'Email и In-App уведомления '
+      ota:
+        description: Внедряйте свои переводы быстрее и проще, чем когда-либо прежде.  Начните
+          публиковать все свои переводы в режиме реального времени непосредственно
+          в PhraseApp с помощью <a href="https://help.phraseapp.com/phraseapp-over-the-air-ota/phraseapp-over-the-air-introduction"
+          target="_blank">OTA</a>.
+        title: Over the Air (OTA)
+      proofreading:
+        description: Легко реализуйте <a href="https://help.phraseapp.com/translate-website-and-app-content/verify-and-proofread-translations/verification-and-proofreading"
+          target="_blank">рабочий процесс проверки и проверки</a> новых и обновленных
+          переводов.
+        title: Коррекция (Proofreading)
+      repo_sync:
+        description: PhraseApp предлагает нативную <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-use-version-control-with-phraseapp/github-sync"
+          target="_blank">  GitHub и Bitbucket интеграции</a>.
+        title: Синхронизация GitHub и Bitbucket
+      screenshots:
+        description: Больше контекстной информации с помощью <a href="https://help.phraseapp.com/manage-translations-and-languages/manage-keys-efficiently/screenshots"
+          target="_blank">прикрепляемых скриншотов</a> к вашим переводам.
+        title: 'Прикрепляемые скриншоты '
+      search:
+        description: '<a href="https://help.phraseapp.com/manage-translations-and-languages/manage-keys-efficiently/working-more-efficiently-with-tags"
+          target="_blank">Добавляйте множественные теги и отслеживайте какие из них
+          к какой части проекта относятся. '
+        title: Поиск и тэггинг
+      smartsuggest:
+        description: Используйте предложения по переводам в режиме реального времени
+          с помощью Translation Editor. <a href="https://help.phraseapp.com/translate-website-and-app-content/phraseapp-translation-editor/smartsuggest"
+          target="_blank">SmartSuggest</a> ускоряет работу переводчика и повышает
+          общую согласованность.
+        title: SmartSuggest
+      source_copy_editing:
+        description: <a href="https://help.phraseapp.com/manage-translations-and-languages/manage-locales-and-languages/managing-locales-and-languages"
+          target="_blank">Отредактируйте исходные языковые файлы</a> прямо в PhraseApp.
+        title: Редактирование исходных текстов
+      stats:
+        description: <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/reports-and-statistics"
+          target="_blank">Всегда будьте в курсе</a> индивидуальных действий ваших
+          коллег, включая количество переведенных и проверенных слов, ключей и многое
+          другое.
+        title: Статистика по пользователям/языку
+      tm:
+        description: Ускорьте процесс локализации с нашей <a href="https://help.phraseapp.com/improve-translation-quality/use-translation-memory/translation-memory"
+          target="_blank">Translation Memory</a> . Translation Memory запоминает переводы,
+          используемые в ваших проектах, и предлагает соответствующие результаты.
+        title: Translation Memory
+      tracking:
+        description: Будьте в курсе происходящего в ваших проектах, используя <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/reports-and-statistics"
+          target="_blank">мониторинг активности</a> и систему фильтров по пользователям,
+          событиям или временным интервалам.
+        title: Отслеживание активности
+      webhooks:
+        description: Настройте поток уведомлений, позволяя <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-configure-webhooks/webhooks"
+          target="_blank">Webhooks</a> уведомлять внешние службы, такие как клиенты
+          чата, инструменты управления проектами или external API, о событиях или
+          изменениях.
+        title: Интеграция Webhook (например, Slack)
+    names:
+      2fa: 2-факторная аутентификация (2FA/MFA)
+      access_control: Роли пользователей и контроль доступа
+      account_manager: Personal Account Manager
+      advanced_workflows: Расширенные рабочие процессы
+      api_access: API доступ
+      attachable_screenshots: Attachable Screenshots
+      autopilot: Autopilot
+      bitbucket_sync: Bitbucket синхронизация
+      branching: Branching
+      comment_mentionings: Комментарии и упоминания
+      extended_statistics: Статистика по пользователям/языку
+      filterable_activities: Отслеживание активности
+      formats_and_syntax_validation: Формат файла и проверка синтаксиса
+      github_and_bitbucket_sync: 'Синхронизация GitHub & Bitbucket '
+      github_sync: Синхронизация GitHub
+      glossary: Glossary
+      history: История изменений
+      in_context_editor: In-Context Editor
+      jobs: Распределение задач
+      mobile_statistics: Статистика мобильных SDK
+      notifications: Email и In-App уведомления
+      onboarding_support: Onboarding-поддержка
+      on_premise_hosting: 'On-Premise Hosting
+
+'
+      ordering: Заказ перевода
+      ota: С помощью Air Mobile SDK (Android и iOS)
+      pci: PCI DSS Compliance
+      pre_translations: Autopilot переводов
+      proofreading: Simple Review Workflow
+      search_and_tagging: 'Поиск и теггинг '
+      single_sign_on: Получите удобный доступ к PhraseApp через SAML с выбранным поставщиком
+        удостоверений.
+      sketch: 
+      sla: Соглашение об уровне услуг
+      smart_suggestions: SmartSuggest
+      source_copy_editing: Редактирование исходных файлов
+      support: Online поддержка
+      translation_memory: Translation Memory
+      verification_system: Система верификации
+      webhook_integrations: Интеграция Webhook (например, Slack)
+      workflow: Advanced Review Workflow
+    package_prices_per_user_per_month: "%{price} на пользователя/в месяц"
+    sections:
+      developer_centric:
+        description: PhraseApp понимает потребности разработчиков. Поэтому мы обеспечиваем
+          быстрый и надежный импорт и экспорт языковых файлов, универсальный API,
+          специализированный инструмент для работы с CLI, поддержку более 40 форматов
+          файлов, Branching и многое другое!
+        items:
+          api: Мощный API
+          branching: Branching & Versioning
+          cli: CLI Tool
+          formats: 40+ форматов файлов
+          repo_sync: Repository Sync
+          webhooks: Webhooks
+        title: Для разработчиков
+      formats:
+        description: Мы поддерживаем все распространенные форматы файлов локализации,
+          платформы и языки программирования.
+        title: Формат данных
+      getting_things_done:
+        description: Организуйте локализацию ПО через диспетчер задач непосредственно
+          в PhraseApp. Автоматически уведомляйте всех членов команды о необходимости
+          перевода или же о его завершении. Контролируйте процесс, отчетность и статистику
+          в режиме реального времени.
+        items:
+          jobs: Распределение задач
+          notifications: Уведомления и комментарии
+          proofreading: Proofreading
+          stats: Отслеживание прогресса
+        title: Полный контроль
+      workflow:
+        description: Создавайте готовые к работе интеграционные системы, от компонентов
+          React до Webhooks, используя самые современные инструменты в режиме реального
+          времени.
+        title: Более быстрый процесс перевода
+    table_head:
+      description:
+        column-1: Все преимущества нашей платформы.
+        column-2: Основы для начала упрощенного процесса локализации.
+        column-3: Повысьте качество и согласованность своих переводов.
+        column-4: Получите контроль над сложными процессами локализации.
+    tooltips:
+      2fa: Установите высокие стандарты безопасности используя двухфакторную аутентификацию.
+      access_control: 'Организуйте свою команду: назначайте каждому сотруднику свою
+        роль и права доступа индивидуально для каждого проекта.'
+      account_manager: Премиум-поддержка от Вашего личного менеджера.
+      advanced_workflows: Автоматически фильтруйте новый или обновленный перевод.
+        Перепроверяйте обновленные данные повышая качество перевода.
+      api_access: Настройте PhraseApp для вашего рабочего процесса через наш API.
+      attachable_screenshots: Максимируйте контекстную информацию, прикрепляя скриншоты
+        к файлам перевода.
+      autopilot: Позвольте PhraseApp автоматически переводить новый контент с помощью
+        Machine Translation и Translation Memory.
+      bitbucket_sync: Синхронизируйте проекты PhraseApp с вашими Bitbucket-репозиториями
+        без особых усилий.
+      branching: Работайте над несколькими выпусками и версиями одновременно - как
+        в Git.
+      comment_mentionings: 'Всегда работайте с вашей командой напрямую: ставьте вопросы
+        касательно конкретных переводов или ключей с помощью функции комментариев.'
+      extended_statistics: Всегда будьте в курсе действий членов вашей команды. Контролируйте
+        количество переведенных и проверенных слов, ключей и многое другое.
+      filterable_activites: Отслеживание изменений
+      filterable_activities: Будьте в курсе того, что происходит в ваших проектах,
+        отслеживая все последние действия и фильтруя их по пользователям, событиям
+        или определенным временным интервалам.
+      formats_and_syntax_validation: 'Избавляйтесь от поврежденных файлов с помощью
+        функции валидирования. '
+      github_and_bitbucket_sync: PhraseApp предлагает встроенную интеграцию с GitHub
+        и Bitbucket.
+      github_sync: Интегрируйте PhraseApp напрямую с GitHub, чтобы автоматически импортировать
+        изменения в языковые файлы в PhraseApp и экспортировать их одним кликом.
+      glossary: Обеспечьте последовательную коммуникацию на всех языках. Наш глоссарий
+        представляет собой набор фиксированных терминов, которые являются неизменными
+        для всех языков.
+      history: Будьте в курсе всех изменений в ваших переводах, используя функцию
+        истории изменений.
+      in_context_editor: Переведите прямо на вашем сайте и просматривать все переводы
+        в их актуальном контексте.
+      jobs: Распределяйте задачи среди ваших сотрудников, устанавливайте сроки и отслеживайте
+        прогресс.
+      mobile_statistics: Получите представление о запросах и языках приложений ваших
+        мобильных пользователей и узнайте, какие языки вам  необходимо добавить.
+      notifications: Будьте в курсе событий и получайте все соответствующие уведомления
+        о последних изменениях в ваших проектах, непосредственно внутри интерфейса
+        PhraseApp и по электронной почте.
+      onboarding_support: Предоставление вам персональной помощи на протяжении всего
+        процесса настройки PhraseApp, включая демонстрацию отдельных продуктов и технических
+        средств интеграции.
+      on_premise_hosting: Используйте PhraseApp в качестве Docker-контейнера в своей
+        инфраструктуре.
+      ordering: Работайте с собственной командой переводчиков или пользуйтесь профессиональными
+        услугами наших партнеров.
+      ota: Предварительно просматривайте Ваши мобильные переводы напрямую из интерфейса
+        PhraseApp.
+      pci: Гарантия безопасности ваших платежных данных согласно международных стандартов.
+      pre_translations: Позвольте PhraseApp автоматически переводить новый контент
+        с помощью машинного перевода и Translation Memory.
+      proofreading: Легко реализуйте рабочий процесс проверки и проверки новых или
+        обновленных переводов.
+      search_and_tagging: Отслеживайте и отфильтровывайте переводы по тегам.
+      single_sign_on: Получите удобный доступ к PhraseApp через SAML с выбранным поставщиком
+        удостоверений.
+      sketch: 
+      sla: "Наш высочайший уровень работоспособности, обеспечивает вам \nмаксимальную
+        стабильность работы PhraseApp."
+      smart_suggestions: 'Используйте SmartSuggest во время работы в PhraseApp Translation
+        Editor. Это позволит ускорить вашу работу по переводу сохраняя общую концепцию. '
+      source_copy_editing: Отредактируй исходные языковые файлы прямо в PhraseApp.
+      support: Наша опытная команда поддержки быстро решит любую проблему, с которой
+        вы столкнетесь, и решит все проблемы на индивидуальном уровне.
+      translation_memory: Ускорьте процесс локализации с помощью Translation Memory.
+        Данная функция позволяет запоминать переводы, использованные в Ваших проектах
+        ранее и применять их для новых проектов.
+      verification_system: Автоматически уведомляйте переводчиков об изменениях в
+        исходниках и запрашивайте редактирование переведенных файлов для максимально
+        качественного перевода.
+      webhook_integrations: Настройте уведомления, позволяя Webhooks уведомлять внешние
+        службы, такие как клиенты чата, инструменты управления проектами или внешние
+        API о событиях или изменениях.
+      workflow: Advanced Verification Workflow позволяет вам назначать специальных
+        переводчиков и рецензентов.
+    your_choice: Ваш выбор
+  general:
+    beta: Бета-версия
+    check_out_the_live_demo: Посмотреть демонстрацию
+    coming_soon: Ожидайте вскоре
+    cta:
+      get_a_demo: Забронировать демонстрацию
+    new: Новый
+    read_more: Прочитайте больше
+    see_details_in_our_documentation: Подробнее см. в нашей документации
+    trial:
+      start_your_free_trial: Пробная версия
+      subline: Быстрая настройка. Пробный пакет на 14 дней с полным функционалом PhraseApp.
+      teaser_headline: Время испытать PhraseApp
+    users: Пользователи
+    we_are_hiring: Присоединяйся!
+  home:
+    cli:
+      available_on_github: скачать с GitHub
+      free_download: Загрузить
+      headline: Интегрируйте PhraseApp API в ваш терминал используя  PhraseApp CLI.
+      learn_more: Узнать больше
+      meta_description: Инструмент PhraseApp CLI предоставляет доступ к нашему API
+        через интерфейс командной строки вашей платформы. Синхронизируйте файлы локали
+        с вашим репозиторием исходного кода или интегрируйте PhraseApp в процесс сборки.
+      page_title: Загрузить PhraseApp CLI Tool
+      step1_headline: 1. Загрузить и установить
+      step1_text: Загрузите клиент с %{link}и установите его.<br> В Mac OS X альтернативой
+        может быть следующая установка:</br>
+      step2_headline: 2. Инициализировать
+      step2_text: Используйте команду %{command} для инициализации и настройки вашего
+        проекта.
+      step3_headline: 3. Загрузить
+      step3_text: Используйте команду %{command} для загрузки существующих файлов
+        перевода.
+      sub_headline: PhraseApp CLI позволяет быстро перемещаться по своим проектам
+        и переводам с помощью командной строки. Доступно для Linux, Mac OS X и Windows.
+      view_on_github: Показать в GitHub
+    enterprise:
+      account_manager_text: Даже за пределами первоначальной настройки, мы всегда
+        на вашей стороне и сопровождаем вас и вашу команду с центральным контактным
+        лицом, который быстро и несложно заботится о любых проблемах.
+      account_manager_title: Personal Account Manager
+      availability_description: Простая установка PhraseApp On-Premise внутри собственной
+        cloud инфраструктуры. PhraseApp On-Premise - это наше Cloud Solution, упакованное
+        в виде контейнера Docker, которым можно управлять внутри собственной сети.
+      availability_headline: Корпоративный уровень при скорости стартапа
+      get_in_touch: Свяжитесь с нашим отделом продаж
+      headline: Работайте с PhraseApp в собственном центре обработки данных.
+      integrate_text: Предоставленный на основе виртуальных изображений на базе Docker,
+        PhraseApp On-Premise легко подключается к вашей локальной инфраструктуре.
+      integrate_title: Простая установка
+      meta_description: PhraseApp локально - это PhraseApp внутри вашей хостинг-инфраструктуры
+        или вашего облачного провайдера. PhraseApp поддерживает Azure, Amazon AWS
+        и Google Cloud Platform.
+      page_title: Перевод ПО в рамках собственное инфраструктуры.
+      secure_desc: 'За брандмауэром вашей компании, работая на ваших серверах и в
+        базе данных: Используя PhraseApp On-Premise, вы сохраняете контроль над всеми
+        своими данными.'
+      secure_headline: Сохранение полного контроля
+      security_description: PhraseApp On-Premise является идеальным решением для организаций
+        со строгими правилами хранения данных. Он легко интегрируется в вашу IT-инфраструктуру,
+        за брандмауэром вашей компании. С PhraseApp On-Premise вы сохраняете контроль
+        над всеми своими данными.
+      security_headline: Суверенитет данных
+      support_description: Наш сервис и высококлассная поддержка направлены на успех
+        вашей команды. Мы предлагаем обширную документацию, обучающие программы по
+        интеграции и персональную поддержку, когда это необходимо.
+      support_headline: Эксклюзивная поддержка
+      support_text: Мы стремимся к успеху вашей команды и поддерживаем вас как корпоративного
+        клиента на протяжении всего этапа установки.
+      support_title: Обучение и тренировка
+      translate_on_infrastructure: Решение по управлению переводами на вашем собственном
+        оборудовании c защитнoй систеeмoй вашей компании. Сотрудничайте с вашей командой,
+        найдите профессиональных переводчиков и оставайтесь на вершине процесса.
+      trusted_by: 'Более 1000 компаний по всему миру уже оценили PhraseApp. '
+    index:
+      boost_localization:
+        api_headline: API
+        api_text: Наш API разработан соответсвенно специфики локализации программного
+          обеспечения. Импорт-/экспортируйте файлы локализации и различные тэги, а
+          также используйте интегрированные решения PhraseApp API.
+        editor_headline: Редактор переводов
+        editor_text: Эффективное управление переводами с максимальным контекстом -
+          это то,  для чего был создан Translation Editor. Работайте быстрее, используя
+          правильные инструменты от PhraseApp.
+        features: Узнайте больше о возможностях PhraseApp
+        headline: У нас есть все необходимое для начала работы.
+        integrations_headline: Интеграция
+        integrations_text: Запросы каждой команды индивидуальны. Предоставляя различные
+          возможности интеграции, такие как наш API, Over the Air и синхронизация
+          с GitHub, вы можете легко интегрировать PhraseApp в ваш рабочий процесс.
+        quality_headline: Качество
+        quality_text: PhraseApp предлагает целый ряд функций, разработанных для улучшения
+          качества и последовательности перевода, включая Glossary, Translation Memory,
+          Context Editor, SmartSuggest и многое другое.
+        tagline: PhraseApp - это сосредоточие силы команд по локализации со всего
+          мира. Благодаря нашему продукту переводы совершаются многократно быстрее
+          и проще, чем когда-либо ранее.
+      customer_logos_tagline: 1000+ компаний уже доверились PhraseApp
+      features:
+        developer: Разработчик
+        headline: Локализация программного обеспечения, которая работает для всех.
+        manager: Проект-менеджер
+        tagline: PhraseApp - это платформа управления переводами, разработанная под
+          каждого члена вашей команды.
+        translator: Переводчик
+      quote_slider:
+        headline: Почему наши клиенты любят PhraseApp
+        read_study: Прочитать кейс полностью
+      references:
+        headline: 'Более 1000 компаний по всему миру уже оценили PhraseApp. '
+        tagline: Увеличение доли на рынке, сокращение времени выхода на рынок и интуитивность
+          в использовании - вот лишь некоторые из причин, по которым многие компании
+          используют PhraseApp для локализации своих продуктов.
+      slogan: Локализация, которая работает
+      slogan_tagline: 'Попрощайтесь с огромными таблицами, длительной перепиской по
+        электронной почте, сломанными языковыми файлами, недостачей контекста, непрозрачностью
+        процессов, и остальными факторами усложняющими процесс локализации.
+
+'
+      submit_button_label: Пробная версия
+      testimonials:
+        kreditech:
+          author_name: Ricardo Vidal
+          author_position: Senior Vice President at Kreditech
+          quote: '"PhraseApp является важной частью успешной международной экспансии
+            Kreditech, как на уровне страны, так и на уровне продукта".'
+        uship:
+          author_name: Ed Vinyard
+          author_position: Leading Software Architect в uShip
+          quote: '"PhraseApp - это наиболее дружелюбное к разработчикам решение на
+            рынке для непрерывного развертывания проектов локализации ".'
+    jobs:
+      apply_now_label: Подать заявку
+      benefits:
+        headline: Ваши приймущества
+      benifits:
+        expertise:
+          headline: Обменивайтесь опытом с профессионалами своего дела
+          text: Мы постоянно развиваемся и стремимся всегда делиться знаниями внутри
+            нашей команды. Обменивайтесь опытом с экспертами по разработке ПО и локализации
+            и вносите свой вклад в развитие компании.
+        flexible:
+          headline: Горизонтальная иерархия, работа в которой приносит удовольствие
+          text: Работайте в профессиональной среде, где есть место и продуктивности
+            и удовольствию. Мы поддерживаем друг друга и предоставляем свободу, необходимую
+            для эффективной работы.
+        free_drinks:
+          headline: Бесплатные напитки и фрукты
+          text: Наслаждайся нашей кухней со всем необходимым и местом для обеда. Кроме
+            того, всегда есть бесплатные напитки и фрукты для здорового питания.
+        hierarchy:
+          headline: Прогрессивная система иерархии
+          text: Мы структурированы в гибкой самоорганизующейся системе, которая поощряет
+            каждого члена команды вносить свой вклад и полностью раскрывать свои творческие
+            способности, личные навыки и таланты.
+        latest_technology:
+          headline: Работа с новейшими технологиями
+          text: Мы постоянно работаем с новейшими технологиями в области разработки
+            программного обеспечения, стремимся к высочайшему качеству кода и заботимся
+            о своих сотрудниках.
+        location:
+          headline: Хороший и идеально расположенный офис пентхауса
+          text: Работайте в нашем уютном, просторном, дизайнерском офисе, расположенном
+            в центре Гамбурга. Каждому предоставляется свое место для отдыха, размышлений
+            и сотрудничества.
+        team_events:
+          headline: Регулярные корпоративные мероприятия
+          text: Нам определенно нравится наша терраса на крыше с панорамным видом
+            на Гамбург. Будь то хорошее старое барбекю с холодным пивом или хороший
+            завтрак, мы хотели бы собраться вместе после работы.
+        work_with:
+          headline: 'Работайте с профессионалами '
+          text: Станьте частью молодой, динамичной команды замечательных, непредвзятых
+            людей, которые обладают собственными навыками и талантами, но объединены
+            одной и той же страстью к построению чего-то большего.
+      core_value:
+        be_friendly_helpful: Дружелюбие и готовность помочь
+        be_open_awesome: Будьте открыты для новых идей
+        move_fast_agile: Более быстрый процесс
+        stay_hungry_challenging: Продолжайте повторять
+        think_ahead_outstanding: Думать вперед
+        trust_yourself_others: Доверься себе и другим
+      core_values:
+        headline: 'Наши ценности '
+        text: В PhraseApp мы придерживаемся нескольких простых ценностей, которые
+          направляют нас в нашей повседневной деятельности.
+      employee:
+        david: "«Опыт потрясающий, когда мы все растем вместе!»"
+        fabian: '"Это так здорово, иметь так много возможностей для безграничных исследований
+          новых и удивительных технологий."'
+        jannis: '"Как и в спорте, ваш результат во многом зависит от команды. Я счастлив
+          быть частью такой замечательной команды и достигать большего вместе с PhraseApp!"'
+        kathryn_ross: 
+        manuel: '"Очень приятно каждый день облегчать работу инженерно-технических
+          команд по всему миру."'
+        tim: '"Поскольку у нас такая непредвзятая и талантливая команда, рабочий день
+          всегда протекает в веселой и непринужденной атмосфере"'
+        tina_heit: 
+        ziwei_liu: 
+      jobs: Присоединяйтесь к PhraseApp!
+      meta_description: 'Присоединяйтесь к команде PhraseApp в качестве маркетолога,
+        разработчика Ruby / Go или станьте частью нашегo отделa сбы́та . '
+      positions:
+        headline: Вакансии PhraseApp
+        initiative:
+          headline: Не нашли нужную вам должность?
+          text: 'Свяжитесь с нами и мы придем к компромиссу! '
+      subline: Станьте частью нашей команды и сделайте локализацию ПО более эффективной,
+        разрабатывая быстрое, простое и прозрачное решение по управлению переводами.
+      view_current_openings: Просмотр текущих вакансий
+      what_our_employees_say:
+        headline: Что говорят наши сотрудники
+    on_premise:
+      contact:
+        teaser_headline: Узнайте о PhraseApp On-Premise
+        teaser_tagline: " Внутри собственной облачной инфраструктуры, Cуверенитет
+          данных, Премьер-поддержка"
+      features_headline: Предприятия любят PhraseApp
+    voucher:
+      messages:
+        success: Ваучер успешно активирован. Вы можете ввести свой персональный код
+          при первом заказе.
+  job_applications:
+    create:
+      success_message: Ваша заявка была успешно отправлена!
+  landingpage:
+    home:
+      enterprise:
+        get_in_touch: Свяжитесь с нами
+  layouts:
+    application:
+      contacts:
+        new:
+          page_title: Свяжитесь с командой PhraseApp
+      demo_requests:
+        new:
+          page_title: Забронировать демонстрацию
+      home:
+        index:
+          page_title: 'PhraseApp: система управления переводами программного обеспечения'
+          schema_contact_option: Локализация ПО, веб-сайта и приложений
+        jobs:
+          page_title: Мы нанимаем сотрудников в Гамбурге.
+      pages:
+        about:
+          page_title: О сервисе PhraseApp
+        demo:
+          page_title: PhraseApp в действии
+        features:
+          page_title: Простое управление переводами
+        features_developers:
+          page_title: Самая ориентированная на разработчиков платформа локализации
+        features_managers:
+          page_title: Лучший опыт локализации программного обеспечения
+        features_translators:
+          page_title: Отличный инструмент для переводчиков
+        imprint:
+          page_title: Дополнительно
+        pricing:
+          page_title: Тарифы PhraseApp
+        privacy:
+          page_title: Политика конфиденциальности
+        terms:
+          page_title: Условия использования
+      page_title: PhraseApp - это программное обеспечение для менеджмента переводов
+        созданное для веб-сайтов и мобильных приложений.
+      user_requests:
+        new:
+          page_title: Свяжитесь с командой PhraseApp
+  meta:
+    description: 'Автоматизируйте процесс перевода и сэкономьте 60% рабочего времени.
+      Редактируйте языковые файлы онлайн со своей командой или закажите переводы у
+      наших партнёров. '
+  packages:
+    description:
+      control: Контролируйте комплексные процессы
+      core: 'Базовый функционал, необходимый для запуска процесса <br>локализации</br>.
+
+'
+      quality: Повысьте качество перевода.
+    feature_teaser:
+      control: Система верификации, усовершенствованные рабочие процессы, отчетность
+        и <a data-turbolinks="false" data-anchor="#control-features" href="#">more</a>
+      core: |-
+        Неограниченное количество слов, API, заказ переводов,
+         онлайн-поддержка и <a data-turbolinks="false" data-anchor="#core-features" href="#">многое другое</a>.
+      quality: <a data-turbolinks="false" data-anchor="#quality-features" href="#">more</a>
+    intro:
+      header: Три пакета. Твой выбор.
+      text: Составьте свой план в соответствии с вашими собственными пожеланиями.
+        Начните с базового тарифного плана и добавляйте необходимый функционал по
+        необходимости. Используйте потенциал PhraseApp полностью.
+  pages:
+    about:
+      about: О сервисе PhraseApp
+      blog:
+        cta: Другие статьи
+      customer-stories:
+        headline: Истории успеха
+        paragraph: Узнайте, как другие компании используют PhraseApp для налаживания
+          более прочных отношений со своими клиентами и изменения способов ведения
+          бизнеса.
+      for_software_creators_translating: Для создателей программного обеспечения перевод
+        их продуктов должен быть природным и простым.
+      from_our_blog:
+        headline: Из нашего блога
+      get_social: PhraseApp в социальных сетях
+      meta_description: PhraseApp начинался как прототип под названием «фраза». PhraseApp
+        в настоящее время обслуживает сотни предприятий в более чем 40 странах и быстро
+        растет.
+      mission-paragraph: Мы помогаем командам локализации по всему миру становиться
+        более продуктивными, предоставляя более быстрое и прозрачное решение для локализации
+        ПО.
+      misson-headline: 'Наша миссия: безболезненная локализация ПО.'
+      our-team: Познакомьтесь с нашей замечательной командой.
+      our_team:
+        and_you:
+          text: Присоединяйтесь к нам
+          title: Может быть Ты?
+      phraseapp-story-1: '"Платформа должна быть доступна через 4 недели", - сказал
+        нам инвестор строящейся нами платформе бронирования путешествий. Затем он
+        добавил: "Она должна быть доступна на 24 языках." В то время наша команда
+        имела опыт разработки программного обеспечения для быстрорастущих стартапов,
+        но темпы интернационализации были быстрыми даже для нас. Поиск продукта, который
+        мог бы облегчить локализацию нашего программного обеспечения в таком масштабе,
+        был бесплоден. Поэтому, мы решили создать приложение, позволяющее переводчикам
+        локализовать разработки  непосредственно во время просмотра платформы. Контекстуальное
+        редактирование мгновенно ускорило наш процесс и в конечном итоге стало основой
+        нашего In-Context Editor.'
+      phraseapp-story-2: Мы показали его коллегам-разработчикам и получили много положительных
+        отзывов о том, что с удовольствием будут использовать его в своих проектах.
+        Так, в конце 2011 года идея создания платформы локализации на основе созданных
+        нами инструментов превратилась в прототип PhraseApp.
+      phraseapp-story-3: 'Год спустя у нас появлялось все больше клиентов, и мы превратили
+        инструмент в платформу, предлагая API, инструменты интеграции и поддержки
+        рабочих процессов для полного процесса локализации. Наша цель стала ясной:
+        мы должны решить проблему локализации для разработчиков программного обеспечения
+        и стремиться к еще более простым решениям типичных задач как для менеджеров
+        по локализации, так и для переводчиков программного обеспечения.'
+      phraseapp-story-4: 'Наша миссия: постоянное стремление исключить ненужные шаги
+        из процесса локализации и максимально упростить локализацию ПО. PhraseApp
+        быстро развивается и в настоящее время обслуживает сотни предприятий в более
+        чем 60 странах мира.'
+      stats:
+        countries:
+          label: страны
+          value: 60+
+        languages:
+          label: разные языки
+          value: 145+
+        translated_words:
+          label: миллион переведённых слов
+          value: 260+
+        users:
+          label: Пользователи PhraseApp
+          value: 30k+
+      story: История появления PhraseApp
+      subline: PhraseApp - это самый простой способ локализации вашего сайта или мобильного
+        приложения. Клиенты по всему миру полагаются на PhraseApp как на наиболее
+        комплексное и удобное для разработчиков решение по управлению переводоми.
+      we_believe_in_a: Мы убеждены, что возможность использования программное обеспечение
+        на своем родном языке должна быть у каждого.
+    customers:
+      customer_story:
+        comdirect:
+          company: 
+        companies: Компании
+        company: Компания
+        cvent:
+          company: 
+          headline: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          headline_5: 
+          headline_6: 
+          headline_7: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_11_1: 
+          p_11_2: 
+          p_11_3: 
+          p_11_4: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: Кроме того, для управления переводами в Cvent требовались такие функции
+            как история изменений и контекстное редактирование, что значительно облегчило
+            бы жизнь как разработчикам, так и переводчикам.
+          quote1:
+            author_position: 
+            text: 
+          result_1: 
+          result_2: 
+          result_3: 
+        download: Скачать бизнес-кейс
+        fair-trade-usa:
+          benefits:
+            headline: 
+            p_1: 
+            p_2: 
+            p_3: 
+            subhead: 
+          challenge:
+            headline: 
+            p_1: 
+            p_2: 
+            p_3: 
+            subhead: 
+          company: 
+          headline: 
+          introduction:
+            headline: 
+            p_1: 
+          quote1:
+            author_position: 
+            text: 
+          result_1: 
+          result_2: 
+          result_3: 
+          solution:
+            headline: 
+            p_1: 
+            p_2: 
+            p_3: 
+            p_4: 
+            subhead: 
+          stats:
+            countries:
+              label: 
+              value: 
+            partners:
+              label: 
+              value: 
+            process_time:
+              label: 
+              value: 
+            reached:
+              label: 
+              value: 
+        familo:
+          '1': 
+          '10': 
+          '11': 
+          '12': 
+          '13': В результате усилий FAMILO по глобальному расширению за счет использования
+            PhraseApp команда увидела ошеломляющий рост числа новых пользователей
+            на 400% и смогла расширить свой бизнес в международном масштабе. Хотя
+            действия FAMILO были всеобъемлющими и стратегическими, компания также
+            выражает благодарность PhraseApp за предоставление им практических инструментов
+            для внесения ощутимых улучшений. Этот результат позволил получить полезную
+            контекстную информацию, позволил легко оставаться на вершине процесса,
+            помог сократить административные расходы и улучшить общее качество перевода.
+          '14': 
+          '15': 
+          '2': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': PhraseApp предложил комплексное решение
+          '8': 
+          '9': 
+          author:
+            name: 
+            position: 
+          headline: 
+          result_1: 
+          result_2: 
+          result_3: 
+        features_used: Использованные функции
+        headline: Наши клиенты
+        kreditech:
+          '1': 
+          '10': 
+          '11': 
+          '12': 
+          '2': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          author:
+            position: Senior Vice President & Head of Product Management Kreditech
+          company: 
+          headline: 
+          quote: '"PhraseApp сыграл важную роль в успешном выходе Kreditеch на мировой
+            рынок, как с точки зрения экспансии на новые рынки, так и с точки совершенствования
+            продукта".'
+          results:
+            '1': Выход на рынок и релизы обновлений теперь быстрее
+            '2': 
+            '3': 
+        livestorm:
+          company: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_16: 
+          p_2: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: 
+            text: 
+          result_1: 
+          result_2: 
+          result_3: 
+        njiuko-comdirect:
+          headline: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          headline_5: 
+          headline_6: 
+          headline_7: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_16: 
+          p_17: 
+          p_18: 
+          p_19: 
+          p_2: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: Для Njiuko стало очевидно, что PhraseApp может стать идеальным решением
+            проблемы голосового помощника.
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: 
+            text: 
+          quote2:
+            author_position: 
+            text: 
+          result_1: 
+          result_2: 
+          result_3: 
+        njiuko:
+          company: 
+        results: Результаты
+        stats:
+          countries: страны
+          first: 1st
+          in_german_banking: В немецком банковском деле
+          languages: языки
+          localization_costs: Затраты на перевод
+          markets: Рынки
+          needed_manpower: труд. ресурсы
+          process_time: время процесса
+          projects: l10n проекты
+          recognized_queries: распознанные запросы
+          saved_per_release: Экономия в среднем за один релиз
+          team_size: команда l10n
+          users_since_phraseapp: к-во пользователей после PhraseApp
+          words: Слов
+        the_conversation:
+          '1': 
+          '10': 
+          '11': 
+          '12': 
+          '13': 
+          '14': 
+          '15': 
+          '16': 
+          '17': 
+          '2': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          company: 
+          headline: 
+          quote_author_name: 
+          quote_author_position: 
+          result_1: 
+          result_2: 
+          result_3: 
+        uship:
+          '1': 
+          '10': 
+          '11': 
+          '12': 
+          '13': 
+          '14': 
+          '15': 
+          '16': 
+          '17': 
+          '18': 
+          '19': 
+          '2': 
+          '20': 
+          '23': 
+          '24': 
+          '25': 
+          '26': 
+          '27': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          author_name: 
+          author_position: 
+          company: 
+          headline: 
+          result_1: 
+          result_2: 
+          result_3: 
+          result_4: 
+        xing:
+          company: 
+          headline: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          headline_5: 
+          headline_6: 
+          headline_7: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_2: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: 
+            text: 
+          result_1: 
+          result_2: 
+          result_3: 
+      cvent:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      fair-trade-usa:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      familo:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      features:
+        api:
+          description: API позволяет импортировать файлы локали, загружать файлы локали,
+            теги ключей или взаимодействовать другими способами с данными локализации,
+            сохраненными в PhraseApp для вашей учетной записи.
+          name: API
+        buy_translations:
+          description: Вы можете работать с собственной командой переводчиков или
+            просто заказать профессиональные переводы у наших партнеров по переводу.  Добавить
+            новые языки возможно в течение нескольких часов.
+          name: Купить перевод
+        integration:
+          description: 'Сделайте процесс локализации непрерывным с помощью PhraseApp.
+            Мы предлагаем полнофункциональный API, позволяющий интегрировать наш сервис
+            в ваш рабочий процесс. '
+          name: Интеграция в различные среды разработки
+        in_context_editor:
+          description: Будучи оптимальным способом работы для переводчиков, In-Context
+            Editor работает с наиболее популярными веб-фреймворками и обеспечивает
+            идеальный контекстный перевод вашего программного обеспечения непосредственно
+            на сайте.
+          name: In-Context Editor
+        jobs:
+          description: 'Jobs - это отличный способ распределить нагрузку для вашей
+            команды. Вы определяете кому и над чем работать, придерживаясь при этом
+            установленных сроков. '
+          name: Распределение задач
+        notifications:
+          description: Уведомления - отличный способ общаться с коллегами, чтобы они
+            знали, что происходит в проекте. Вы можете подписаться на определенные
+            события, и мы уведомим вас напрямую в PhraseApp и, при необходимости,
+            по электронной почте.
+          name: Уведомления
+        projects:
+          description: Поскольку программные проекты растут и становятся все более
+            сложными, это помогает разделить их на модули, чтобы управлять ими. То
+            же самое относится и к локализации программных проектов.
+          name: Несколько проектов
+        translation_memory:
+          description: Запоминает переводы, используемые в ваших проектах, и предлагает
+            сопоставить результаты при переводе контента. Это ускоряет процесс перевода
+            и улучшает согласованность текстов и проектов.
+          name: Translation Memory
+        user_management:
+          description: Работайте вместе с менеджерами, разработчиками, переводчиками
+            или же пользователями сообществ. Приглашайте для коллаборации столько
+            пользователей, сколько необходимо.
+          name: Управление пользователями
+        verification_system:
+          description: Автоматически уведомляйте своих переводчиков об изменениях
+            в исходном языке и запрашивайте пересмотр переведенных ключей для обеспечения
+            согласованного общения на всех языках.
+          name: Система верификации
+      kreditech:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      livestorm:
+        excerpt: Процесс локализации намного более упорядочен, что значительно облегчает
+          выпуск новых версий и добавление новых локалей.
+        headline: 
+        meta_description: 
+        page_title: 
+        subline: 
+        type: 
+      meta_description: Множество компаний уже используют PhraseApp для построения
+        более тесных отношений со своими клиентами путем улучшения их локализации.
+      njiuko-comdirect:
+        excerpt: 
+        headline: 
+        meta_description: 
+        page_title: 
+        subline: 
+        type: 
+      page_title: Истории клиентов
+      read_casestudy: Читать полный пример
+      read_more: Подробнее
+      the_conversation:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: B2C Media Web Application
+      uship:
+        headline: 
+        meta_description: 
+        page_title: История UShip
+        type: 
+      xing:
+        excerpt: 
+        headline: 
+        meta_description: 
+        page_title: 
+        subline: 
+        type: 
+    demo:
+      api_documentation: Документация API
+      in_context_editor: In-Context Editor
+      in_context_editor_demo: 'Демонстрация In-Context Editor '
+      localization_api: Локализация API
+      meta_description: PhraseApp Translation Center, In-Context Editor and редактор
+        API в действии
+      our_api_lets_you: С помощью нашего API вы можете интегрировать собственные рабочие
+        процессы и настроить PhraseApp в соответствии с вашими потребностями.
+      password_label: Пароль
+      phraseapp_in_action: PhraseApp в действии
+      run_command: Запустить в браузере
+      the_phraseapp_in_context: In-Context Editor oт PhraseApp можно интегрировать
+        практически в любое веб-приложение и предоставляет возможность переводить
+        контент прямо на ваш сайт.
+      the_translation_center_is: The Translation Center является основой продукта
+        PhraseApp. Веб-интерфейс позволяет управлять вашими проектами независимо от
+        платформ.
+      the_translation_odering_works: Вы можете работать с собственной командой переводчиков
+        или просто заказать профессиональные переводы у наших партнеров по переводу.
+        Добавить новые языки теперь возможно в течение нескольких часов.
+      translation_center: 'Translation Center '
+      translation_center_demo: Translation Center Demо
+      translation_center_in_context: Translation Center, In-Context Editor, API
+      translation_odering: Услуги переводчика
+      translation_odering_demo: Подробнее
+      user_label: Пользователь
+    features:
+      40_formats: Форматы данных
+      api: API
+      autopilot_headline: Autopilot
+      branching_support: Branching & Versionierung
+      cli: Command Line Tool
+      comments: Комментарии
+      editor: 'Translation Editor
+
+'
+      email_app_notifications: 'Email и In-App уведомления '
+      feature_list_headline: У нас есть все необходимое для начала работы.
+      formats:
+        show_all: Показать все форматы
+      format_finder:
+        cta: Найдите подходящий формат локализации для вашего фреймворка с помощью
+          нашего <a href="%{format_finder_path}">Format Finder</a>.
+      history: История изменений
+      in_context_editor: In-Context-Editor
+      jobs: Распределение задач
+      meta_description: 'Ваше решение для управления переводом веб- и мобильных приложений.
+        Оптимизируйте рабочий процесс своей команды, пользуйтесь услугами профессиональных
+        переводчиков и всегда оставайтесь в курсе происходящего.
+
+'
+      oneclick_headline: 'One-click переводы
+
+'
+      oneclick_text: Работайте с собственной командой переводчиков или пользуйтесь
+        профессиональными услугами наших партнеров.
+      ota: Over the Air (OTA)
+      proofreading: Коррекция (Proofreading)
+      repository_sync: GitHub and Bitbucket Sync
+      search_key_tagging: 'Поиск и теггинг '
+      slogan: Локализация без усилий всего вместе с PhraseApp
+      slogan_tagline: Узнайте как навсегда решить проблему локализации воспользовавшись
+        приложением PhraseApp - самым передовым решением на рынке.
+      statistics_per_locale: Статистика по пользователям/языку
+      user_roles: Управление пользавателями и контроль доступа
+      versioning_headline: Branching & Versioning
+      versioning_text: Автоматически синхронизируйте проекты PhraseApp с GitHub и
+        Bitbucket и работайте над несколькими версиями одновременно.
+      webhook: Webhooks
+      workflow_gallery:
+        dashboard:
+          link: Dashboard
+          text: Dashboard  предоставляет всю информацию о проекте. Здесь вы можете
+            следить за ходом выполнения ваших задач, общим прогрессом проекта и многое
+            другое!
+        project_overview:
+          link: Обзор проекта
+          text: Project Overview - это главная страница для всех ваших проектов локализации.
+            С ее помощью вы можете организовать все переводы, связанные с конкретным
+            проектом, управлять правами доступа, добавить скриншоты и многое другое.
+        translation_editor:
+          link: Translation Editor
+          text: 'Translation Editor позволяет искать переводы, управлять ключами и
+            выполнять фактическую работу по переводу. Во время перевода он предоставляет
+            полезную метаинформацию и помогает переводчикам и менеджерам быстро переводить
+            контент без потери внимания. '
+    features_developers:
+      meta_description: Удобная локализация для разработчиков
+    features_managers:
+      meta_description: Лучший опыт локализации программного обеспечения
+    features_translators:
+      meta_description: Оптимальный инструмент для переводчиков
+    imprint:
+      headline: Отпечаток
+    migrations:
+      read_guide: Прочитать руководство
+      stage_headline: Миграция
+      stage_subline: Migration Guides для перемещения ваших существующих проектов
+        в PhraseApp
+    pricing:
+      enterprise:
+        cta: Свяжитесь с нами
+        description_short: Нужно более 50 пользователей? Запрос на SLA или On-Premise
+          хостинг? Свяжитесь с нашей командой.
+        headline: Крупная компания?
+        plan_name: Крупная компания
+      faqs:
+        add_user:
+          answer: 'Все тарифные планы включают в себя определенное количество пользователей.
+            Вы всегда можете добавить дополнительных пользователей. Следующие тарифы
+            действительны для дополнительных пользователей соответствующего тарифного
+            плана:'
+          headline: Могу ли я добавить дополнительных пользователей в свой тарифный
+            план?
+        faqs: FAQ
+        payment_options:
+          answer: 'Мы предлагаем оплату кредитной картой (Visa, MasterCard, American
+            Express), SEPA, банковским переводом или PayPal. Свяжитесь с нашим отделом
+            по работе с клиентами, если у вас есть особые запросы касательно предоставления
+            услуг.
+
+'
+          headline: Какие варианты оплаты предлагает PhraseApp?
+        startup_plan:
+          answer: Мы предлагаем специальные тарифы для стартапов и бесплатные опции
+            для open source проектов. Свяжитесь с нами для обсуждения индивидуальных
+            условий.
+          headline: Что если мне нужно менее 5 пользователей?
+        trial:
+          answer: 'Во время использования 14-дневной пробной версии вы получаете доступ
+            ко всем функциям тарифного плана Pro. Все тарифные планы включают доступ
+            к API, доступ к Translation Center, Repository Sync и всем поддерживаемым
+            форматам импорта и конвертации файлов. Ограничения по словам или проектам
+            не существует. '
+          headline: Что входит в пробную версию?
+        upgrade:
+          answer: 'Вы можете обновить свой тарифный план в любое время. Ваша подписка
+            автоматически обновляется в конце расчетного периода, если вы не отмените
+            ее в соответствии с нашими условиями и положениями. '
+          headline: Могу ли я изменить тарифный план?
+      headline: Стоимость
+      meta_description: 'Для стартапа или глобального бренда, наши тарифы предоставят
+        вам гибкость и функционал для ускорения вашего рабочего процесса. '
+      modal:
+        features:
+          headline: Сравнить тарифы
+      plan:
+        additional_user: "%{plan_name} plan: Добавить пользователя за %{costs} за
+          пользователя/в месяц"
+        billing_period:
+          annually: Ежегодный платеж
+          monthly: Ежемесячный платеж
+        exclusive:
+          feature:
+            line_1: API, In-Context Editor & Translation Center
+            line_2: Personal Account Manager
+            line_3: Соглашение об уровне услуг
+            line_4: Мобильный SDK для 1.200.000 MAU
+            line_5: 
+          title: Exclusive
+          usecase: Персонализированный опыт работы с PhraseApp и соглашением об уровне
+            обслуживания.
+        features:
+          more_link:
+            text: Сравнить тарифы
+        lite:
+          feature:
+            line_1: API, GitHub & Bitbucket Sync
+            line_2: Simple Review Workflow
+            line_3: Branching
+            line_4: Мобильный SDK для 200.000 MAU
+            line_5: Включены все форматы - <a href="https://phraseapp.com/docs/guides/format-finder/">полный
+              список</a>.
+          title: Lite
+          usecase: Для разработчиков, для ежедневных процессов локализации.
+        period_switch:
+          to_monthly: Ежемесячный платеж
+          to_yearly: Переход на ежегодный платеж
+        pro:
+          feature:
+            line_1: API, GitHub & Bitbucket Sync
+            line_2: Translation Memory und Glossary
+            line_3: Advanced Review Workflow & Branching
+            line_4: Autopilot
+            line_5: Включены все форматы - <a href="https://phraseapp.com/docs/guides/format-finder/">полный
+              список</a>.
+            line_6: Мобильный SDK для 1.000.000 MAU
+            line_7: 
+          title: Pro
+          usecase: Для разработчиков софта, команд локализации и глобальных брендов.
+        recommendation: Оптимальный тариф
+        seats_included: "%{count} включённых пользователей"
+        signup_cta: Пробная версия
+      price_month: "/ Месяц"
+      startup:
+        cta: Обратиться сейчас
+        description: 'Мы предлагаем до 50% скидку для стартапов и бесплатные опции
+          для open source проектов. '
+        headline: Вы представляете молодой стартап?
+      subline: |-
+        Все тарифы включают в себя неограниченное количество слов и проектов.
+        <br>Выберите план, подходящий для вашей команды и поставленых задач . </br>
+    privacy:
+      content: 
+      headline: Политика конфиденциальности
+      last_revised: последний пересмотр %{revised_at}
+      meta_description: PhraseApp очень серьезно относится к конфиденциальности ваших
+        данных. Собранные данные обрабатываются в соответствии с законодательными
+        нормами.
+    sketch:
+      meta_description: 
+      page_title: 
+    sketchplugin:
+      claim: 
+      claim_sub: 
+      docs_cta: 
+      features_headline: 
+      features_sub_headline: 
+      function_pull: 
+      function_pull_tooltip: 
+      function_push: 
+      function_push_tooltip: 
+      function_translate: 
+      function_translate_tooltip: 
+      headline: 
+      main_cta: 
+      sub_headline: 
+      usecase_iterations: 
+      usecase_iterations_tooltip: 
+      usecase_placeholder: 
+      usecase_placeholder_tooltip: 
+      usecase_sync: 
+      usecase_sync_tooltip: 
+      webinar_cta: 
+    terms:
+      headline: Общие положения и условия
+      meta_description: Условия пользования регулируют доступ и использование веб-сайта
+        и услуг PhraseApp. Пожалуйста, ознакомьтесь с ними перед использованием PhraseApp.
+  personas:
+    developers:
+      metrics:
+        metric_1: '50'
+        metric_2: '48'
+        metric_3: '95'
+        text_1: Сокращение времени, необходимого для внедрения обновлений
+        text_2: Экономия в среднем за один релиз
+        text_3: Более быстрая обработка
+      quote:
+        headline: Почему разработчики любят PhraseApp?
+      stage:
+        slogan: Удобная локализация для разработчиков
+        slogan_tagline: Когда речь заходит о разработке программного обеспечения,
+          всегда необходимо стремиться найти простейшее решение. PhraseApp - это интуитивно-понятное,
+          эффективное и простое в интеграции приложение, разработанное разработчиками
+          для разработчиков.
+      tabbed_content:
+        api_text: Настройте PhraseApp в соответствии с рабочим процессом. Наш <a href="https://help.phraseapp.com/phraseapp-api/phraseapp-api-docs"
+          target="_blank">API</a> позволяет загружать файлы локали, теги или иным
+          образом взаимодействовать с данными локализации, хранящимися в PhraseApp
+          для вашей учетной записи.
+        autopilot_text: Позвольте PhraseApp автоматически переводить новый контент
+          с помощью Machine Translation и Translation Memory. С помощью Autopilot
+          вы можете автоматически переводить локали или файлы на несколько языков
+          непосредственно после их загрузки в PhraseApp.
+        branching_support_text: Работайте над несколькими релизами и версиями одновременно,
+          так же как в GitHub.
+        cli_text: Командная строка позволяет быстро перемещаться по своим проектам
+          и переводам. Доступно для Linux, Mac OS X и Windows.
+        formats_text: PhraseApp поддерживает следующие способы экспорта/импорта переводов
+          для всех распространенных форматов файлов локализации.
+        nav_headline: Все для разработчиков
+        ota_text: Публикуйте свои переводы быстрее и проще, чем когда-либо прежде.
+          Перестаньте ждать следующего развертывания и начните публиковать все свои
+          переводы в режиме реального времени непосредственно в PhraseApp с помощью
+          OTA.
+        repository_sync_text: PhraseApp предлагает встроенные интеграции GitHub и
+          Bitbucket.
+        webhook_text: Настройте уведомления, открыв Webhooks доступ к уведомлениям
+          внешних служб, таким как клиенты чата, инструменты управления проектами
+          или внешние API.
+    managers:
+      metrics:
+        metric_1: '50'
+        metric_2: '80'
+        metric_3: 2-3
+        text_1: Сниженная необходимость в трудовых ресурсах
+        text_2: 'Почувствуйте разницу в пользовательском опыте и вовлеченности '
+        text_3: Экономия труда в среднем за месяц
+      quote:
+        headline: Почему менеджеры любят PhraseApp?
+      stage:
+        slogan: Лучшее решение для локализции вашего программного обеспечения
+        slogan_tagline: Менеджеры по локализации, менеджеры по продуктам, инженеры
+          и другие специалисты используют PhraseApp для оптимизации, ускорения и масштабирования
+          своих проектов локализации.
+      tabbed_content:
+        email_app_notifications_text: Будьте в курсе событий и получайте все соответствующие
+          уведомления о последних изменениях в ваших проектах, непосредственно внутри
+          интерфейса PhraseApp и по электронной почте.
+        jobs_text: Организуйте все свои задачи по переводу, назначая членов команды,
+          проводя инструктажи и устанавливая сроки выполнения в выбранных вами регионах.
+        nav_headline: Функции для менеджеров
+        proofreading_text: Легко реализуйте рабочий процесс проверки и проверки новых
+          и обновленных переводов.
+        statistics_per_locale_text: Всегда будьте в курсе действий членов вашей команды.
+          Контролируйте количество переведенных и проверенных слов, ключей и многое
+          другое.
+        user_roles_text: 'Организуйте свою команду: назначайте каждому сотруднику
+          свою роль и права доступа индивидуально для каждого проекта.'
+    metrics:
+      headline: Цифры громче слов
+      tagline: PhraseApp обеспечивает сильные, измеримые результаты для наших клиентов
+        во всем мире.
+      unit_days: дней
+      unit_hours: часов
+      unit_percentage: "%"
+    translators:
+      metrics:
+        metric_1: '21'
+        metric_2: '90'
+        metric_3: '100'
+        text_1: Более быстрый перевод благодаря SmartSuggest
+        text_2: Снижение количества ошибок
+        text_3: Больше никаких Excel-таблиц
+      quote:
+        headline: Почему переводчики любят PhraseApp?
+      stage:
+        slogan: Оптимальный инструмент для переводчиков
+        slogan_tagline: Контекст важен. Поэтому Phraseapp постоянно стремится предложить
+          переводчикам возможность локализации программного обеспечения с наилучшим
+          возможным контекстным содержанием. С помощью PhraseApp In-Context-Editor
+          и PhraseApp Screenshot процесс локализации остается максимально прозрачным.
+      tabbed_content:
+        comments_text: 'Всегда работайте с вашей командой напрямую: ставьте вопросы
+          касательно конкретных переводов или ключей с помощью функции комментариев.'
+        editor_text: PhraseApp предоставляет полезные инструменты для работы с большим
+          количеством ключей и технических ограничений в сложных переводческих проектах.
+        history_text: Просмотрите все предыдущие версии перевода на вкладке «История»
+          нашего Translation Editor.
+        in_context_editor_text: Наш <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-setup-and-configure-the-phraseapp-in-context-editor-ice/"
+          target="_blank">InContext Editor</a> может быть интегрирован практически
+          во все веб-приложения что позволяет выполнять перевод непосредственно на
+          странице.
+        nav_headline: Все для переводчиков
+        search_key_tagging_text: Отслеживайте и отфильтровывайте переводы по тегам.
+  selection_msg:
+    few: 
+    many: 
+    one: 
+    other: 
+    zero: 
+  simple_form:
+    hints:
+      package_offer:
+        pricing:
+          currency: Валюта
+    labels:
+      contact:
+        email: Email
+        message: Сообщение
+        name: Имя
+      demo_request:
+        company: Компания
+        country_area_code_phone: 
+        email: Email
+        help_message: Сообщение
+        name: имя
+        other_country_area_code_phone: 
+        phone: Телефон
+  team:
+    fact:
+      aleks_maksimow: 'Я большой фан металл! :the_horns: И работаю дистанционно! :house_with_garden:'
+      christopher_murach: Я поклонник DJ Bobo!
+      colin_witt: 
+      corinna_maier: 
+      dalibor_stajic: "«Faraway fighter» по имени, гедонист в глубине души: grin:"
+      david_ost: 'Я скоро буду выпускать свою собственную музыку, будьте осторожны:'
+      edin_hadzic: 'Мои родители живут в Огайо. (правдивая история!) Я живу моментом:
+        wink:'
+      elina_eickstaedt: 
+      elizabeth_orwig: 
+      fabian_kirchner: 'Хотя я и ходил в школу недалеко от  Южного полюса, я все равно
+        предпочитаю лето! :sunny:'
+      felix_meese: 'They call it a ’royale with cheese :cheese_wedge:'
+      frederik_vollert: 'Я обладатель коллекции рэп-винила  :headphones:, играю на
+        виолончели :notes: и изучаю русский язык!'
+      gamze_kaplan: 
+      henning_schlinkmann: 'Раньше я переводил средневековую японскую литературу ради
+        удовольствия. Расскажите мне о крутых идеях татуировок с использованием Kanji
+        :secret:'
+      jana-marie_lecher: 'Создание головоломки - это мой вид йоги: чуть-чуть-чуть-чуть:'
+      jannis_rhein: '"Schwäbisch" по своей природе :muscle:'
+      jenifer_eggeling: 
+      kathryn_ross: 'От: flag-ca: до: flag-gb: затем: flag-us: сейчас: flag-de:'
+      kristina_reinhardt: Начинали с «Publius rusticus est» на латинском языке и «Arthur
+        est un perroquet.» на французском- Tеперь мы здесь.
+      malte_jansen: 'Когда меня нет в офисе, ты найдешь меня за настольным футболoм
+        :soccer:'
+      manuel_boy: 'Гордый автор первых строк кода PhraseApp :computer: :muscle:'
+      mariana_tutlys: 'Если меня нет в офисе, значит я танцую в своей HipHop Crew
+        :dancers: :sunglasses:'
+      matthias_nitsche: 'За свою жизнь я поднялся на более чем 3000 холмов - внутри.
+        И это все еще весело :slightly_smiling_face: :mountain:'
+      maximilian_schroeder: 'Интересуюсь любым видом спорта, кроме кёрлинга! #sorrycurling'
+      moritz_helbich: Мое рабочее место находится в 9 229,97 км от штаб-квартиры PhraseApp
+      mustafa_cetin: За всю жизнь я выпил более 2 400 000 банок Red Bull.
+      pierre_zenker: Жизнь слишком коротка, чтобы пить плохое вино.
+      sharona_allameh: 'У меня три котейки и нет, этого не достаточно! :cat2: :blush:'
+      soenke_behrendt: 'Победитель 3-х хакатонов PhraseApp подряд :trophy: :muscle:'
+      sonja_gaertner: 
+      stefan_bruhns: 'Любимая музыка? Гитары, пожалуйста! :guitar:'
+      stephan_schoening: 'За свою жизнь я сделал более 2 400 000 снимков :camera_with_flash:'
+      sven_dunemann: 'Летом я буду заниматься серфингом на пляже: ocean :: surfer:
+        а зимой вы можете поймать меня на сноуборде: snow_capped_mountain :: snowboarder:'
+      til_fabel: 'Страстный мотоциклист :racing_motorcycle:'
+      tim_ibo_leers: 'Осторожно! Я занимаюсь капоэйра :flag-br: :sunglasses: :stuck_out_tongue:'
+      tina_heit: 'Идеальный вечер: наслаждаться :wine_glass: & :cheese_wedge:  на
+        Альстере.'
+      tobias_schwab: 'Однажды я проехал 6,462 мили на такси и самолете, просто чтобы
+        посмотреть одну футбольную игру :airplane: :soccer:'
+      torben_fabel: 'Однажды я начал свою профессиональную карьеру няней для собак.
+        Теперь, оглядываясь назад как финансист, могу сказать, что та работа была
+        не так уж и плоха :stuck_out_tongue:'
+      vincent_dahmen: 'Я застрелил более 2400000 nerf darts в моей жизни:'
+      wolfram_graetz: Я поклонник доктора Дре!
+      ziwei_liu: Мое любимое животное - ленивец, трехпалый и с улыбкой Моны-Лизы.
+        Знаете ли вы, что можете усыновить одного из них в WWF?
+    role:
+      account_director: Account Director
+      account_executive: Account Executive
+      account_manager: Account Manager
+      brand_manager: Brand Manager
+      business_development_manager: Business Development Manager
+      business_development_student: Business Development Student
+      ceo: Генеральный директор (CEO)
+      content_marketing_manager: Менеджер по контент-маркетингу
+      csm: Customer Success Manager
+      cso: 'Директор по стратегии '
+      cto: Chief Technology Officer (CTO)
+      engineer: Engineer
+      engineering_intern: 
+      head_of_cs: Head of Customer Success
+      head_of_hr: Head of HR
+      head_of_marketing: Head of Marketing
+      head_of_product: Head of Product
+      head_of_sales: Head of Sales
+      hr_coordinator: HR Coordinator
+      hr_manager: HR Manager
+      junior_sales_manager: Junior Sales Manager
+      lead_generation: Lead Generation
+      marketing_manager: Marketing Manager
+      online_marketing_student: Online Marketing Student
+      operations_manager: Finance Student
+      product_manager: Product Manager
+      product_marketing_manager: 
+      recruiter_female: Recruiter
+      sales_development_rep: Sales Development Representative
+      startegic_project_manager: Head of Operations
+      technical_lead_gen: Growth Engineer
+      visual_designer: 
+  user_requests:
+    form:
+      cause_for_help: Где Вы услышали о нас?
+      pressing_problem: Какова ваша самая большая проблема?
+      send_message: Свяжитесь с нами
+      who_are_you: Кто вы?
+      your_email_address: Ваш Email?
+      your_message: Чем мы можем вам помочь?
+    new:
+      how_can_we_help: Чем мы можем вам помочь?
+  user_requests_controller:
+    message_sent_successfully: Сообщение успешно отправлено

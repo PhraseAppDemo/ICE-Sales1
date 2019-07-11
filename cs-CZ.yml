@@ -1,0 +1,2255 @@
+---
+cs-CZ:
+  about:
+    work_with_us:
+      cta: Zobrazit aktuální otvory
+      headline: Pracuj s námi
+      text: Chcete být součástí týmu, který je sjednocen vášní budovat něco velkého,
+        na čem záleží, kde máte prostor pro rozvinutí své tvořivosti, vnesení vlastního
+        talentu a kde jste vítáni jako vy? Pak se natáhněte, najděte si své místo
+        a přidejte se k nám!
+  application:
+    application:
+      contact_information:
+        question: Mít dotaz? Napište nám na <a href="mailto:%{email_address}">%{email_address}</a>
+          nebo dát náš prodejní tým volání na <a href="tel:%{phone_number}">%{phone_number}</a>
+      footer:
+        about: 
+        api: API
+        blog: Blog
+        contact: Kontakt
+        demo: Demo
+        docs: Dokumentace
+        enterprise: On-Premise
+        features: Funkce
+        home: Domov
+        imprint: Otisk
+        jobs: Kariéra
+        landing_pages: 
+        migrating: Migrace
+        partner: Partneři
+        press: 
+        pricing: Ceník
+        privacy: Soukromí
+        solutions:
+          dropdown: Řešení
+        status: Stav služby
+        terms: Podmínky
+        topics:
+          company: Společnost
+          info: Informace o produktu
+          solutions: Naše řešení
+          support: Podpora
+        webinars: Webináře
+      landingpage_navigation:
+        contact_us: Kontaktujte nás
+      navigation:
+        account_management: Správa účtu
+        blog: Blog
+        blog_text: Přečtěte si nejnovější informace o lokalizaci a návody
+        code_samples: Vzorky kódu
+        customers: Zákazníci
+        demo: Demo
+        demo_text: Vyzkoušejte si PhraseApp pro sebe.
+        developers: Vývojáři
+        developers_text: Snadná integrace a jednoduchá správa přímo z vašeho příkazového
+          řádku
+        documentation: Dokumentace
+        documentation_text: Všechny informace, které potřebujete k tomu, abyste mohli
+          začít
+        features: Funkce
+        getting_started: Začínáme
+        installation: Instalace
+        login: Přihlášení
+        managers: Manažeři
+        managers_text: Koordinujte svůj tým s vyhrazenými rolemi a přiřaditelnými
+          úlohami
+        notifications: Upozornění
+        pricing: Ceník
+        quickstart: Rychlý start pro vývojáře
+        reports_statistics: Zprávy a statistiky
+        resources: Zdroje
+        signup: Vyzkoušet zadarmo
+        solutions: Řešení
+        solutions_text: Jedna lokalizační platforma, která spojí celý tým
+        toggle_navigation: Přepnout navigaci
+        tools_libraries: Nástroje a knihovny
+        translators: Překladatelé
+        translators_text: Zrychlete svůj pracovní postup a sledujte změny kopií v
+          živém kontextu
+        user_management: Správa uživatelů
+        webinars: Webináře
+        webinars_text: Další informace o funkcích a doporučených postupech
+  apply:
+    button: Použijte nyní!
+    form:
+      hints:
+        certificates: Chcete-li nahrát více než 1 soubor, použijte soubor ZIP.
+        cv: Přednostně ve formátu PDF.
+      labels:
+        certificates: Certifikáty a zprávy
+        cv: životopis
+        department: oddělení
+        email: E-mail
+        letter_of_motivation: Motivační dopis
+        name: Název
+        phone_number: Telefonní číslo
+        photo: Fotografie
+        referrer: Jak jsi nás našel?
+      placeholders:
+        your_email_address: Vaše emailová adresa
+        your_name: Tvé jméno
+        your_phone_number: Vaše telefonní číslo
+    headline: Přidejte se k PhraseApp!
+    subheader: Nenašli jste hledanou pozici? Stále bychom rádi slyšeli od vás.
+    title: Žádost o práci
+  cli_examples:
+    labels:
+      create_job: Vytvořit práci
+      download_locale: Stáhnout národní prostředí
+      more: Více...
+      upload_file: Nahrát soubor
+  contacts:
+    form:
+      send_message: Poslat zprávu
+      your_email_address: Vaše emailová adresa
+      your_message: Vaše zpráva
+      your_name: Tvé jméno
+    intro: Potřebujete pomoc s PhraseApp? Jednoduše odešlete zprávu týmu podpory pomocí
+      níže uvedeného formuláře.
+    new:
+      contact_us: Kontaktujte nás
+      we_re_here_to: Rádi bychom vám pomohli s případnými dotazy nebo připomínkami.
+    view_documentation: Zobrazit dokumentaci
+  contacts_controller:
+    message_could_not_be_sent: 
+    message_sent_successfully: Zpráva úspěšně odeslána
+  date:
+    abbr_month_names: 
+    formats:
+      default: 
+      long: 
+      short: 
+    month_names: 
+  demo_requests:
+    form:
+      company: Tvoje společnost
+      email: Váš obchodní e-mail
+      help_message: Co byste se chtěli naučit?
+      name: Tvé jméno
+      other-country-code-phone-hint: 
+      phone: Vaše telefonní číslo
+      send_message: Odeslat žádost o demo
+    headline: Rezervujte si ukázku
+    subline: Naplánujte si demo s našimi produktovými specialisty
+  demo_requests_controller:
+    message_sent_successfully: Díky za vaši zprávu. Budeme v kontaktu co nejdříve.
+  errors:
+    messages:
+      invalid_email_format: není platná e-mailová adresa
+  features:
+    best_choice: Nejlepší volba
+    enterprise:
+      contact_us: Kontaktujte nás prosím přímo.
+      headline: Podniková řešení
+      optional_available: Další informace o našich podnikových řešeních
+    groups:
+      automated_communication: Automatizovat
+      change_tracking: Změnit sledování
+      context: Kontext
+      control: Získat kontrolu
+      edit_and_organize: Upravit a uspořádat
+      integration: Integrovat
+      proofreading_workflows: Korektury pracovních postupů
+      quality: Zlepšit kvalitu
+      special_requirements: Splnění požadavků
+      user_management: Správa uživatelů
+    list:
+      acl:
+        description: <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/user-management"
+          target="_blank">Organizujte svůj lokalizační tým</a> přiřazením dedikovaných
+          rolí a přístupových práv každému členovi týmu podle projektů a jazyků.
+        title: Uživatelské role a řízení přístupu
+      api:
+        description: Přizpůsobte aplikaci PhraseApp svému pracovnímu postupu prostřednictvím
+          <a href="https://help.phraseapp.com/phraseapp-api/phraseapp-api-docs" target="_blank">rozhraní
+          API</a> . Rozhraní API umožňuje importovat soubory s překlady, stahovat
+          soubory s překlady, označovat klíče nebo komunikovat jinými způsoby s lokalizačními
+          údaji uloženými ve službě PhraseApp pro váš účet.
+        title: API
+      autopilot:
+        description: Nechte PhraseApp <a href="https://help.phraseapp.com/translate-website-and-app-content/let-phraseapp-translate-for-you-using-machine-translation/autopilot"
+          target="_blank">automaticky přeložit nový obsah</a> pomocí Strojového překladu
+          a Překladové paměti.
+        title: Autopilot
+      branching:
+        description: Pracujte na <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-use-version-control-with-phraseapp/branches"
+          target="_blank">více vydáních a verzích</a> současně - stejně jako v Git.
+        title: Větvení a verzování
+      cli:
+        description: Nástroj <a href="https://help.phraseapp.com/setup/set-up-phraseapp-for-any-technology-or-platform/other-technologies"
+          target="_blank">příkazového řádku</a> umožňuje rychle procházet vaše projekty
+          a překlady z příkazového řádku namísto toho, abyste se obtěžovali s dlouhými
+          požadavky. K dispozici pro Linux, MacOS a Windows.
+        title: Nástroj příkazového řádku
+      comments:
+        description: Informovat, diskutovat nebo klást otázky členů týmu ohledně konkrétních
+          překladů <a href="https://help.phraseapp.com/" target="_blank">komentováním
+          jednotlivých klíčů</a> .
+        title: Komentáře a zmínění
+      conversion:
+        description: Vyhněte se rozbitým jazykovým souborům prostřednictvím <a href="https://help.phraseapp.com/"
+          target="_blank">ověřovací kontroly PhraseApp</a> .
+        title: Převod formátu souboru a ověření syntaxe
+      formats:
+        description: PhraseApp podporuje obrovské množství způsobů, jak exportovat
+          a importovat překlady pro všechny <a href="https://phraseapp.com/docs/guides/formats/"
+          target="_blank">běžné formáty souborů pro lokalizace</a> . Při importu souborů,
+          exportu souborů a přístupu API podporujeme následující formáty.
+        title: Více než 40 formátů souborů
+      glossary:
+        description: Buďte konzistentní. Náš <a href="https://help.phraseapp.com/improve-translation-quality/use-glossary/translation-glossary"
+          target="_blank">slovník</a> je seznam předdefinovaných termínů, které jsou
+          jedinečné pro váš podnik a zůstávají nezměněny ve všech jazycích.
+        title: Glosář
+      history:
+        description: Zkontrolujte všechny předchozí verze překladu v záložce <a href="https://help.phraseapp.com/translate-website-and-app-content/phraseapp-translation-editor/translation-editor"
+          target="_blank">Historie</a> našeho Editoru překladů.
+        title: Historie
+      in_context_editor:
+        description: Náš <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-setup-and-configure-the-phraseapp-in-context-editor-ice/"
+          target="_blank">In-Context Editor</a> může být integrován téměř do každé
+          webové aplikace a poskytuje možnost přeložit obsah přímo na vaše stránky.
+        title: In-Context Editor pro web
+      jobs:
+        description: <a href="https://help.phraseapp.com/manage-translations-and-languages/assign-translation-work-with-jobs/jobs"
+          target="_blank">Uspořádejte všechny své překladatelské úkoly</a> přidělením
+          členům týmu, poskytnutím briefingů a nastavením termínů překladům podle
+          vašeho výběru.
+        title: Přiřaditelné úlohy
+      mfa:
+        description: Zvyšte své bezpečnostní standardy a zahrňte <a href="https://help.phraseapp.com/"
+          target="_blank">2-faktorové ověřování</a> , ať už prostřednictvím tokenu
+          2FA nebo přístupového tokenu OAuth.
+        title: 2-faktorové ověřování (2FA/MFA)
+      notifications:
+        description: Vždy <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/communicate-with-your-team/notifications"
+          target="_blank">buďe informováni</a> o všech nejnovějších změnách v projektu
+          prostřednictvím oznámení přímo ve službě PhraseApp a prostřednictvím e-mailu.
+        title: E-mailová a In-App oznámení
+      ota:
+        description: Publikujte své překlady rychleji a snadněji než kdykoli předtím.
+          Přestaňte čekat na další vydání a začněte publikovat všechny vaše překlady
+          v reálném čase přímo v aplikaci PhraseApp s <a href="https://help.phraseapp.com/phraseapp-over-the-air-ota/phraseapp-over-the-air-introduction"
+          target="_blank">OTA</a> .
+        title: Over the Air (OTA)
+      proofreading:
+        description: Snadno implementujte <a href="https://help.phraseapp.com/translate-website-and-app-content/verify-and-proofread-translations/verification-and-proofreading"
+          target="_blank">pracovní postup korektury a ověřování</a> pro nové a aktualizované
+          překlady.
+        title: Pracovní postupy korektury
+      repo_sync:
+        description: PhraseApp nabízí nativní <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-use-version-control-with-phraseapp/github-sync"
+          target="_blank">integraci GitHub a integraci Bitbucket</a> .
+        title: GitHub a Bitbucket Sync
+      screenshots:
+        description: Zlepšete kontextové informace <a href="https://help.phraseapp.com/manage-translations-and-languages/manage-keys-efficiently/screenshots"
+          target="_blank">připojením snímků obrazovky</a> k vašim překladovým klíčům.
+        title: Připojitelné snímky obrazovky
+      search:
+        description: <a href="https://help.phraseapp.com/manage-translations-and-languages/manage-keys-efficiently/working-more-efficiently-with-tags"
+          target="_blank">Přidat více označení</a> a sledovat, které klíče patří do
+          které části vašeho projektu.
+        title: Vyhledávání a označování klíčů
+      smartsuggest:
+        description: Při překladech v překladovém editoru PhraseApp používejte návrhy
+          překladů v reálném čase. <a href="https://help.phraseapp.com/translate-website-and-app-content/phraseapp-translation-editor/smartsuggest"
+          target="_blank">SmartSuggest</a> zrychluje vaši překladatelskou práci a
+          zlepšuje celkovou konzistenci.
+        title: SmartSuggest
+      source_copy_editing:
+        description: <a href="https://help.phraseapp.com/manage-translations-and-languages/manage-locales-and-languages/managing-locales-and-languages"
+          target="_blank">Upravte soubory zdrojového jazyka</a> přímo v aplikaci PhraseApp.
+        title: Editace zdrojové kopie
+      stats:
+        description: <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/reports-and-statistics"
+          target="_blank">Buďte vždy informováni</a> o jednotlivých aktivitách členů
+          týmu, včetně množství přeložených a ověřených slov, klíčů a mnoho dalšího.
+        title: Statistiky na uživatele / překlad
+      tm:
+        description: Zrychlete proces lokalizace pomocí naší <a href="https://help.phraseapp.com/improve-translation-quality/use-translation-memory/translation-memory"
+          target="_blank">Překladové paměti</a> . Překladová paměť si pamatuje překlady
+          použité ve vašich projektech a navrhuje odpovídající výsledky.
+        title: Překladová paměť
+      tracking:
+        description: Vědět, co se děje ve vašich projektech, <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/reports-and-statistics"
+          target="_blank">sledováním všech nejnovějších aktivit</a> a filtrovat je
+          podle uživatelů, událostí a konkrétních časových intervalů.
+        title: Sledování aktivity
+      webhooks:
+        description: Přizpůsobte si tok upozornění tím, že <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-configure-webhooks/webhooks"
+          target="_blank">umožníte Webhooks</a> upozornit externí služby, jako jsou
+          klienti chatu, nástroje pro řízení projektů nebo externí rozhraní API o
+          událostech nebo změnách.
+        title: Integrace Webhook (např. Slack)
+    names:
+      2fa: Ověřování 2 faktorů (2FA / MFA)
+      access_control: Uživatelské role a řízení přístupu
+      account_manager: Manažer osobních účtů
+      advanced_workflows: Pokročilé pracovní postupy
+      api_access: Přístup API
+      attachable_screenshots: Připojitelné snímky obrazovky
+      autopilot: Autopilot
+      bitbucket_sync: Bitbucket Sync
+      branching: Větvení
+      comment_mentionings: Komentáře a zmínka
+      extended_statistics: Statistiky na uživatele / národní prostředí
+      filterable_activities: Sledování aktivity
+      formats_and_syntax_validation: Formát souboru a ověření syntaxe
+      github_and_bitbucket_sync: Synchronizace GitHub & Bitbucket
+      github_sync: GitHub Sync
+      glossary: Terminál Terminál
+      history: Historie
+      in_context_editor: In-Context Editor pro web
+      jobs: Přiřaditelné úlohy
+      mobile_statistics: Statistiky mobilní sady SDK
+      notifications: E-mailová a In-App oznámení
+      onboarding_support: Osobní palubní podpora
+      on_premise_hosting: On-Premise Hosting
+      ordering: Objednávka překladů
+      ota: Přes SDK pro mobilní telefony (Android a iOS)
+      pci: Shoda s PCI DSS
+      pre_translations: Automatický automatický autopilot
+      proofreading: Jednoduchý přehled pracovního postupu
+      search_and_tagging: Vyhledávání a označování klíčů
+      single_sign_on: Získejte přístup k aplikaci PhraseApp pohodlně přes SAML, s
+        vaším poskytovatelem identit dle vlastního výběru.
+      sketch: 
+      sla: Dohoda o úrovni služeb
+      smart_suggestions: SmartSuggest
+      source_copy_editing: Editace zdrojové kopie
+      support: Online podpora
+      translation_memory: Překladová paměť
+      verification_system: Systém ověřování
+      webhook_integrations: Integrace Webhook (např. Slack)
+      workflow: Rozšířené pracovní postupy
+    package_prices_per_user_per_month: "%{price} na uživatele / měsíc"
+    sections:
+      developer_centric:
+        description: PhraseApp se zaměřuje na řešení potřeb developerů. Pro nás to
+          znamená rychlý a spolehlivý import a export jazykových souborů, univerzální
+          API, dedikovaný nástroj CLI, podporu pro více než 40 formátů souborů, funkce
+          větvení v PhraseApp a mnohem více!
+        items:
+          api: Silné rozhraní API
+          branching: Větvení a verzování
+          cli: Nástroj CLI
+          formats: Více než 40 formátů souborů
+          repo_sync: Synchronizace úložiště
+          webhooks: Webhooks
+        title: Pro vývojáře
+      formats:
+        description: Podporujeme mnoho formátů souborů pro lokalizaci napříč platformami
+          a programovacími jazyky.
+        title: Mluvíme vaším formátem
+      getting_things_done:
+        description: Uspořádejte všechny své projekty překladů ve formě prací přímo
+          v PhraseApp. Automaticky informujte všechny členy příslušného týmu, kdykoli
+          budete potřebovat překlady nebo jakmile budou překlady dokončeny. Vždy udržujte
+          kontrolu nad sledováním procesů, reportováním a statistikami v reálném čase.
+        items:
+          jobs: Přiřaditelné úlohy
+          notifications: Upozornění a komentáře
+          proofreading: Korektura-Pracovní postupy
+          stats: Statistiky pokroku
+        title: Dělání věcí
+      workflow:
+        description: Rychle budujte integrace s moderními nástroji, od komponent React
+          až po webhooky v reálném čase.
+        title: Rychlejší pracovní postup překladů
+    table_head:
+      description:
+        column-1: Všechny výhody řešení pro lokalizaci softwaru.
+        column-2: Základy pro začátek zjednodušeného procesu lokalizace.
+        column-3: Zlepšete kvalitu a konzistentnost překladu.
+        column-4: Získat kontrolu nad komplexními lokalizačními procesy.
+    tooltips:
+      2fa: Zvyšte své bezpečnostní standardy a zahrňte dvoufaktorové ověřování, ať
+        už prostřednictvím tokenu 2FA nebo přístupového tokenu OAuth.
+      access_control: Organizujte svůj lokalizační tým přiřazením vyhrazených rolí
+        a přístupových práv každému členovi týmu podle projektů a jazyků.
+      account_manager: Prémiová podpora se specializovaným správcem účtů.
+      advanced_workflows: Automaticky ověřte nový nebo aktualizovaný překlad tak,
+        aby každý překlad mohl být porovnán, aby se zvýšila kvalita vašeho překladu.
+      api_access: Přizpůsobte aplikaci PhraseApp svému pracovnímu postupu prostřednictvím
+        rozhraní API.
+      attachable_screenshots: Zvyšte kontextové informace připojením screenshotů k
+        vašim překladovým klíčům.
+      autopilot: Nechte PhraseApp automaticky přeložit nový obsah pomocí Strojového
+        překladu a Překladové paměti.
+      bitbucket_sync: Synchronizujte své projekty PhraseApp s úložišti Bitbucket bez
+        námahy.
+      branching: Pracujte na více verzích a verzích najednou - stejně jako v Gitu.
+      comment_mentionings: Informovat, diskutovat nebo klást otázky členů týmu ohledně
+        konkrétních překladů komentováním jednotlivých klíčů. Uveďte členy týmu ve
+        svém komentáři, abyste mohli svou zprávu adresovat.
+      extended_statistics: Buďte vždy informováni o jednotlivých činnostech členů
+        týmu, včetně množství přeložených a ověřených slov, klíčů a mnoho dalšího.
+      filterable_activites: Historie změn a aktivit
+      filterable_activities: Vědět, co se děje ve vašich projektech, sledováním všech
+        nejnovějších aktivit a filtrovat je podle uživatelů, událostí a konkrétních
+        časových intervalů.
+      formats_and_syntax_validation: Eliminovat rozbité jazykové soubory prostřednictvím
+        kontroly ověření PhraseApp.
+      github_and_bitbucket_sync: PhraseApp nabízí nativní integraci GitHub a integraci
+        Bitbucket.
+      github_sync: Synchronizujte své projekty PhraseApp s úložišti GitHub bez námahy.
+      glossary: Zůstaňte konzistentní ve všech jazycích. Náš slovník je seznam předdefinovaných
+        výrazů, které jsou jedinečné pro váš podnik a zůstávají nezměněny ve všech
+        jazycích.
+      history: Zkontrolujte všechny předchozí verze překladu v záložce Historie našeho
+        Editoru překladů.
+      in_context_editor: Přeložte přímo na své webové stránky a zobrazte všechny překlady
+        v jejich aktuálním kontextu.
+      jobs: Uspořádejte všechny své překladatelské úkoly přidělením členů týmu, poskytnutím
+        briefingů a nastavením termínů do míst podle vašeho výběru.
+      mobile_statistics: Získejte přehled o požadavcích a aplikačních jazycích svých
+        mobilních uživatelů a zjistěte, které jazyky budete možná potřebovat přidat.
+      notifications: Vždy informujte se o všech nejnovějších změnách v projektu prostřednictvím
+        oznámení přímo ve službě PhraseApp a prostřednictvím e-mailu.
+      onboarding_support: Poskytuje vám osobní asistenci během celého procesu nastavení
+        aplikace PhraseApp, včetně jednotlivých ukázek produktů a pomůcek technické
+        integrace.
+      on_premise_hosting: Spusťte PhraseApp na vlastním datovém centru za vlastním
+        firewallem.
+      ordering: Pracujte s vlastním týmem překladatelů nebo si jednoduše objednejte
+        odborné překlady prostřednictvím PhraseApp.
+      ota: Publikování a prohlížení překladů mobilních aplikací v reálném čase přímo
+        z aplikace PhraseApp.
+      pci: Zajištění jednoho z nejvyšších mezinárodních standardů v oblasti bezpečnosti
+        plateb.
+      pre_translations: Nechte PhraseApp automaticky přeložit nový obsah pomocí Strojového
+        překladu a Překladové paměti.
+      proofreading: Snadno implementujte ověřovací a ověřovací pracovní postup pro
+        nové nebo aktualizované překlady.
+      search_and_tagging: Přidat více tagů a sledovat, které klíče patří do které
+        části projektu.
+      single_sign_on: Získejte přístup k aplikaci PhraseApp pohodlně přes SAML, s
+        vaším poskytovatelem identit dle vlastního výběru.
+      sketch: 
+      sla: Naše nejvyšší úroveň uptime závazek, vám poskytuje nejstabilnější PhraseApp
+        zkušenosti.
+      smart_suggestions: Během překladů v Editoru překladů PhraseApp používejte návrhy
+        překladů v reálném čase. SmartSuggest zrychluje práci překladů a zlepšuje
+        celkovou konzistenci.
+      source_copy_editing: Upravte soubory zdrojového jazyka přímo v aplikaci PhraseApp.
+      support: Náš zkušený tým podpory rychle vyřeší všechny problémy, se kterými
+        se setkáte, a vyřeší všechny problémy na individuální úrovni.
+      translation_memory: Zrychlete proces lokalizace pomocí naší Překladové paměti.
+        Překladová paměť si pamatuje překlady používané ve vašich projektech a navrhuje
+        odpovídající výsledky.
+      verification_system: Automaticky informujte své překladatele o změnách ve zdrojovém
+        jazyce a požádejte o revizi přeložených klíčů, abyste zajistili konzistentní
+        komunikaci ve všech jazycích.
+      webhook_integrations: Přizpůsobte si tok oznámení tím, že umožníte webhookům
+        upozornit externí služby, jako jsou klienti chatu, nástroje pro řízení projektů
+        nebo externí rozhraní API událostí nebo změn.
+      workflow: Pracovní postup pro pokročilé ověřování umožňuje přiřadit vyhrazené
+        překladatele a vyhrazené recenzenty.
+    your_choice: Tvoje volba
+  general:
+    beta: Beta
+    check_out_the_live_demo: Podívejte se na živé demo
+    coming_soon: Brzy
+    cta:
+      get_a_demo: Rezervujte si Demo
+    new: Nový
+    read_more: Čtěte více
+    see_details_in_our_documentation: Další podrobnosti naleznete v naší dokumentaci
+    trial:
+      start_your_free_trial: Vyzkoušet zadarmo
+      subline: Snadné nastavení. 14-denní zkušební verze zdarma. Nákup nebo zrušení
+        kdykoliv.
+      teaser_headline: Je čas začít
+    users: Uživatelé
+    we_are_hiring: Najímáme!
+  home:
+    cli:
+      available_on_github: ke stažení z GitHub
+      free_download: Stažení zdarma
+      headline: "Celý PhraseApp API ve vašem terminálu. \n S nástrojem PhraseApp CLI."
+      learn_more: Dozvědět se více
+      meta_description: Nástroj PhraseApp CLI nabízí přístup k našemu rozhraní API
+        prostřednictvím rozhraní příkazového řádku platformy. Synchronizujte soubory
+        národního prostředí s repozitářem zdrojového kódu nebo integrujte aplikaci
+        PhraseApp do procesu vytváření.
+      page_title: PhraseApp CLI nástroj ke stažení
+      step1_headline: 1. Stažení a instalace
+      step1_text: |-
+        Stáhněte a nainstalujte klienta ze služby %{link} . <br><br>
+         V systému Mac OS X můžete také nainstalovat pomocí homebrew:
+      step2_headline: 2. Inicializujte
+      step2_text: K inicializaci a konfiguraci projektu použijte příkaz %{command}
+        .
+      step3_headline: 3. Nahrávání
+      step3_text: Pomocí příkazu %{command} nahrajte existující soubory národního
+        prostředí do programu PhraseApp.
+      sub_headline: Nástroj PhraseApp CLI umožňuje rychle procházet vaše projekty
+        a překlady z příkazové řádky namísto toho, abyste se hádali s dlouhými požadavky
+        na curl. K dispozici pro Linux, Mac OS X a Windows.
+      view_on_github: Zobrazit na GitHub
+    enterprise:
+      account_manager_text: I přes počáteční nastavení jsme vždy na vaší straně a
+        provázíme vás a váš tým s centrální kontaktní osobou, která se rychle a nekomplikovaně
+        postará o jakékoli obavy.
+      account_manager_title: Manažer osobních účtů
+      availability_description: Snadno instalujte PhraseApp On-Premise do vlastní
+        cloudové infrastruktury. PhraseApp On-Premise je naše Cloudové řešení zabalené
+        jako kontejner Docker, který lze provozovat v rámci vlastní sítě.
+      availability_headline: Podniková třída při rychlosti spuštění
+      get_in_touch: Kontaktujte náš obchodní tým
+      headline: Spusťte PhraseApp uvnitř vlastního datového centra
+      integrate_text: PhraseApp On-Premise je dodáván na virtuálních obrazech založených
+        na Docker a snadno se připojuje k místní infrastruktuře.
+      integrate_title: Snadné nastavení
+      meta_description: PhraseApp on-premise je PhraseApp uvnitř vaší hostingové infrastruktury
+        nebo vašeho poskytovatele cloudu. PhraseApp podporuje Azure, Amazon AWS a
+        Google Cloud Platform.
+      page_title: Přeložte software na vlastní infrastrukturu.
+      secure_desc: 'Za firewallem vaší společnosti, běží na serverech a databázi:
+        S PhraseApp On-Premise zůstáváte pod kontrolou všech vašich dat.'
+      secure_headline: Zachování plné kontroly
+      security_description: PhraseApp On-Premise je ideálním řešením pro firmy s přísnými
+        předpisy pro hostování dat. Lze jej snadno integrovat do vlastní IT infrastruktury
+        za firewallem vaší společnosti. S PhraseApp On-Premise zůstáváte pod kontrolou
+        všech vašich dat.
+      security_headline: Datová suverenita
+      support_description: Naše služby na úrovni podniků a prvotřídní podpora je věnována
+        úspěchu vašich týmů. Nabízíme komplexní dokumentaci, integrační návody a osobní
+        asistenci, kdykoliv ji budete potřebovat.
+      support_headline: Premier Support
+      support_text: Zavázali jsme se k úspěchu vašeho týmu a podporujeme vás jako
+        podnikového zákazníka během celé fáze instalace.
+      support_title: Onboarding a koučování
+      translate_on_infrastructure: Řešení pro správu překladů na vlastním hardwaru
+        za firewallem vaší společnosti. Spolupracujte se svým týmem, najděte si profesionální
+        překladatele a zůstaňte na vrcholu procesu.
+      trusted_by: Již více než 1 000 společností optimalizuje svůj překladatelský
+        proces pomocí programu PhraseApp
+    index:
+      boost_localization:
+        api_headline: API
+        api_text: Naše API je navrženo tak, aby vyhovovalo všem procesům lokalizačního
+          softwaru. Můžete snadno importovat soubory s překlady, stahovat soubory
+          s překlady, označovat klíče nebo komunikovat různými způsoby s lokalizačními
+          daty uloženými v PhraseApp prostřednictvím API.
+        editor_headline: Editor překladů
+        editor_text: Spravování překladů rychle s co největším možným kontextem a
+          asistencí je tím, na co byl Editor překladů vytvořen. Pracujte rychleji
+          s využitím správného nástroje pro danou práci.
+        features: Další informace o funkcích PhraseApp
+        headline: Vše, co potřebujete k posílení své lokalizace
+        integrations_headline: Integrace
+        integrations_text: Požadavky lokalizačních týmů po celém světě se liší. Tím,
+          že poskytuje celou řadu možností integrace, jako je naše API, Over the Air
+          a GitHub Sync, můžete snadno integrovat PhraseApp do vašeho pracovního postupu.
+        quality_headline: Kvalitní
+        quality_text: PhraseApp poskytuje celou řadu funkcí, které jsou speciálně
+          navrženy pro zlepšení kvality a konzistence překladu, jako je náš Slovník,
+          Překladová paměť, In-Context Editor, SmartSuggest a mnoho dalších.
+        tagline: PhraseApp je místem, kde se lokalizační týmy scházejí a uvolňují
+          překlady rychleji a snadněji než kdy předtím.
+      customer_logos_tagline: Důvěryhodný pro více než 1 000 společností
+      features:
+        developer: Vývojář
+        headline: Lepší lokalizace pro každého
+        manager: Manažer
+        tagline: PhraseApp je řešení pro správu překladů vytvořené s ohledem na celý
+          tým.
+        translator: Překladatel
+      quote_slider:
+        headline: Proč naši zákazníci milují PhraseApp
+        read_study: Přečtěte si celou případovou studii
+      references:
+        headline: Preferované řešení překladů pro více než 1000 společností po celém
+          světě
+        tagline: Zlepšování podniků na celém světě, dosahování rychlejšího uvádění
+          na trh a vytváření lepšího uživatelského prostředí jsou jen některé z důvodů,
+          proč mnoho společností vyhledává PhraseApp pro své potřeby lokalizace.
+      slogan: Zfunkčnění lokalizace
+      slogan_tagline: 'Je čas rozloučit se s obrovskými překladatelskými tabulkami,
+        zdlouhavou e-mailovou komunikací, rozbitými jazykovými soubory, příliš malým
+        kontextem, netransparentními procesy, zadrženými verzemi a vším, co dělá z
+        lokalizace noční můru.
+
+'
+      submit_button_label: Vyzkoušet zadarmo
+      testimonials:
+        kreditech:
+          author_name: Ricardo Vidal
+          author_position: Senior Vice President ve společnosti Kreditech
+          quote: "„PhraseApp je důležitou součástí úspěšné mezinárodní expanze společnosti
+            Kreditech, a to jak na úrovni země, tak na úrovni produktu!“"
+        uship:
+          author_name: Ed Vinyard
+          author_position: Leading Software Architect ve společnosti uShip
+          quote: "„PhraseApp je nejpříznivější řešení pro vývojáře a nepřetržité nasazení
+            na trhu.“"
+    jobs:
+      apply_now_label: Použít nyní
+      benefits:
+        headline: Vaše výhody
+      benifits:
+        expertise:
+          headline: Učte se od lidí se všemi druhy odborných znalostí
+          text: Neustále se vyvíjíme a snažíme se vždy sdílet naše znalosti a silné
+            stránky našeho týmu. Seznamte se s odborníky na softwarové inženýrství
+            a lokalizací, abyste mohli prozkoumat svou cestu.
+        flexible:
+          headline: Flexibilní prostředí, ve kterém je práce zábavná
+          text: Pracujte v profesionálním prostředí, kde můžete být produktivní a
+            bavit se. Podporujeme se a dáváme vám svobodu, kterou potřebujete k efektivní
+            práci.
+        free_drinks:
+          headline: Zdarma nápoje a ovoce
+          text: Užijte si naši kuchyni se vším, co potřebujete, a prostorem k posezení
+            na oběd. Kromě toho, tam jsou vždy zdarma nápoje a ovoce pro zdravou svačinu.
+        hierarchy:
+          headline: Systém progresivní hierarchie
+          text: Jsme strukturováni v agilním samoorganizujícím se systému, který povzbuzuje
+            každého člena týmu, aby přispíval a rozvíjel svou kreativitu, osobní dovednosti
+            a nadání.
+        latest_technology:
+          headline: Práce s nejnovějšími technologiemi
+          text: Neustále pracujeme s nejnovějšími technologiemi v našem vývoji softwaru,
+            vždy se snažíme o nejvyšší kvalitu kódu a péči o další osobu, která s
+            ní musí pracovat.
+        location:
+          headline: Pěkná a perfektně umístěná kancelář
+          text: Užijte si práci v naší světlé, prostorné designové kanceláři v centru
+            Hamburku. Dáváme každému své vlastní místo, aby si mysleli a mohli spolupracovat.
+        team_events:
+          headline: Pravidelné týmové akce
+          text: Rozhodně se těší naše střešní terasa s panoramatickým výhledem na
+            Hamburk. Ať už je to dobrý starý BBQ se studeným pivem nebo pěkná snídaně,
+            rádi bychom se po práci spojili.
+        work_with:
+          headline: Práce s velkými lidmi
+          text: Staňte se součástí mladého, dynamického týmu skvělých, otevřených
+            lidí, kteří mají své dovednosti a nadání, ale jsou sjednoceni stejnou
+            vášní budovat něco, na čem záleží.
+      core_value:
+        be_friendly_helpful: Buďte přátelští a ochotní
+        be_open_awesome: Buďte otevřeni novým nápadům
+        move_fast_agile: Rychle
+        stay_hungry_challenging: Pokračujte v iteraci
+        think_ahead_outstanding: Myslete dopředu
+        trust_yourself_others: Věřte sobě a ostatním
+      core_values:
+        headline: Naše základní hodnoty
+        text: Zde v PhraseApp žijeme několika jednoduchými hodnotami, které nás vedou
+          každodenním obchodem.
+      employee:
+        david: '"Zkušenosti nás všech rostoucích dohromady jsou úžasné!"'
+        fabian: "„Je skvělé mít tolik příležitostí pro neomezené zkoumání nových a
+          úžasných technologií.“"
+        jannis: "„Stejně jako ve sportu vám vynikající tým dělá nejlepší výkon. Jsem
+          rád, že jsem tady v PhraseApp!"
+        kathryn_ross: 
+        manuel: "„Je to opravdu odměna, aby se práce technických týmů na celém světě
+          každý den trochu zjednodušila.“"
+        tim: "„Vzhledem k tomu, že máme tak otevřený a talentovaný tým, je opravdu
+          zábavné, aby byl každý vývojář snazší.“"
+        tina_heit: 
+        ziwei_liu: 
+      jobs: Přidejte se k PhraseApp!
+      meta_description: Připojte se k týmu PhraseApp jako marketeer, vývojář Ruby
+        / Go nebo buďte součástí našeho prodejního týmu.
+      positions:
+        headline: Aktuální otvory
+        initiative:
+          headline: Nenašli jste hledanou pozici?
+          text: Stále bychom rádi slyšeli od vás. Obraťte se na nás nebo aktivně aktivně!
+      subline: Pomozte nám, aby byly týmy lokalizace softwaru po celém světě produktivnější,
+        a to poskytováním rychlejšího, snadnějšího a transparentnějšího řešení správy
+        překladů.
+      view_current_openings: Zobrazit aktuální otvory
+      what_our_employees_say:
+        headline: Co říkají naši zaměstnanci
+    on_premise:
+      contact:
+        teaser_headline: Zjistěte více o PhraseApp On-Premise
+        teaser_tagline: " Uvnitř vlastní cloudové infrastruktury, Data suverenita,
+          Premier podpora"
+      features_headline: Proč podniky milují PhraseApp
+    voucher:
+      messages:
+        success: Voucher úspěšně aktivován. Během své první objednávky můžete zadat
+          svůj osobní kód poukázky.
+  job_applications:
+    create:
+      success_message: Vaše aplikace byla úspěšně odeslána!
+  landingpage:
+    home:
+      enterprise:
+        get_in_touch: Zkontaktovat
+  layouts:
+    application:
+      contacts:
+        new:
+          page_title: Kontaktujte tým PhraseApp
+      demo_requests:
+        new:
+          page_title: Rezervujte si ukázku
+      home:
+        index:
+          page_title: 'PhraseApp: Správa překladu softwaru'
+          schema_contact_option: Překlady a lokalizace aplikací, webových stránek
+            a aplikací.
+        jobs:
+          page_title: Najímáme se v Hamburku
+      pages:
+        about:
+          page_title: O aplikaci PhraseApp
+        demo:
+          page_title: PhraseApp v akci
+        features:
+          page_title: Snadná správa překladů
+        features_developers:
+          page_title: Nejvíce lokalizační platforma zaměřená na vývojáře
+        features_managers:
+          page_title: Nejlepší zkušenosti s lokalizací softwaru
+        features_translators:
+          page_title: Skvělý nástroj pro překladatele
+        imprint:
+          page_title: Otisk
+        pricing:
+          page_title: Ceny PhraseApp
+        privacy:
+          page_title: Zásady ochrany osobních údajů PhraseApp
+        terms:
+          page_title: Smluvní podmínky PhraseApp
+      page_title: PhraseApp je software pro správu překladů pro webové stránky a mobilní
+        aplikace
+      user_requests:
+        new:
+          page_title: Kontaktujte tým PhraseApp
+  meta:
+    description: Automatizujte lokalizační procesy pomocí PhraseApp. Upravujte jazykové
+      soubory online s týmem překladatelů nebo objednávejte překlady do více než 60
+      jazyků.
+  packages:
+    description:
+      control: Získat kontrolu nad komplexními lokalizačními procesy.
+      core: "Základní náležitosti ke startu <br> procesu lokalizace. \n"
+      quality: Zlepšete kvalitu a konzistentnost překladu.
+    feature_teaser:
+      control: Systém ověřování, pokročilé pracovní postupy, reporting a <a data-turbolinks="false"
+        data-anchor="#control-features" href="#">další</a>
+      core: "Neomezená slova, API, objednávka překladů, \n Online podpora a <a data-turbolinks=\"false\"
+        data-anchor=\"#core-features\" href=\"#\">další</a>"
+      quality: Překladová paměť, glosář, editor v kontextu a <a data-turbolinks="false"
+        data-anchor="#quality-features" href="#">další</a>
+    intro:
+      header: Tři balíčky. Tvoje volba.
+      text: Začněte s Core a přidejte do svého plánu další balíčky funkcí. Můžete
+        vyzkoušet všechny funkce a vybrat plán, který vám vyhovuje. Aktualizujte svůj
+        plán kdykoliv.
+  pages:
+    about:
+      about: O aplikaci PhraseApp
+      blog:
+        cta: Další články
+      customer-stories:
+        headline: Příběhy úspěchu
+        paragraph: Naučte se, jak ostatní společnosti používají PhraseApp k budování
+          silnějších vztahů se svými zákazníky a ke změně způsobu podnikání.
+      for_software_creators_translating: Pro tvůrce softwaru by překlad jejich produktů
+        měl být přirozený a bez námahy.
+      from_our_blog:
+        headline: Z našeho blogu
+      get_social: Sledujte nás na sociálních médiích
+      meta_description: PhraseApp začal jako prototyp nazvaný "fráze". PhraseApp nyní
+        slouží stovkám podniků ve více než 40 zemích a rychle roste.
+      mission-paragraph: Vytváříme týmy po celém světě produktivnější díky rychlejší,
+        snadnější a transparentnější lokalizaci softwaru.
+      misson-headline: 'Naše poslání: Bezbolestná lokalizace softwaru'
+      our-team: Seznamte se s naším úžasným týmem
+      our_team:
+        and_you:
+          text: Připoj se k nám
+          title: A vy?
+      phraseapp-story-1: '„Měli bychom mít k dispozici platformu za 4 týdny!“, Řekl
+        nám náš investor na platformě pro rezervaci cestování, kterou jsme stavěli.
+        Pak dodal: "Musí být k dispozici ve 24 jazycích." Náš tým v té době měl zkušenosti
+        s vývojem softwaru pro rychle rostoucí začínající firmy, ale tento druh tempa
+        internacionalizace byl rychlý i pro nás. Naše hledání produktu, který by usnadnil
+        lokalizaci našeho softwaru v tomto měřítku, bylo neplodné. Nakonec jsme se
+        rozhodli vytvořit aplikaci, která by našim překladatelům umožnila lokalizovat
+        naše webové šablony na místě při procházení naší rezervační platformy. Úpravy
+        na místě okamžitě urychlily náš proces a nakonec se staly základem našeho
+        In-Context Editoru.'
+      phraseapp-story-2: Ukázali jsme to kolegům vývojářům a obdrželi spoustu pozitivních
+        ohlasů a říkali nám, že by je rádi použili ve svých projektech. Na konci roku
+        2011 tak vznikla myšlenka vybudovat lokalizační platformu z nástrojů, které
+        jsme vytvořili, do prototypu PhraseApp.
+      phraseapp-story-3: 'O rok později jsme měli rostoucí počet zákazníků a tento
+        nástroj jsme rozšířili o platformu, která nabízí klientům API, integračním
+        nástrojům a podpoře workflow pro celý proces lokalizace. Náš cíl se jasně
+        ukázal: Potřebujeme řešit lokalizaci pro vývojáře softwaru a usilovat o ještě
+        jednodušší řešení pro typické úkoly manažerů lokalizace a překladatelů softwaru.'
+      phraseapp-story-4: 'To je to, co jsme zde a budeme i nadále činit: Neustále
+        se snažíme eliminovat zbytečné kroky z lokalizačních procesů a usnadňovat
+        lokalizaci softwaru v každém směru. PhraseApp rychle roste a nyní slouží stovkám
+        podniků ve více než 60 zemích.'
+      stats:
+        countries:
+          label: Země
+          value: 60+
+        languages:
+          label: různé jazyky
+          value: 145+
+        translated_words:
+          label: milion přeložených slov
+          value: 260+
+        users:
+          label: Uživatelé PhraseApp
+          value: 30k +
+      story: Příběh
+      subline: PhraseApp je nejjednodušší způsob, jak lokalizovat vaše webové stránky
+        nebo mobilní aplikaci. Zákazníci po celém světě spoléhají na PhraseApp jako
+        na nejobsáhlejší řešení pro správu překladů.
+      we_believe_in_a: Věříme, že každý by měl být schopen používat software ve svém
+        rodném jazyce.
+    customers:
+      customer_story:
+        comdirect:
+          company: Comdirect Bank AG je jednou z předních přímých bank pro moderní
+            investory a jedním z nejlepších online makléřů v Německu. Společnost comdirect,
+            která se přidává k nesporným odborným znalostem v oblasti cenných papírů
+            a vynikajícím službám, nabízí řadu makléřských, bankovních a poradenských
+            produktů. Od roku 2016 má comdirect více než dva miliony zákazníků, kteří
+            prostřednictvím banky investovali přibližně 38 miliard eur.
+        companies: Společnosti
+        company: Společnost
+        cvent:
+          company: Společnost Cvent Inc. je přední společností zabývající se řízením
+            cloudových podnikových událostí, s desítkami tisíc zákazníků a více než
+            2700 zaměstnanci po celém světě. Cvent nabízí softwarová řešení pro plánovače
+            událostí pro online registraci událostí, výběr místa konání, správu událostí,
+            mobilní aplikace pro události, e-mailový marketing a webové průzkumy.
+            Řešení Cvent optimalizují celý hodnotový řetězec správy událostí.
+          headline: Rozšíření globálního dosahu prostřednictvím centralizovaného řízení
+            překladů
+          headline_2: Výzva
+          headline_3: Umožnění globalizace
+          headline_4: Řešení
+          headline_5: Modernizace řízení překladů
+          headline_6: Výhody
+          headline_7: Bezprecedentní efektivita
+          p_1: S cílem posílit své vedoucí postavení na trhu a přinést svou aplikační
+            sadu do většího globálního publika, Cvent zahájil celospolečenské úsilí
+            o lokalizaci svých produktů po celém světě. Proto Cvent potřeboval efektivní
+            a efektivní způsob, jak vývojáři, textaři a překladatelé spolupracovali
+            na lokalizačních projektech - a odpověď byla PhraseApp.
+          p_10: Poskytovatel softwaru se rozhodl hledat nový nástroj pro centralizaci
+            správy překladů v rámci celé své organizace - řešení, které by mohlo poskytnout
+            automatizaci, univerzálnost a jednoduchost.
+          p_11: Po vyhodnocení širokého spektra řešení založených na těchto rozsáhlých
+            kritériích výběru byla aplikace PhraseApp nejatraktivnější webovou lokalizační
+            platformou typu vše v jednom.
+          p_11_1: "„Do problémové oblasti jsme se dostali s více než tuctem dodavatelů,“
+            vzpomíná Michael Stemle. „Dívali jsme se na všechny věci, které podporovali,
+            a na všechny věci, které jsme potřebovali, a zjistili jsme, že PhraseApp
+            více než splnil naše požadavky.“"
+          p_11_2: 'Rozhodujícím faktorem však byl společný přístup týmu PhraseApp.
+            Michael Stemle vysvětluje: „Během ukázek jsme zjistili, že PhraseApp byl
+            v odpovědích na naše otázky velmi citlivý a byli ochotni s námi spolupracovat
+            na našich specifických výzvách. Bylo jasné, že se prostě nesnaží prodat
+            nám produkt, chtěli nám pomoci uspět - nebyli jsme jen zákazníky, byli
+            jsme partneři. “'
+          p_11_3: Díky integraci pracovních postupů jak technických spisovatelů, tak
+            překladatelů do jednoho centrálního řídicího panelu PhraseApp zjednodušuje
+            překladatelskou správu Cventu a objasňuje, kdo pracuje na čem a kdy. Automatizace
+            procesů navíc výrazně urychluje lokalizaci a minimalizuje lidskou chybu.
+          p_11_4: 'Michael Stemle pokračuje: „Z pohledu vývojářů jsme zjistili, že
+            PhraseApp je zvláště intuitivní a srozumitelný. Podporuje také všechny
+            jazyky a formáty souborů, které používáme, a umožňuje nám snadno přepínat
+            mezi nimi. “'
+          p_12: S PhraseApp, Cvent transformuje celý svůj proces lokalizace, od počátku
+            až po vydání. Organizace je nastavena tak, aby dosahovala bezprecedentních
+            úrovní efektivity lokalizace.
+          p_13: "„Očekáváme, že migraci na PhraseApp dokončíme do jednoho roku od
+            uzavření,“ říká Michael Stemle. „Již vidíme výhody a po dokončení odhadujeme
+            úsporu času až 30% pro správu překladů díky redukci chyb a zmatků.“"
+          p_14: Nová centralizovaná platforma pro správu zajišťuje, že zaměstnanci
+            mohou efektivně spolupracovat na lokalizačních projektech bez ohledu na
+            lokalitu a časové pásmo - a tak je 18 lokalit Cventu, 100 strategií internacionalizace
+            zemí pevně na dosah.
+          p_15: 'Michael Stemle potvrzuje: „Díky PhraseApp jsme byli schopni modernizovat
+            náš lokalizační proces a přinést naši sadu aplikací do širšího globálního
+            publika.“'
+          p_3: V listopadu 2016 se společnost Cvent spojila s lídrem v oboru, společností
+            Lanyon Solutions, která se etablovala jako lídr na trhu v oblasti setkání,
+            akcí a pohostinství.
+          p_4: S cílem chránit své dominantní postavení na trhu a chopit se nových
+            příležitostí v převážně nevyužitém průmyslu se Cvent zaměřil na poskytování
+            služeb širšímu světovému publiku.
+          p_5: Pro realizaci této strategie se poskytovatel softwaru zaměřil na dosažení
+            ambiciózních 18 jazyků ve 100 zemích.
+          p_6: 'Michael Stemle, Jr., hlavní softwarový inženýr v Cventu, se zabývá
+            příběhem: „Naši vývojáři, textaři a překladatelé jsou distribuováni po
+            celém světě, což velmi ztěžuje spolupráci na lokalizačních projektech;
+            zejména proto, že jsme neměli centralizovanou platformu pro správu překladů.
+            “'
+          p_7: Spoléhání se na tabulky a decentralizované vnitřní nástroje může vést
+            ke značným zpožděním a zmatkům. Před PhraseApp, Cvent týmy v různých umístěních
+            byli konfrontováni s nesčetnými manuálními procesy, zvyšovat možnost lidské
+            chyby.
+          p_8: "„Díky nové snaze oslovit širší globální publikum bylo pro naše podnikání
+            důležité, že jsme pracovali na funkcích současně s lokalizací,“ dodává
+            Michael Stemle. „Z tohoto důvodu bylo nezbytné, aby naši vývojáři mohli
+            v reálném čase spolupracovat se spisovateli a překladateli, aby provedli
+            změny zdrojů, které jsou již v plánu.“"
+          p_9: Správa překladů společnosti Cvent navíc potřebovala důležité funkce
+            pro správu překladů, jako je historie verzí a úpravy v kontextu, což usnadnilo
+            život vývojářům i překladatelům.
+          quote1:
+            author_position: Hlavní softwarový inženýr, Cvent
+            text: "„Díky PhraseApp jsme byli schopni modernizovat náš lokalizační
+              proces a přinést naši sadu aplikací širšímu globálnímu publiku.“"
+          result_1: Spojení se zákazníky ze 100 zemí
+          result_2: Zjednodušené lokalizační procesy
+          result_3: Centralizované centrum spolupráce pro vývojáře, spisovatele, překladatele
+        download: Stáhnout případovou studii
+        fair-trade-usa:
+          benefits:
+            headline: Výhody
+            p_1: Pro Fair Trade USA bylo budování počáteční implementace partnerského
+              portálu rychlé a nákladově efektivní. „Jeden vývojář dokázal řídit celý
+              proces lokalizace portálu,“ potvrzuje Bennett Wetch. „A místo toho,
+              abychom se starali o překlady v průběhu celého vývojového procesu, dokázali
+              jsme před spuštěním narazit na celou lokalizaci.“
+            p_2: Díky úrovním efektivnosti, které PhraseApp poskytuje při lokalizačním
+              procesu, může technologický tým Fair Trade zaměřit svůj konečný a cenný
+              čas na důležitější úkoly - rozvíjet další služby a infrastrukturu ke
+              zlepšení rozhodující práce Fair Trade.
+            p_3: 'Bennett Wetch uzavírá: „Nástroje jako PhraseApp jsou nezbytné pro
+              spravedlivý obchod. Pomáhají nám měnit náš dopad po celém světě a zajišťují,
+              že naše aplikace jsou vysoce využitelné zainteresovanými stranami na
+              celém světě - a pomáhají nám toho dosáhnout i přes naše omezené zdroje.
+              “'
+            subhead: Dosažení více s méně
+          challenge:
+            headline: Výzva
+            p_1: Globální dosah je jádrem poslání společnosti Fair Trade - spolupráce
+              s zemědělci, pracovníky a značkami po celém světě s cílem zlepšit život
+              více než 8 milionů lidí. Aby se tento ambiciózní cíl stal realitou,
+              zahájil Fair Trade před třemi lety nový technologický celek s cílem
+              využít digitálních aplikací pro zefektivnění a zlepšení práce organizace.
+            p_2: "Jedním z nejnovějších technologických projektů Fair Trade bylo vybudovat
+              online portál pro partnery v dodavatelském řetězci. Portál nabízí partnerům
+              jednoduché způsoby, jak poskytnout informace o dostupných produktech
+              certifikovaných Fair Trade, zaznamenávat transakce, aby zůstali v souladu
+              se standardy Fair Trade, a další. \n S partnery umístěnými ve 46 zemích
+              bylo významným přínosem poskytování portálu po celém světě. zejména
+              z pohledu lokalizace. Zatímco Fair Trade se zaměřil na několik klíčových
+              jazyků pro počáteční překlad, potřebovali systém, který by nakonec mohl
+              poskytnout lokalizaci v každé zemi, ve které slouží."
+            p_3: 'Bennett Wetch, viceprezident technologických inovací ve Fair Trade
+              USA, vysvětluje: „Potřebovali jsme systém, který by mohl podpořit překlad
+              více než 460 klíčů do jazyků více než 40 zemí. Jako neziskový subjekt
+              máme k dispozici štíhlý tým vývojářů a omezený rozpočet, takže řízení
+              lokalizace v tak velkém měřítku prostřednictvím tradičních prostředků
+              by pro nás bylo prostě nemožné. “Bylo to také tehdy, že Fair Trade neměl
+              spoléhat na tradiční prostředky.'
+            subhead: Velké ambice, omezené zdroje
+          company: Nezávislá nezisková organizace Fair Trade USA spolupracuje přímo
+            s podniky, spotřebiteli a výrobci, aby zajistila lepší a spravedlivější
+            obchodní dohody pro zemědělce a pracovníky, které dosahuje osvědčením
+            a podporou produktů spravedlivého obchodu. Fair Trade USA spolupracuje
+            s více než 800 značkami a 1,3 milionem zemědělců a pracovníků ve 46 zemích
+            po celém světě.
+          headline: Řízení globálního dosahu s efektivnějším řízením lokalizací
+          introduction:
+            headline: 'Zákazník: Fair Trade USA'
+            p_1: Cílem Fair Trade USA bylo vybudovat online portál, který by usnadnil
+              život rozsáhlé síti certifikovaných partnerů. Škálování projektu a jeho
+              lokalizace pro globální publikum by mohlo představovat výzvu pro vývojový
+              tým štíhlého softwaru organizace - to znamená, pokud to není pro PhraseApp.
+              Fair Trade USA používá PhraseApp tři roky k efektivnímu poskytování
+              digitálních aplikací v měřítku. Software masivně zjednodušuje lokalizační
+              proces do té míry, že jediný inženýr Fair Trade mohl snadno zvládnout
+              celou pracovní zátěž pro správu nového portálu.
+          quote1:
+            author_position: Viceprezident pro technologické inovace, Fair Trade USA
+            text: '"PhraseApp byl ústředním bodem, který našemu malému, ale silnému
+              inženýrskému týmu umožnil bezproblémově lokalizovat digitální aplikace."'
+          result_1: Pomáhá Fair Trade USA v měřítku jeho dopadu po celém světě
+          result_2: Šetří čas a minimalizuje dev náklady
+          result_3: Umožňuje jednomu inženýrovi řídit celý proces lokalizace
+          solution:
+            headline: Řešení
+            p_1: Technologická jednotka Fair Trade od svého založení využívá PhraseApp
+              k zefektivnění lokalizace a pomáhá rozšiřovat své projekty.
+            p_2: 'Bennett Wetch říká: „Vzhledem k našim omezeným zdrojům je pro nás
+              důležité využít nástrojů, které nám umožní být co nejúčinnější při budování
+              naší technologické infrastruktury. PhraseApp byl ústředním bodem, který
+              našemu malému, ale mocnému inženýrskému týmu umožnil bezproblémově lokalizovat
+              digitální aplikace. “'
+            p_3: PhraseApp poskytuje Fair Trade řadu funkcí, které mu pomáhají šetřit
+              čas a snižovat náklady na lokalizaci. Intuitivní uživatelské rozhraní
+              například usnadňuje inženýrům řídit a umírňovat produkt a jeho pracovní
+              zátěž; a In-Context Editor minimalizuje chyby tím, že poskytuje překladatelům
+              vhled do kontextu překladu. Fair Trade také získává značnou hodnotu
+              z flexibility PhraseApp. Platforma umožňuje neziskovým organizacím snadno
+              sdílet jazykové knihovny napříč různými systémy a snadno přidávat další
+              jazyky bez nutnosti restrukturalizace kódu.
+            p_4: "„Díky PhraseApp byla lokalizace partnerského portálu velmi jednoduchá,“
+              říká Bennett Wetch. „Všichni naši inženýři snadno najdou platformu a
+              PhraseApp dokonale zapadne do našeho agilního procesu.“"
+            subhead: Uvolnění efektivity pomocí PhraseApp
+          stats:
+            countries:
+              label: Země
+              value: '46'
+            partners:
+              label: partnerů
+              value: 1 250+
+            process_time:
+              label: doba zpracování a náklady
+              value: "-50%"
+            reached:
+              label: zemědělců a pracovníků
+              value: 1,3 M +
+        familo:
+          '1': FAMILO je specialistou na lokalizační služby pro mobilní aplikace.
+            V posledních letech společnost vyvinula přesnou, spolehlivou a energeticky
+            úspornou technologii geofencing.
+          '10': "„PhraseApp překonal naše očekávání. Tento software nám pomohl zefektivnit
+            lokalizaci a stát se lídrem v oboru. Výsledky mluví sami za sebe. “"
+          '11': FAMILO používá PhraseApp k lokalizaci svých mobilních aplikací do
+            16 jazyků. PhraseApp umožnil společnosti FAMILO urychlit růst uživatelů
+            a rychle spustit aplikace iOS a Android do těchto nových jazyků.
+          '12': Zrychlení mezinárodního růstu s PhraseApp
+          '13': Výsledkem snahy FAMILO o celosvětové rozšiřování pomocí PhraseApp
+            bylo, že počet nových uživatelů vzrostl o 400% a byl schopen rozšířit
+            své podnikání v mezinárodním měřítku. Zatímco akce společnosti FAMILO
+            byla komplexní a strategická, společnost také uděluje PhraseApp a poskytuje
+            jim praktické nástroje pro hmatatelná zlepšení. Tento výsledek přinesl
+            užitečné kontextové informace, které usnadnily udržení na vrcholu procesu,
+            pomohly snížit administrativní náklady a zlepšit celkovou kvalitu překladu.
+          '14': Lokalizace ukazuje viditelný závazek zákazníkům po celém světě. Spotřebitelé
+            očekávají, že produkty a služby splní jejich potřeby, což zahrnuje především
+            jazyk. Poskytuje bezpečnost a pohodlí všem zúčastněným stranám. Navíc
+            vysoce kvalitní obsah přesahuje mezinárodní trhy.
+          '15': FAMILO dává rodinám klid s sofistikovanou aplikací pro chytré telefony,
+            která odpovídá na jednoduchou otázku „Kde jste?“ Tato rodinná síťová aplikace
+            vám umožní zůstat v kontaktu se svými blízkými. Dostávat oznámení o tom,
+            kde jsou, co dělají a jak se cítí. FAMILO poskytuje rodinám větší bezpečnost
+            a lepší komunikaci.
+          '2': PhraseApp pomohl v mezinárodním měřítku obchod FAMILO a automatizoval
+            vícejazyčné operace jednoduchým a rychlým začleněním procesu lokalizace
+            do celkového vývojového procesu. Tým zaznamenal ohromující 400% nárůst
+            nových uživatelů po přijetí lokalizačního softwaru PhraseApp. FAMILO navíc
+            dokázalo zlepšit celkovou kvalitu překladu.
+          '3': Výzva, které čelil Familo
+          '4': Navzdory ohromujícím úspěchům FAMILO i nadále trávila většinu svého
+            času a energie přitahováním nových uživatelů do své aplikace. Společnost
+            potřebovala řešení pro spojení s globálními zákazníky po celém světě.
+            Stejně jako většina firem, i FAMILO chtěla hlouběji pochopit, jak sloužit
+            větší zákaznické základně. Tým FAMILO se obrátil na PhraseApp, aby vylepšil
+            svůj produkt a rozšířil svůj dosah.
+          '5': Hmatatelná konkurenční výhoda je jedním z nejlepších ukazatelů obchodního
+            zdraví. Podle studie Common Sense Advisory, 56% spotřebitelů zjistilo,
+            že schopnost dozvědět se o produktu ve vlastním jazyce je důležitější
+            než cena produktu. Lokalizační produkty zvyšují sílu prodeje vašim zákazníkům
+            a poskytují firmám výhodu na globálním trhu.
+          '6': PhraseApp nabízí řešení pro správu překladů pro webové a mobilní překladatelské
+            projekty tím, že snadno integruje proces lokalizace do celkového procesu
+            vývoje.
+          '7': PhraseApp nabídl integrované řešení
+          '8': Tým projektu FAMILO využil překladatelského střediska PhraseApp k práci
+            se skupinou překladatelů. Komplexní dokumentace PhraseApp, integrační
+            návody a osobní asistence usnadnily rychlé začlenění procesu lokalizace
+            do celkového procesu. Automatickou identifikací potřeby nových překladů
+            již nebylo potřeba ručně informovat o nových překladech. FAMILO bylo schopno
+            snížit značné administrativní náklady tím, že vyhodnotilo své nadcházející
+            úkoly a sledovalo průběh překladu. Kromě toho tým využil pokročilé vyhledávací
+            funkce, aby rychle zrychlil zápisy, které jsou pro jejich úkoly nejdůležitější.
+          '9': 'Hauke Windmueller, generální ředitel FAMILO, vysvětluje své zkušenosti
+            s PhraseApp:'
+          author:
+            name: Hauke Windmueller
+            position: Generální ředitel společnosti FAMILO
+          headline: Jak zvýšit dosah uživatelů o 400%
+          result_1: FAMILO zvýšil růst uživatelů o 400%
+          result_2: Zlepšení celkové kvality překladu
+          result_3: Snížené administrativní náklady
+        features_used: Používané funkce
+        headline: Příběh zákazníka
+        kreditech:
+          '1': Platforma PhraseApp pomohla fintech startupu Kreditech rozšířit své
+            mezinárodní podnikání automatizací vícejazyčných operací. Kreditech zkrátil
+            čas vstupu na nové místní trhy. Dnes je Kreditech schopen podpořit 30
+            různých jazykových verzí napříč 9 trhy zemí.
+          '10': 'Ricardo Vidal (vedoucí produktu) o jejich integraci PhraseApp:'
+          '11': Vzhledem k tomu, že Kreditech má v některých zemích více než jeden
+            produkt, PhraseApp usnadňuje správu portfolia vytvořením více než jednoho
+            národního prostředí pro stejnou zemi bez úsilí. Rychlé uvedení na trh
+            je pro fintech jako Kreditech nezbytné. Pokaždé, když startuje fintech
+            spuštění produktu v nové zemi PhraseApp pomáhá Kreditech ušetřit velké
+            množství času.
+          '12': Kreditech snadno integroval PhraseApp do svého celkového vývojového
+            procesu. PhraseApp významně pomohl zkrátit čas potřebný k uvedení na trh
+            nových produktů a trhů. Dnes má Kreditech portfolio více finančních produktů,
+            které podporuje 30 různých jazykových verzí v 9 zemích.
+          '2': Finish startup v Hamburku Kreditech si klade za cíl vybudovat lepší
+            bankovnictví pro každého a v současné době působí v devíti zemích. Nejenže
+            vydává úvěry soukromým osobám, ale vyvíjí také bankovní technologie a
+            podpůrné služby. Vzhledem k tomu, že startovní scéna fintech je určena
+            pro globální expanzi, Kreditech má výsadní postavení, protože se ukázal
+            jako mimořádný čas na trhu v nových zemích a nyní je připraven na budoucí
+            stabilní mezinárodní růst.
+          '3': Kreditech použil PhraseApp, řešení pro správu překladů pro webové a
+            mobilní překladatelské projekty, aby urychlil proces lokalizace a posílil
+            mezinárodní expanzi. Navzdory počátečním úspěchům potřebovala společnost
+            Kreditech řešení, které jim umožní efektivněji škálovat své mezinárodní
+            podnikání. PhraseApp poskytuje firmám výhodu na globálním trhu, protože
+            mnohojazyčné webové stránky, aplikace a desktopové aplikace lze snadno
+            implementovat do více jazyků a lze je prodávat rychleji. Bariéra podnikatelů
+            pro internacionalizaci se tedy drasticky snižuje. Společnosti jsou flexibilní
+            pro mnohojazyčné úpravy, takže se mohou rychleji přizpůsobit novým tržním
+            podmínkám.
+          '4': Po uvolnění svých produktů v několika prvních zemích objevil fintech
+            startup PhraseApp za účelem automatizace vícejazyčných operací a rozšíření
+            svého dosahu. Začalo používat PhraseApp k urychlení procesu lokalizace
+            a bylo schopno posílit mezinárodní expanzi. Zpočátku Kreditech využíval
+            XML souborů při zpracování lokalizace, se základní strukturou složenou
+            z částí, vlastností a hodnot. Každý, kdo se účastní procesu lokalizace,
+            měl přístup k jednomu souboru. Vývojáři, překladatelé a projektoví manažeři
+            upravovali stejný soubor, což často způsobovalo chyby.
+          '5': Překlady provedené v nesprávném národním prostředí nebo porušení struktury
+            dokumentu vytvořily obrovské administrativní režie.
+          '6': Pomocí programu PhraseApp mohl Kreditech integrovat editor In-Context
+            pro překlad řetězců přímo na jejich webovou platformu. Místo toho, aby
+            překládali soubor „geekových řetězců“, byli překladatelé schopni pochopit
+            kontext, vidět, kde je přechod skutečně umístěn v aplikaci. To se zdá
+            být základní, ale pomohlo Kreditechu při vytváření a průběžné aktualizaci
+            více než 750k slov, což šetří čas a náklady a zároveň zlepšuje celkovou
+            kvalitu překladu.
+          '7': Kreditech využívá PhraseApp ke sledování aktuálního stavu lokalizačních
+            projektů v reálném čase sledování jazykových verzí, sledování úkolů a
+            objednávek, plánů a nákladů na překlady. S více než 30 různými jazykovými
+            verzemi pomohl PhraseApp udržet celý proces lokalizace a snížit administrativní
+            náklady.
+          '8': Velké lokalizační projekty obvykle zahrnují mnoho různých stran. PhraseApp
+            usnadnil Kreditech spolupracovat s velkým týmem překladatelů, vývojářů
+            a produktových manažerů. Bylo pro ně snadné zvládnout svůj tým více než
+            60 zúčastněných uživatelů na PhraseApp, s různými rolemi a přístupem do
+            systému.
+          '9': Vývojář může mít přístup k vytváření řetězců ve všech projektech, ale
+            překladatel může upravovat pouze kopii překladu ve specifickém jazyce.
+          author:
+            position: Senior viceprezident a vedoucí produktového managementu Kreditech
+          company: 'Finský start v Hamburku Kreditech začal jako nápad na alternativní
+            úvěrovou kancelář v roce 2012 a vyvinul se na úvěrování, kde dceřiné společnosti
+            vydávají malé půjčky na krátkou dobu. Slouží jednoduchému poslání: „Lepší
+            bankovnictví pro každého“. Použitím velkých dat, komplexních algoritmů
+            a automatizovaných pracovních postupů dokáže Kreditech vypočítat kreditní
+            skóre jednotlivce v sekundách. Dnes má Kreditech portfolio 4 finančních
+            produktů a v současné době podporuje 30 různých jazykových a produktových
+            verzí v 9 zemích.'
+          headline: Kreditech se celosvětově rozšiřuje pomocí PhraseApp
+          quote: "„PhraseApp je důležitou součástí úspěšné mezinárodní expanze společnosti
+            Kreditech, a to jak na úrovni země, tak i na úrovni produktu!“"
+          results:
+            '1': Zrychlené uvolňovací cykly, rychlejší uvedení na trh
+            '2': Snížené administrativní náklady
+            '3': Vylepšená kvalita překladu
+        livestorm:
+          company: <a href="https://livestorm.co/?utm_source=phraseapp" target="_blank">Livestorm</a>
+            je webový konferenční software pro společnosti všech velikostí, kteří
+            chtějí hostovat webináře a online setkání pro marketing, prodej, komunikaci
+            nebo online kurzy. Je přístupný z libovolného zařízení přímo z webového
+            prohlížeče bez nutnosti stahování. Společnosti po celém světě věří Livestormu,
+            že bude hostit své webináře - a loni se na konferenci zúčastnili účastníci
+            z více než 150 zemí.
+          headline_2: 'Výzva: Více jazyků, více textových řetězců, složitější'
+          headline_3: 'Řešení: PhraseApp - snadno použitelný, snadno implementovatelný'
+          headline_4: 'Výhody: Jednoduchá a škálovatelná'
+          p_1: S rychle rostoucí zákaznickou základnou a neustále se vyvíjejícím produktem
+            se proces lokalizace Livestormu snažil držet krok s rostoucím počtem textových
+            řetězců a národních prostředí. S cílem urychlit, zefektivnit a centralizovat
+            lokalizaci implementovala Livestorm PhraseApp. Intuitivní nová platforma
+            pomáhá Livestormu ušetřit čas a minimalizovat chyby při překladu - a řešení
+            PhraseApp se bude bezesporu rozšiřovat, protože Livestorm stále roste.
+          p_10: PhraseApp konsoliduje všechny lokalizační úlohy Livestormu do jednoho
+            snadno použitelného řídicího panelu. Překladatelé mohou pracovat přímo
+            prostřednictvím přístrojové desky, což zcela eliminuje potřebu tabulek.
+            Podobně PhraseApp umožňuje centralizovaný, dobře definovaný proces lokalizace,
+            takže Livestorm se již nemusí starat o ruční kontrolu po složitém kontrolním
+            seznamu.
+          p_11: 'Robin dodává: „Implementace řešení za pomoci PhraseApp''s Customer
+            Success onboarding team trvala méně než dva týdny. To je dost, s ohledem
+            na to, jak komplikovaný byl náš proces, kdy jsme dělali přepínač. “'
+          p_12: Livestorm je nyní dokonale umístěn tak, aby poskytoval své webové
+            konferenční služby ve více jazycích a s více funkcemi než kdy jindy, aniž
+            by byl omezen lokalizačními omezeními.
+          p_13: "„Proces lokalizace je mnohem jednodušší, což usnadňuje vydávání nových
+            verzí a přidávání nových lokalit,“ potvrzuje Thibaut. „Řekli bychom, že
+            jsme zkrátili pracovní dobu vývojáře při přidávání nových jazyků o 50%.“"
+          p_14: PhraseApp přináší úsporu času prostřednictvím řady funkcí. Při údržbě
+            tabulek bylo vždy riziko náhodného vymazání platných klíčů; ale s PhraseApp,
+            to je kompletní problém. Stejně tak vyhledávací nástroj PhraseApp a nástroje
+            pro sledování pokroku usnadňují vyhledání konkrétních klíčů nebo zjištění,
+            co je třeba překládat. V neposlední řadě s PhraseApp automatizací mnoha
+            procesů, které Livestorm vývojáři používali k ručnímu provádění, je nyní
+            přidávání nových jazyků podstatně jednodušší.
+          p_15: A co je nejdůležitější ze všech, PhraseApp je plně škálovatelný, takže
+            Livestorm bude moci využívat všech výhod, i když velikost společnosti
+            a rozsah lokalizace stále roste.
+          p_16: 'Thibaut dochází k závěru: „PhraseApp nám již umožnil zdvojnásobit
+            počet osob zapojených do lokalizace a toto číslo by mělo být v souladu
+            s tím, jak tým tým roste. Je skvělé vědět, že můžeme lokalizační tým rozšířit
+            bez zvýšení složitosti procesu. “'
+          p_2: Když v roce 2016 spustila společnost Livestorm, většina jejích zákazníků
+            sídlila ve Francii a USA - ale to nebylo dlouho předtím, než získala trakci
+            v globálním měřítku. Dnes má Livestorm zákazníky ve více než 40 zemích
+            a stravování pro takovou jazykově různorodou uživatelskou základnu není
+            snadný úkol.
+          p_3: 'Thibaut Davoult, růstový inženýr společnosti Livestorm, vysvětluje:
+            „Aplikace Livestorm je k dispozici v 16 jazycích a pravidelně přidáváme
+            další informace. Zároveň vždy pracujeme na nových funkcích, což znamená
+            více textových řetězců, které je třeba překládat. S rostoucím počtem lokalit
+            a objemem textu se lokalizace stala stále složitější. “'
+          p_4: Livestorm podněcuje své uživatele a zákazníky, aby pomohli s překlady,
+            ale spoléhal se na tabulky, které ručně sbírají klíče od přispěvatelů.
+            Bez vyhrazeného nástroje bylo shromažďování překladů časově náročným úkolem
+            a řízení verzí bylo obzvláště bolestivé.
+          p_5: Vnitřně tým vyvinul pečlivý kontrolní seznam, aby se vyhnul chybám
+            při zavádění nového jazyka. Jelikož však rozsah lokalizace rostl - s více
+            jazyky, textovými řetězci a zapojenými zaměstnanci - se kontrolní seznam
+            stal těžkopádnějším než efektivním.
+          p_6: "„Rychlost lokalizace se stala problémem,“ pokračuje Thibaut. „A vývojáři
+            brali příliš mnoho práce. Potřebovali jsme způsob, jak tento proces urychlit
+            a centralizovat, a potřebovali jsme řešení, které by bylo škálovatelné,
+            protože Livestorm dále rostl. “"
+          p_7: Po pečlivém vyhodnocení několika lokalizačních řešení se Livestorm
+            rozhodl implementovat PhraseApp.
+          p_8: 'Robin Lambert, spoluzakladatel a produktový designér společnosti Livestorm,
+            vede lokalizační tým a byl zodpovědný za výběr nového řešení. Robin poznamenává:
+            „Nejdůležitějším kritériem výběru pro nás byla snadnost migrace z našeho
+            starého systému. Poslední věc, kterou jsme chtěli udělat, bylo ručně reprodukovat
+            všechna data tabulky. Výkonné importní nástroje PhraseApp a výborný palubní
+            tým z něj učinily snadné rozhodnutí. “'
+          p_9: Livestorm byl také ohromen uživatelskou přívětivostí PhraseApp a jeho
+            rozsáhlou podporou formátů. Robinův tým pracuje s i18next a Rails i18n,
+            takže flexibilita formátu byla nezbytná.
+          quote1:
+            author_position: Inženýr růstu, Livestorm
+            text: "„Proces lokalizace je mnohem jednodušší, což usnadňuje vydávání
+              nových verzí a přidávání nových překladů.“"
+          result_1: Zkrácení času pro přidání nových jazyků o 50%
+          result_2: Umožnil Livestormu zdvojnásobit velikost lokalizačního týmu bez
+            zvýšení složitosti
+          result_3: Automatizace procesů eliminuje ruční úlohy a minimalizuje chyby
+            při překladu
+        njiuko-comdirect:
+          headline: Vytvoření hlasové služby pomocí aplikace PhraseApp
+          headline_2: Výzva
+          headline_3: Správa souborů JSON
+          headline_4: Řešení
+          headline_5: Integrace PhraseApp
+          headline_6: Výhody
+          headline_7: Snadné použití a zlepšení
+          p_1: Důsledně v popředí inovací, comdirect zabýval Njiuko vyvinout hlasovou
+            asistentskou dovednost pro Amazon Alexa a Google asistent, který by umožnil
+            uživatelům dotazovat se cen akcií a směnných kurzů v reálném čase. PhraseApp
+            se představil jako ideální platforma pro novou hlasovou službu. PhraseApp
+            může nejen snadno spravovat odpovědi od hlasových asistentů, ale také
+            pomáhá comdirectu urychlit cyklus vydání a výrazně zlepšit celkovou jazykovou
+            kvalitu nástroje.
+          p_10: Pro odpovědi hlasového asistenta tento nástroj využívá klíčového a
+            hodnotového řízení zdrojového kódu založeného na PhraseApp. Každá kategorie
+            odpovědí má svůj vlastní klíč, kde lze najednou editovat četné výměnné
+            fráze a věty. Pokud například musí hlasová služba potvrdit, že přijala
+            žádost uživatele, použije klávesu „POTVRZIT“. Tento klíč odpovídá řadě
+            potenciálních odpovědí, například „Dobře“, „Dobře“ nebo „Ano, můžu to
+            udělat“.
+          p_11: 'Christian Wendrock-Prechtl, Senior Vice President User Interface
+            ve společnosti comdirect, uvádí: „Odpověď je pro nás nesmírně důležitá.
+            Výrazně zlepšuje celkovou jazykovou kvalitu nástroje; to zní přirozeněji,
+            což je pro naše zákazníky mnohem poutavější. “'
+          p_12: Intuitivní uživatelské rozhraní PhraseApp je navíc tak snadné, že
+            zaměstnanci společnosti netechnický marketing společnosti comdirect mohou
+            snadno přidávat a měnit klíče bez pomoci vývojářů Njiuko.
+          p_13: Import nebo stahování lokalit a interakce s lokalizačními daty různými
+            způsoby prostřednictvím výkonného rozhraní API PhraseApp umožňuje rozsáhlou
+            automatizaci pracovních postupů a usnadňuje spolupráci. Jak PhraseApp
+            dělá to nejlepší, co je nejlepší pro integraci hlasového asistenta - šetří
+            čas a zvyšuje produktivitu pro Njiuko a comdirect.
+          p_14: S PhraseApp pohánějící jeho služby, comdirect se těší značnou náskok
+            v nové a konkurenční hlas asistenta krajiny. Comdirect jako první partner
+            pro Amazon Echo a Actions on Google v Německu je první bankou v zemi,
+            která nabízí asistenta hlasu pro akciový trh.
+          p_15: "„Hlasová služba rozpoznává více než 10 000 akcií,“ říká Christian
+            Wendrock-Prechtl. „Ať už jsou v autě nebo u stolu se snídaní, naši zákazníci
+            mohou nyní dotazovat ceny na trhu v reálném čase.“"
+          p_16: Hlasová služba se ukazuje jako velmi populární; a díky snadnému používání
+            a automatizaci procesů PhraseApp může comdirect rychle iterovat a vytlačovat
+            časté aktualizace za účelem zlepšení služby.
+          p_17: "„Díky PhraseApp ušetříte až 2 dny na jedno vydání,“ potvrzuje Christian
+            Wendrock-Prechtl."
+          p_18: Njiuko byl také schopen převést plnou kontrolu nad hlasovou službou
+            na comdirect. Inženýři společnosti Njiuko museli nejprve poskytovat nepřetržitou
+            podporu, aby udrželi nástroj v chodu a aktualizovali jej; nyní může banka
+            snadno spravovat celou službu a přidávat nový obsah prostřednictvím intuitivního
+            uživatelského rozhraní PhraseApp.
+          p_19: 'Norman Timmler uzavírá: „PhraseApp je součástí našeho end-to-end
+            procesu v každém projektu, který realizujeme. Díky svým chytrým funkcím
+            a všestrannosti formátů to byl náš centrální nástroj, jak vytvořit případ
+            hlasového asistenta pro comdirect. “'
+          p_2: Po prázdninovém období 2017 nikdo nemůže pochybovat o obrovské - a
+            rostoucí - popularitě technologie hlasového asistenta. Amazon uvedl, že
+            jeho hlasově ovládané zařízení Echo Dot bylo nejprodávanějším produktem
+            jakéhokoli výrobce v jakékoli kategorii a na celém světě byly prodány
+            desítky milionů zařízení vybavených systémem Alexa. Google Assistant také
+            zintenzivňuje svou hru s obzvláště silným vzhledem na nejnovější technické
+            show CES. Inteligentní domy a inteligentní auta rychle získávají trakci
+            a je jasné, že spotřebitelé mají hlad po hlasových asistentech.
+          p_3: S cílem uspokojit tuto novou poptávku a poskytovat nejlepší možné služby
+            svým zákazníkům, se comdirect Bank zaměřila na budování vlastního hlasu
+            „dovedností“ pro Alexa a Google Assistant. Tento nástroj by umožnil uživatelům
+            kontrolovat ceny akcií a novinky související s akciovým trhem, což uživatelům
+            umožní také uložit své oblíbené vyhledávání. Aby se její vize stala realitou,
+            zapojila společnost comdirect Njiuko - předního výrobce softwaru se sídlem
+            v Hamburku - do vývoje hlasových asistentů.
+          p_4: Když Njiuko při tvorbě aplikace přišel na to, že je hlavní prioritou,
+            je najít nástroj pro správu odpovědí asistentů hlasu.
+          p_5: 'Norman Timmler, výkonný ředitel společnosti Njiuko, vysvětluje: „Potřebovali
+            jsme způsob, jak podat každou odpověď do jednoho nástroje a zbavit se
+            hardcoded textů v naší databázi. Není to něco, na co je tradiční CMS vybaven,
+            takže jsme věděli, že musíme myslet mimo krabici. “'
+          p_6: Navíc Njiuko doufal, že najde způsob, jak přidat odezvu hlasových asistentů,
+            aby to znělo přirozeněji a neopakovalo stejné fráze pokaždé, když bylo
+            použito. A rozhodně, Njiuko chtěl umožnit marketingovým pracovníkům společnosti
+            comdirect spravovat a aktualizovat samotný nástroj bez pomoci vývojářů.
+          p_7: Njiuko si brzy uvědomil, že PhraseApp může být ideálním řešením výzvy
+            asistenta hlasu.
+          p_8: "„Používali jsme PhraseApp výhradně pro více než čtyři roky pro lokalizaci,“
+            říká Norman Timmler. „Je to nepostradatelný nástroj díky výkonným funkcím,
+            uživatelsky přívětivému rozhraní a podpoře široké škály formátů. A napadlo
+            nás, že PhraseApp může přijít na záchranu a spravovat odpovědi hlasového
+            asistenta. “"
+          p_9: Njiuko trvalo jen dva dny na integraci programu PhraseApp do pracovního
+            postupu hlasového nástroje a bylo to perfektní. Když je odpověď hlasového
+            asistenta vytvořena, lze ji snadno vyhledat ve PhraseApp.
+          quote1:
+            author_position: Generální ředitel Njiuko
+            text: "„Díky svým chytrým funkcím a všestrannosti formátů, PhraseApp byl
+              naším centrálním nástrojem při vytváření případu hlasového asistenta
+              pro comdirect.“"
+          quote2:
+            author_position: Senior Viceprezident pro Uživatelské rozhraní, comdirect
+            text: "„Škála odpovědí, kterou PhraseApp poskytuje, výrazně zlepšuje celkovou
+              jazykovou kvalitu nástroje; zní přirozeněji, což je pro naše zákazníky
+              mnohem poutavější. “"
+          result_1: Povolí pracovní postup CMS pro dovednosti hlasového asistenta
+          result_2: Umožňuje uživatelům dotazovat> 10 000 cen akcií v reálném čase
+            pomocí hlasového vyhledávání
+          result_3: Zvýšená angažovanost zákazníků díky lepší jazykové kvalitě
+        njiuko:
+          company: Od svého sídla v srdci Hamburku, Njiuko vyvíjí pevné zázemí a elegantní
+            aplikace pro celou řadu B2B klientů. Díky dlouholetým zkušenostem týmu
+            s internetovým obchodem a technologiemi přináší Njiuko čistý kód a úspěšné
+            projekty.
+        results: výsledky
+        stats:
+          countries: Země
+          first: '1.'
+          in_german_banking: v německém bankovnictví
+          languages: Jazyky
+          localization_costs: 1010 nákladů
+          markets: trhů
+          needed_manpower: potřebnou pracovní sílu
+          process_time: čas zpracování
+          projects: 1010 projektů
+          recognized_queries: rozpoznané dotazy
+          saved_per_release: uloženy na jedno vydání
+          team_size: 1010 tým
+          users_since_phraseapp: uživatelů od PhraseApp
+          words: slov
+        the_conversation:
+          '1': Konverzace je nezávislým zdrojem zpráv a názorů, které jsou pečlivě
+            získávány z akademické a výzkumné obce a jsou doručovány přímo svým čtenářům.
+            Jejich tým se skládá z profesionálních redaktorů, kteří úzce spolupracují
+            s odborníky z univerzit a výzkumných institucí, aby odemkli své znalosti
+            pro veřejnost.
+          '10': PhraseApp se ukázal jako klíčový pro celý proces, neboť poskytoval
+            týmu konverzace centralizované a standardizované místo, kde mohou vývojáři
+            a překladatelé spolupracovat v reálném čase. Intuitivní uživatelské rozhraní
+            PhraseApp umožnilo rychle se přizpůsobit překladatelům a API umožnilo
+            vývojářům snadno nastavit proces, který posouvá anglické fráze na PhraseApp.
+            Po vytvoření pracovního postupu byl lokalizační projekt dokončen za méně
+            než deset týdnů.
+          '11': Kromě toho, možnost jednoduše nahrát soubory YML / YAML a editovat
+            je online, se ukázala jako zásadní pro tým, protože používali formát národního
+            prostředí YAML. Tato funkce jim umožnila automaticky ověřovat zástupné
+            symboly, předcházet chybám a nastavovat nové segmenty prostřednictvím
+            webového rozhraní.
+          '12': "„Snadno použitelná a intuitivní platforma pro spolupráci PhraseApp
+            z ní učinila důležitý důvěryhodný nástroj během naší expanze do Francie.“"
+          '13': výsledky
+          '14': Za pouhých deset týdnů, The Conversation a jejich monolingual vývojový
+            tým byli schopni zahájit ve francouzštině. „Je pro mě těžké říci, kolik
+            času vývojářů jsme ušetřili, protože to bylo poprvé, co jsme použili systém
+            řízení překladů. PhraseApp však bezproblémově pracoval a umožnil nám rychle
+            expandovat na nový trh bez překvapení či změn v našich postupech štíhlého
+            vývoje, “řekl James Healy, technický ředitel The Conversation.
+          '15': Během úvodního rozšíření se tým Conversation l10n a i18n skládal z
+            5 vývojářů a 2 překladatelů pracujících na plný úvazek po dobu 10 týdnů
+            na lokalizaci 5leté kódové základny. Po zavedení jsou národní prostředí
+            spravována pouze jedním vývojářem a jedním francouzským překladatelem.
+          '16': V současné době, s novou sadou Localization, The Conversation je schopen
+            nasadit aplikaci několikrát denně a získat aktualizace překladů do 24
+            hodin.
+          '17': 'Co se týče rozšiřování do jiných jazyků, Healy pokračuje: „Nyní jsme
+            v procesu používání PhraseApp pro jiný jazyk a zatímco první proces nám
+            trvalo 10 týdnů, očekáváme, že tento proces zkrátíme na polovinu.“'
+          '2': Jejich cílem je pomoci obnovit důvěru v žurnalistiku. Všichni jejich
+            autoři a redaktoři se musí přihlásit k redakční listině. Všichni přispěvatelé
+            se musí řídit politikou Společenství a Konverzace umožňuje autorům psát
+            pouze na téma, na které mají prokázané odborné znalosti, které musí zveřejnit
+            vedle svého článku. Rovněž musí být zveřejněno financování autorů a případné
+            střety zájmů. Pokud tak neučiníte, hrozí riziko zákazu přispívat na stránky.
+          '3': Konverzace byla zahájena v Austrálii v březnu 2011. Jejich inovativní
+            technologická platforma a vývojový tým sídlí v univerzitním a výzkumném
+            areálu Carltonu. V květnu 2013 otevřeli kancelář v Londýně, kde založili
+            své redakce. Nyní mají redakční redakce v Melbourne, Londýně, Bostonu,
+            Paříži a Johannesburgu.
+          '4': Výzva
+          '5': Když se Konverzace nejprve rozhodla lokalizovat ve francouzštině, byli
+            již aktivní ve čtyřech anglicky mluvících regionech. Jejich vývojový tým
+            byli všichni monolingual Australané, a kolegové, kteří by poskytli překlady
+            byli v Paříži. Bez předchozích zkušeností s překladatelskými a lokalizačními
+            procesy a více než 2000 klíčů, které se mají překládat, tým konverzace
+            věděl, že ruční lokalizace bude mít za následek spoustu režisérů pro vývojáře
+            a překladatele, s konečnými výsledky. Jejich technický ředitel James Healy
+            proto začal hledat jediné řešení z hlediska systému řízení překladů, který
+            by jim poskytoval flexibilitu a snadnou správu celého procesu lokalizace.
+          '6': Proces lokalizace byl týmovým úsilím, kdy několik vývojářů spolupracovalo
+            s Jamesem na hodnocení několika různých poskytovatelů TMS. Rychle identifikovali
+            několik lokalizačních systémů a připravili detailní dokumentaci požadavků.
+            „Náš projekt je postaven s Ruby on Rails a rozhodli jsme se ukládat překlady
+            ve standardním formátu YAML. Pro nás bylo velmi důležité, aby řešení správy
+            překladů bylo integrováno s naším automatizovaným sestavením a přidalo
+            k našim vývojovým procesům minimální tření, “řekl James Healy, technický
+            ředitel konverzace.
+          '7': Řešení
+          '8': Když došlo k výběru systému pro správu překladů, s nímž se setkali,
+            identifikovali několik různých řešení. Mezi nimi si vybrali PhraseApp,
+            protože jeho API jim umožnilo snadno integrovat do svého automatizovaného
+            procesu sestavování a Slacku. Technický ředitel Konverzace, James Healy,
+            sdílí to, že „Na papíře jsme vyhodnotili několik různých řešení, ale PhraseApp
+            bylo jediné řešení, které jsme postoupili do zkušební fáze. Chtěl jsem
+            přidat co nejmenší tření k našemu štíhlému vývoji a API programu PhraseApp
+            nám to přesně dalo. “
+          '9': V rámci PhraseApp má James rychlý a snadný přístup k procesu lokalizace.
+            Díky rozsáhlému řídicímu panelu PhraseApp pro všechny současné překladatelské
+            projekty dokáže sledovat vývoj a komunikovat s vývojáři i překladateli.
+            Slack integrace dále zajišťuje, že celý tým je průběžně informován o všech
+            nových aktivitách a projektech.
+          company: Společnost The Conversation, založená v roce 2011, je globálním
+            mediálním zdrojem, který poskytuje špičkové nápady a lidi, kteří vědí,
+            o čem mluví.
+          headline: Oslovit 66 milionů francouzských uživatelů do 10 týdnů
+          quote_author_name: James Healy
+          quote_author_position: Technický ředitel, The Conversation
+          result_1: Zrychlené uvolňovací cykly, rychlejší uvedení na trh
+          result_2: Zdroje se snížily o 50 +%
+          result_3: 50% Ušetřený čas zpracování
+        uship:
+          '1': Společnost UShip byla založena v roce 2004 a je jedním z největších
+            a nejspolehlivějších online dopravních trhů na světě, které slouží trhům
+            nákladní dopravy, zboží pro domácnost a lodní dopravy. Spotřebitelé a
+            podniky mohou porovnávat a rezervovat úvodní nabídky, pojmenovávat svou
+            vlastní cenu nebo přijímat nabídky ve stylu aukce od více než 800 000
+            poskytovatelů služeb prověřených zákazníky, od nezávislých vlastníků-operátorů
+            až po největší nákladní dopravce a makléře.
+          '10': Náhled v aplikaci není řízen překladatelem.
+          '11': S více než 20 000 klíči obsahu a identifikačními značkami jazyka RFC-4646,
+            kterému rozumí pouze několik současných zaměstnanců, muselo být něco vyřešeno,
+            aby se zmírnily výše uvedené problémy a pomohlo přechodu společnosti UShip
+            na architekturu mikropodniků.
+          '12': Řešení
+          '13': Když společnost uShip začala zkoumat trh s řešením, které by nahradilo
+            svůj vlastní nástroj l10n a i18n, netrvalo dlouho, než nalezli několik
+            řešení. Vzhledem k tomu, že se jedná o nepřetržitou integraci a průběžné
+            nasazení obchodu, pokaždé, když vývojář zavázal svůj kód do systému pro
+            správu verzí, bude kód vytvořen, testován a nasazen do všech předvýrobních
+            a produkčních systémů společnosti uShip.
+          '14': 'Řešení muselo splňovat následující kritéria:'
+          '15': Povolit terminologii specifickou pro partnery prostřednictvím „vlastních
+            nastavení“
+          '16': Explicitně modelovat pracovní postup překladatele
+          '17': Poskytněte mechanismus auditu
+          '18': Zajišťují spolehlivou integraci integrovaného řízení řízenou překladatelem
+          '19': PhraseApp vystupoval ze 4 konkurenčních produktů s dobře navrženým
+            rozhraním API webových služeb. PhraseApp se od počátku osvědčil jako „API
+            první“ produkt, který apeloval na vývojáře uShip, kteří se také značně
+            spoléhali na své vlastní veřejné API. To, co se rychle naučili, je, že
+            rozhraní API webových služeb nebylo omezeno na nahrávání a stahování zdrojových
+            souborů. Na rozdíl od konkurenčních nabídek API API PhraseApp nabídlo
+            RESTful reprezentaci klíčů, značek a národních prostředí, spolu se schopností
+            objevit jemné změny v překladech. CTO Nicka Parkera a jeho týmu poradců
+            a konzultantů uShip se jednomyslně shodli na tom, že PhraseApp je tou
+            správnou volbou.
+          '2': Společnost UShip se sídlem v Austinu, která byla založena v roce 2004,
+            působí globálně s lokalizovanými místy v USA, Kanadě, Nizozemsku, Velké
+            Británii, Německu, Francii, Španělsku, Rakousku, Evropské unii a Latinské
+            Americe.
+          '20': "„PhraseApp je nejvhodnější řešení pro vývojáře a nepřetržité vydávání
+            na trhu. Od chvíle, kdy jsme začali hledat řešení, PhraseApp rychle začal
+            vyčnívat z davu. “"
+          '23': výsledky
+          '24': Za necelé 3 měsíce společnost uShip úspěšně nahradila svůj vlastní
+            nástroj pro lokální lokalizaci pomocí nástroje PhraseApp. „Nejvíce časově
+            náročnou částí procesu nebyla integrace PhraseApp. To byla snadná část.
+            Těžké bylo pochopit a přepracovat existující starý kód, který se opíral
+            o idiosynkrázie předcházejícího systému, “řekl Ed Vinyard, softwarový
+            architekt společnosti uShip, který je zodpovědný za přechod na architekturu
+            mikropodniků.
+          '25': 'Na otázku, kolik času jejich redaktoři a překladatelé šetří s PhraseApp,
+            řekl Vinyard: „Hodně,“ a pokračuje, „Náš hlavní překladatel již nemusí
+            kopírovat a vkládat každý přeložený klíč do našeho domácího řešení. Funkce
+            překladové paměti PhraseApp si pamatuje předchozí překlady a nabízí překlady
+            odpovídající výsledky při překladu, což našim překladatelům ušetří značné
+            množství času. “S PhraseApp má u101 a i18n Manager uShip mnohem lepší
+            přehled o všech překladatelích a jejich činnostech. všech změn překladu.
+            Navíc překladatelé zcela přestali používat tabulky a nyní jsou schopni
+            spolehlivě zobrazit náhled všech změn a nových překladů v předprodukčním
+            prostředí a také kontrolovat, které z nich jsou propagovány do produkčního
+            prostředí.'
+          '26': "„Fungovalo to úplně mimo krabici, dokázali jsme ji rychle integrovat
+            s naším automatizovaným vývojem a okamžitě se ukázalo, že se vyplatí podpořit
+            jeden z klíčových partnerů naší společnosti.“"
+          '27': 'Kromě úsporného času pro překladatele šetří PhraseApp také vývojářům
+            uShip. Vinyard řekl: „Můj odhad je, že jsme zachránili měsíce vývojářů
+            jen proto, abychom splnili naše nové specifické potřeby. Ještě více, pokud
+            vezmete v úvahu výhody, které bychom nezahrnuli, kdybychom museli napsat
+            kód sami, například vylepšené funkce vyhledávání a skvělý výkon. “'
+          '3': Výzva
+          '4': Každých 30 sekund je v systému uShip uvedena nová zásilka. Od automobilů
+            po jeřáby, nákladní dopravu až po nábytek a domácnosti pro koně, lidi
+            a podniky používají službu uShip, protože je to snadné a cenově dostupné,
+            rezervovat a přepravovat vše bez ohledu na to, zda se jedná o místní nebo
+            dlouhou vzdálenost.
+          '5': 'Pro podporu své přítomnosti v 18 zemích a expanzi na nové trhy vytvořila
+            společnost uShip řešení pro lokální lokalizaci, které bylo z velké části
+            založeno na platformě .NET. Jednalo se o webovou aplikaci na míru a úložné
+            schéma pro uložení konečného překladu. Vlastní nástroj společnosti uShip
+            modeloval pouze ukládání a načítání dat, nikoli však pracovní postup překladatele.
+            Překladatelé - postrádající způsob, jak sledovat svou práci - a vývojáři
+            - kteří nemají dostatek času na zdokonalení nástroje - se uchýlili k tabulkám,
+            aby sledovali své lokalizační a překladové procesy. Ačkoliv nástroj sloužil
+            svému účelu po dlouhou dobu a vyžadoval jen velmi malou údržbu, nedávné
+            partnerství společnosti uShip vyžadovalo, aby se lokalizovali do dalších
+            jazyků a zahrnuli externí překladatele, aby jim pomohli s procesem. Marina
+            Parisi, manažerka uShip''s l10n a i18n Manager, rychle identifikovala
+            několik klíčových potíží se svým stávajícím systémem:'
+          '6': Špatná reprezentace pracovního postupu překladu
+          '7': Špatná použitelnost pro překladatele
+          '8': Nedostatečný audit změn
+          '9': Omezená integrace s nepřetržitým nasazením
+          author_name: Ed Vinyard
+          author_position: Hlavní softwarový architekt, uShip
+          company: Společnost UShip, založená v roce 2004, je jedním z největších
+            a nejspolehlivějších online dopravních trhů na světě, které slouží trhům
+            nákladní dopravy, zboží pro domácnost a vozidel.
+          headline: Ukládání měsíců vývoje vývojářů přechodem z manuálu na automatizovaný
+            překlad
+          result_1: Lepší přehled překladatelů a jejich činností
+          result_2: Převeden ručně do automatizovaného procesu překladu
+          result_3: Průběžná lokalizace v 18 zemích
+          result_4: Uložený měsíc času vývojářů
+        xing:
+          company: S více než 12 miliony členů je XING přední online obchodní sítí
+            v německy mluvících zemích. Společnost XING, kterou používají zaměstnanci
+            z každého odvětví, pomáhá lidem spojit se a hledat práci, nové zaměstnance,
+            odborné poradenství a obchodní nápady. Společnost XING se sídlem v Hamburku
+            zaměstnává více než 1 000 lidí a v roce 2016 dosáhla tržeb přes 140 milionů
+            EUR.
+          headline: Překonání růstových problémů pomocí super škálovatelné lokalizační
+            platformy
+          headline_2: Výzva
+          headline_3: Potíže růstu
+          headline_4: Řešení
+          headline_5: Partnerství pro úspěch
+          headline_6: Výhody
+          headline_7: Vynikající škálovatelnost, výkonné funkce
+          p_1: Společnost XING, přední sociální síť pro obchodní profesionály na německy
+            mluvícím trhu, poskytuje více než 12 milionům členů platformu pro připojení
+            a spolupráci. XING je centrem pro hledání zaměstnání, najímání novinek
+            a sdílení nápadů a podporuje kariéru a obchodní úspěch ve všech odvětvích.
+          p_10: A především, XING byl ohromen všestranností řešení. PhraseApp podporuje
+            všechny druhy softwarových prostředí a může být rychle nastaven tak, aby
+            pracoval s malými i složitými projekty. Všestrannost programu PhraseApp
+            - 38 formátů lokalizačních souborů napříč různými platformami a programovacími
+            jazyky - je pro XING velmi přínosná vzhledem k tomu, že jeho služby fungují
+            na různých platformách a používají řadu různých rámců a programovacích
+            jazyků.
+          p_11: PhraseApp, přední řešení pro správu překladů, nabízí mnoho funkcí
+            - včetně výkonného rozhraní API a intuitivního centrálního řídicího panelu
+            - které jsou navrženy tak, aby zefektivnily všechny aspekty procesu lokalizace,
+            což společnosti XING usnadňuje vytváření a správu překladatelských projektů.
+            Aplikace PhraseApp, která je dodávána jako webová služba, je také vysoce
+            škálovatelná - snadno podporující rostoucí požadavky na lokalizaci XING.
+          p_12: "„Naším hlavním cílem bylo zlepšit škálovatelnost,“ říká Guido Behrenswerth.
+            „A není pochyb o tom, že jsme splnili tento cíl. PhraseApp je až třikrát
+            více škálovatelný než náš starý systém: zvládne mnoho současných projektů,
+            lokalit a mnohem větší počet slov. “"
+          p_13: Navíc, s PhraseApp na místě, mnoho lokalizačních úkolů je nyní mnohem
+            jednodušší, než dříve. Díky rozhraní API je pro systém XING jednodušší
+            vytvářet projekty, přidávat jazyky, odesílat klíče a aktualizovat zdroje.
+            Nové možnosti ověření pomohly zefektivnit proces korektury a automatizované
+            návrhy zjednodušují překlad.
+          p_14: 'Výsledkem je, že PhraseApp nabízí vylepšení v celém procesu lokalizace
+            a všichni zúčastnění byli dobře přijati: inženýři, textaři a překladatelé.'
+          p_15: 'Guido Behrenswerth uzavírá: „Díky PhraseApp můžeme rozšířit naše
+            obchodní a produktové portfolio, aniž bychom se museli obávat lokalizace.
+            Jedná se o řešení, které je odolné vůči budoucnosti a jsme přesvědčeni,
+            že XING bude podporovat i nadále v růstu. “'
+          p_2: Vzhledem k tomu, že se operace XINGu rozšířily, zjistilo se, že jeho
+            zastaralé řešení pro správu překladů postrádalo procesní zefektivnění
+            a funkce spolupráce, které jsou nezbytné pro splnění měnících se obchodních
+            potřeb. Nahrazením stárnoucího softwaru pomocí aplikace PhraseApp - webové
+            platformy pro lokální lokalizaci - XING zjednodušil překlad, zjednodušil
+            správu a umožnil škálovatelnost.
+          p_3: Pro podniky působící ve vícejazyčném prostředí je uvolnění nových zdrojů
+            zřídkakdy tak jednoduché, jako vytvoření jediné, nativní jazykové verze
+            - pro maximalizaci dosahu je lokalizace nezbytným krokem. Překlad textu
+            do mnoha různých jazyků může být časově náročný proces; a bez efektivního
+            řešení správy překladů může lokalizace často zdržet vydání nových produktů
+            a funkcí.
+          p_4: To je něco, co XING moc dobře ví. S až 250 zdroji, které je třeba překládat
+            každý týden do deseti jazyků, se firma spoléhá na svou platformu pro správu
+            lokalizace, aby koordinovala své velké množství lokalizačních projektů.
+            Vzhledem k tomu, že XING má silnou trajektorii růstu, jeho požadavky na
+            lokalizaci se neustále zvyšují. V důsledku toho obchodní síť zjistila,
+            že její překladatelské řešení potřebuje výkonné další funkce.
+          p_5: 'Guido Behrenswerth, vedoucí týmu Copywriting & Content Strategy ve
+            společnosti XING, vysvětluje: „Naše stávající platforma pro správu překladů
+            postrádala škálovatelnost, která by odpovídala rostoucím potřebám našeho
+            podnikání a v důsledku toho začala trpět problémy s výkonností a spolehlivostí.
+            Kód dědictví by byl dlouhodobě velmi těžko udržovatelný. Bylo jasné, že
+            nastal čas hledat nové řešení. “'
+          p_6: Pokud by se tyto otázky nezkontrolovaly, riskovalo by to zpoždění cyklu
+            uvolnění XINGu, což by negativně ovlivnilo tempo vývoje platformy - a
+            XING věděl, že s pokračujícím rozšiřováním svého podnikání by se tento
+            problém zhoršil.
+          p_7: XING chtěl novou překladatelskou platformu, která by byla rychlejší,
+            spolehlivější, funkčnější a škálovatelnější.
+          p_8: Zaměřila se na několik různých řešení a - po důkladném procesu hodnocení
+            - se inženýři, textaři a překladatelé jednomyslně shodli na tom, že PhraseApp
+            je tou nejlepší volbou.
+          p_9: "„PhraseApp vystupoval z několika důvodů,“ vzpomíná Guido Behrenswerth.
+            „Kvalita samotného produktu, ochota společnosti PhraseApp naslouchat požadavkům
+            na zpětnou vazbu a požadavky na funkce a rychlá a vstřícná zákaznická
+            podpora byla rozhodujícím faktorem v našem rozhodnutí. Také to nebolelo,
+            že PhraseApp je téměř doslova sousedním sousedem v Hamburku. “"
+          quote1:
+            author_position: Vedení týmu pro copywriting a obsahovou strategii, XING
+            text: "„Díky PhraseApp můžeme rozšířit naše obchodní a produktové portfolio,
+              aniž bychom se museli obávat lokalizace.“"
+          result_1: Žádné další riziko zpoždění cyklu uvolnění
+          result_2: Vylepšená škálovatelnost
+          result_3: Zjednodušený proces korektury
+      cvent:
+        headline: Lokalizuje se do 18 jazyků a oslovuje zákazníky na celém světě ve
+          100 zemích
+        meta_description: Zjistěte, jak společnost Cvent urychlila svůj globální dosah
+          prostřednictvím systému centralizovaného řízení transakcí společnosti PhraseApp
+        page_title: Případová studie kláštera
+        type: B2C / B2B Software pro správu událostí
+      fair-trade-usa:
+        headline: Řízení globálního dosahu s efektivnějším řízením lokalizací
+        meta_description: Zjistěte, jak PhraseApp pomohl Fairtrade USA zefektivnit
+          správu lokalizace, ušetřit čas a snížit náklady na lokalizaci jejich online
+          partnerského portálu.
+        page_title: Zákaznický příběh Fair Trade USA
+        type: B2B / B2C NPO Online portál partnerů
+      familo:
+        headline: Jak zvýšit dosah uživatelů o 400%
+        meta_description: Po přijetí lokalizačního softwaru PhraseApp Familonet zaznamenal
+          ohromný nárůst nových uživatelů o 400%. Přečtěte si více!
+        page_title: Familonet Příběh zákazníků
+        type: B2C Geolocation Mobilní aplikace
+      features:
+        api:
+          description: Rozhraní API umožňuje importovat soubory národního prostředí,
+            stahovat soubory národního prostředí, klíče značek nebo komunikovat jinými
+            způsoby s místními údaji uloženými ve službě PhraseApp pro váš účet.
+          name: API
+        buy_translations:
+          description: Můžete buď pracovat s vlastním týmem překladatelů, nebo si
+            jednoduše objednat profesionální překlady od našich překladatelských partnerů.
+            Vyvolání nových jazyků je možné během několika hodin.
+          name: Koupit překlady
+        integration:
+          description: Změňte svůj proces na průběžný proces lokalizace pomocí programu
+            PhraseApp. Každý proces je poněkud odlišný. Nabízíme plně funkční rozhraní
+            API, které vám umožní integrovat naše služby do pracovního postupu. S
+            PhraseApp je nepřetržitá lokalizace jednoduchá.
+          name: Integrace (integrace v různých IDE)
+        in_context_editor:
+          description: Skvělý způsob, jak překladatelé jednoduše procházet vaše webové
+            stránky a upravovat text podél cesty. In-Context Editor pracuje s nejoblíbenějšími
+            webovými frameworky a umožňuje dokonalý kontextový překlad vašeho softwaru.
+          name: In-Context Editor
+        jobs:
+          description: Pracovní místa jsou skvělým způsobem, jak organizovat pracovní
+            zátěž vašeho týmu. Můžete definovat, na čem pracovat, definovat termín
+            a instruktáž, přičemž se ujistíme, že každý ví, co má dělat.
+          name: Přiřadit úlohy
+        notifications:
+          description: Oznámení jsou skvělý způsob, jak komunikovat se svými členy
+            týmu, aby věděli, co se děje v projektu. Můžete se přihlásit k odběru
+            konkrétních akcí a my vás budeme informovat přímo v PhraseApp a volitelně
+            e-mailem.
+          name: Upozornění
+        projects:
+          description: Vzhledem k tomu, že softwarové projekty rostou a jsou složitější,
+            pomáhá je rozdělit do modulů, aby se věci daly zvládnout. Totéž platí
+            pro lokalizaci softwarových projektů.
+          name: Více projektů
+        translation_memory:
+          description: Vzpomíná na překlady používané ve vašich projektech a navrhuje
+            překlad výsledků při překladu. To urychluje proces překladu a zlepšuje
+            konzistentnost mezi texty a projekty.
+          name: Překladová paměť
+        user_management:
+          description: 'Pozvěte co nejvíce uživatelů, s nimiž chcete spolupracovat
+            na projektech lokalizace: produktových manažerů, vývojářů, překladatelů
+            nebo dokonce komunitních uživatelů.'
+          name: správa uživatelů
+        verification_system:
+          description: Automaticky informujte své překladatele o změnách ve zdrojovém
+            jazyce a požádejte o revizi přeložených klíčů, abyste zajistili konzistentní
+            komunikaci ve všech jazycích.
+          name: Systém ověřování
+      kreditech:
+        headline: Kreditech se celosvětově rozšiřuje pomocí PhraseApp
+        meta_description: Zjistěte, jak překladové řešení PhraseApp pomohlo fintech
+          spuštění Kreditech rozšířit svůj mezinárodní obchod automatizací procesu
+          lokalizace!
+        page_title: Příběh zákazníků Kreditech
+        type: B2C kreditní a bankovní webová aplikace
+      livestorm:
+        excerpt: Proces lokalizace je mnohem jednodušší, což usnadňuje vydávání nových
+          verzí a přidávání nových lokalit.
+        headline: Nabízet webové konferenční služby s více rysy v 17 jazycích.
+        meta_description: Naučte se, jak se Livestorm podařilo překonat své lokalizační
+          výzvy pomocí PhraseApp a nyní je schopna nabídnout svůj produkt v 17 jazycích.
+        page_title: Livestorm Zákaznický příběh
+        subline: Thibaut Davoult <br /> Inženýr růstu, Livestorm
+        type: B2B web-konference software
+      meta_description: Dozvíte se, jak společnosti používají správu překladů PhraseApp
+        k vybudování silnějších vztahů se svými zákazníky zlepšením jejich lokalizace
+      njiuko-comdirect:
+        excerpt: Díky svým chytrým funkcím a všestrannosti formátů byl PhraseApp naším
+          centrálním nástrojem při vytváření případu hlasového asistenta pro comdirect.
+        headline: Být první německou bankou, která nabídne asistenta hlasu pro akciový
+          trh.
+        meta_description: Zjistěte, jak PhraseApp pomohl comdirect stát se první bankou
+          Německa a nabídl asistenta hlasu pro akciový trh.
+        page_title: Případ Njiuko-Comdirect
+        subline: Norman Timmler <br /> Generální ředitel Njiuko
+        type: B2C Voice Assistant Online bankovnictví
+      page_title: Příběhy zákazníků
+      read_casestudy: Přečtěte si celou případovou studii
+      read_more: Čtěte více
+      the_conversation:
+        headline: Oslovit 66 milionů francouzských uživatelů do 10 týdnů
+        meta_description: Zjistěte, proč si Konverzace vybrala řešení pro správu překladů
+          PhraseApp a dosáhla 66 milionů francouzských uživatelů za méně než 10 týdnů.
+        page_title: Příběh konverzace zákazníka
+        type: Webová aplikace pro média B2C
+      uship:
+        headline: S PhraseApp šetří měsíce vývojářů
+        meta_description: Naučte se, jak uShip zrychlil lokalizaci a ušetřil měsíce
+          času vývojářů automatizací procesu překladu pomocí PhraseApp.
+        page_title: uShip Zákaznický příběh
+        type: B2C / B2B zásilka Web & Mobile App
+      xing:
+        excerpt: Díky PhraseApp můžeme rozšířit naše obchodní a produktové portfolio,
+          aniž bychom se museli obávat lokalizace.
+        headline: Přináší přeložený obsah včas svým 12 milionům členů
+        meta_description: Překonání růstových problémů pomocí super škálovatelné lokalizační
+          platformy
+        page_title: Příběh zákazníků XING
+        subline: Guido Behrenswerth <br /> Copywriting &amp; Content Strategy Vedení
+          týmu, XING
+        type: B2C / B2B síťová platforma
+    demo:
+      api_documentation: Dokumentace API
+      in_context_editor: In-Context Editor
+      in_context_editor_demo: Demoverze In-Context Editoru
+      localization_api: Lokalizační API
+      meta_description: PhraseApp v akci s Překladatelským centrem, In-Context Editorem
+        a jeho API
+      our_api_lets_you: Naše rozhraní API umožňuje vytvářet vlastní pracovní postupy
+        a zlepšit integraci aplikace PhraseApp do vašeho procesu lokalizace.
+      password_label: Heslo
+      phraseapp_in_action: PhraseApp v akci
+      run_command: Spustit v prohlížeči
+      the_phraseapp_in_context: Editor PhraseApp In-Context lze integrovat téměř do
+        každé webové aplikace a poskytuje možnost přeložit obsah přímo na vaši stránku.
+      the_translation_center_is: Překladatelské centrum je páteří systému managementu
+        překladů PhraseApp. Webové rozhraní vám umožňuje spravovat všechny jazyky
+        a překlady mezi různými platformami.
+      the_translation_odering_works: Můžete buď pracovat s vlastním týmem překladatelů,
+        nebo si jednoduše objednat profesionální překlady od našich překladatelských
+        partnerů. Zavedení nových jazyků je nyní možné během několika hodin.
+      translation_center: Překladatelské centrum
+      translation_center_demo: Demo překladatelské centrum
+      translation_center_in_context: Překladatelské centrum, In-Context Editor, API
+      translation_odering: Překladatelské služby
+      translation_odering_demo: Zjistěte více
+      user_label: Uživatel
+    features:
+      40_formats: Formáty
+      api: API
+      autopilot_headline: Autopilot
+      branching_support: Větvení a verzování
+      cli: Nástroj příkazového řádku
+      comments: Komentáře
+      editor: Editor překladů
+      email_app_notifications: E-mailová a In-App oznámení
+      feature_list_headline: Vše, co potřebujete urychlit
+      formats:
+        show_all: Zobrazit všechny formáty
+      format_finder:
+        cta: Najděte správný formát lokalizace pro vaši strukturu pomocí naší služby
+          <a href="%{format_finder_path}">Vyhledávač formátů</a>
+      history: Historie
+      in_context_editor: In-Context-Editor
+      jobs: Přiřaditelné úlohy
+      meta_description: "Vaše řešení pro správu překladů \n pro webové a mobilní aplikace.
+        Spolupracujte se svým týmem, hledejte profesionální překladatele a zůstaňte
+        na vrcholu procesu \n"
+      oneclick_headline: Překlady jedním kliknutím
+      oneclick_text: Použijte svůj vlastní tým překladatelů, nebo si jednoduše zakupte
+        profesionální překlady od našich partnerů.
+      ota: Over the Air (OTA)
+      proofreading: Korektura
+      repository_sync: GitHub a Bitbucket Sync
+      search_key_tagging: Vyhledávání a označování klíčů
+      slogan: Vytvořen, aby vaše lokalizace nebyla noční můrou
+      slogan_tagline: Zjistěte, proč lokalizace již nemusí být problémem díky PhraseApp,
+        nejmodernějšímu řešení lokalizace na trhu.
+      statistics_per_locale: Statistiky na uživatele/překlad
+      user_roles: Uživatelské role a řízení přístupu
+      versioning_headline: Verze a větvení
+      versioning_text: Synchronizujte své projekty PhraseApp automaticky s repozitářem
+        GitHub nebo Bitbucket a pracujte na více verzích.
+      webhook: Webhooks
+      workflow_gallery:
+        dashboard:
+          link: Řídící panel
+          text: Řídící panel je místem, kde se spojují všechny informace týkající
+            se projektu. Zde můžete sledovat průběh vašich individuálně přidělených
+            prací, jakož i celkový průběh překladu a mnoho dalšího!
+        project_overview:
+          link: Přehled projektu
+          text: Přehled projektu je hlavní přehledovou stránkou všech vašich lokalizačních
+            projektů. Pomocí projektů můžete organizovat všechny překlady související
+            s konkrétním cílem lokalizace, nastavit oprávnění a přidávat snímky obrazovky.
+        translation_editor:
+          link: Editor překladů
+          text: Editor překladů vám umožňuje vyhledávat překlady, spravovat klíče
+            a provádět skutečné překladatelské práce. Při překladu poskytuje užitečné
+            meta-informace a pomáhá překladatelům a manažerům rychle překládat obsah
+            bez ztráty soustředění.
+    features_developers:
+      meta_description: Překladatelský management vytvořený pro vývojáře
+    features_managers:
+      meta_description: Nejlepší zkušenosti s lokalizací softwaru
+    features_translators:
+      meta_description: Skvělý nástroj pro překladatele
+    imprint:
+      headline: Otisk
+    migrations:
+      read_guide: Přečtěte si průvodce
+      stage_headline: Migrace
+      stage_subline: Průvodci migrací přesouvají existující projekty do programu PhraseApp
+    pricing:
+      enterprise:
+        cta: Spojte se s námi
+        description_short: Více než 50 uživatelů? Požadavky na hostování SLA nebo
+          On-Premise? Kontaktujte náš tým.
+        headline: Máte podnikové potřeby?
+        plan_name: Podnik
+      faqs:
+        add_user:
+          answer: 'Všechny plány jsou dodávány s řadou uživatelských míst. Uživatelská
+            místa můžete do svého plánu přidat kdykoliv. Následující ceny platí pro
+            dodatečné uživatele v příslušném plánu:'
+          headline: "Mohu do svého plánu přidat uživatelská místa? \n"
+        faqs: Často Kladené Otázky
+        payment_options:
+          answer: |-
+            Nabízíme platbu kreditní kartou (Visa, MasterCard, American Express), SEPA, bankovním převodem a přes PayPal. Spojte se s naším zákaznickým týmem, pokud máte speciální požadavky na zadávání zakázek, jako je proces objednávky.
+
+             Naše výchozí platební podmínky jsou Net 14.
+          headline: Jaké možnosti platby PhraseApp nabízí?
+        startup_plan:
+          answer: Nabízíme speciální ceny vybraným startupům a bezplatné plány pro
+            open source projekty. Obraťte se na naši podporu, pokud si vaše společnost
+            ještě nemůže dovolit zaplatit naši plnou sazbu.
+          headline: Co když potřebuji méně než 5 uživatelů?
+        trial:
+          answer: Během 14denní zkušební verze máte přístup ke všem funkcím programu
+            Pro. Můžeme vám kdykoliv pomoci najít nejlepší plán pro vaše potřeby.
+            Všechny plány zahrnují přístup k API, přístup do našeho Překladatelského
+            centra, Synchronizaci zdrojového kódu a všechny naše podporované formáty.
+            Neexistuje žádný limit pro slova, segmenty, klíče a projekty.
+          headline: Co je součástí procesu?
+        upgrade:
+          answer: Plán můžete kdykoli aktualizovat. Vaše předplatné se automaticky
+            obnoví na konci zúčtovacího období, pokud jej nezrušíte v souladu s našimi
+            smluvními podmínkami. Snížení verze se projeví až po skončení aktuálního
+            fakturačního období.
+          headline: Mohu upgradovat?
+      headline: Ceník
+      meta_description: Automatizace lokalizace softwaru s cenově dostupnými cenami,
+        které se přizpůsobují vašemu globálnímu podnikání. Začněte svou bezplatnou
+        14denní zkušební verzi ještě dnes.
+      modal:
+        features:
+          headline: Porovnejte plány
+      plan:
+        additional_user: "%{plan_name} plán: Další uživatelské místo pro %{costs}
+          na uživatele/měsíc"
+        billing_period:
+          annually: VÝROČNÍ FAKTURACE
+          monthly: MĚSÍČNÍ FAKTURACE
+        exclusive:
+          feature:
+            line_1: API, In-Context Editor & Překladatelské centrum
+            line_2: Manažer osobních účtů
+            line_3: Dohoda o úrovni služeb
+            line_4: Mobilní SDK pro 1 200 000 MAU
+            line_5: 
+          title: Výhradní
+          usecase: Personalizovaná PhraseApp zkušenost s dohodou o úrovni služeb.
+        features:
+          more_link:
+            text: Porovnejte plány
+        lite:
+          feature:
+            line_1: API, GitHub & Bitbucket Sync
+            line_2: Jednoduchý přehled pracovního postupu
+            line_3: Podpora větvení
+            line_4: Mobilní SDK pro 200 000 MAU
+            line_5: Včetně všech formátů - <a href="https://phraseapp.com/docs/guides/format-finder/">úplný
+              seznam</a>
+          title: Lite
+          usecase: Pro produktové týmy, které se potýkají s komplexním lokalizačním
+            procesem.
+        period_switch:
+          to_monthly: Přepnout na měsíční fakturaci
+          to_yearly: Přepněte na roční fakturaci
+        pro:
+          feature:
+            line_1: API, GitHub a Bitbucket Sync
+            line_2: Překladová paměť a Slovník
+            line_3: Pokročilý přehled pracovních postupů a větvení
+            line_4: Automatický překladatelský autopilot
+            line_5: Včetně všech formátů - <a href="https://phraseapp.com/docs/guides/format-finder/">úplný
+              seznam</a>
+            line_6: Mobilní SDK pro 1 000 000 MAU
+            line_7: 
+          title: Pro
+          usecase: Pro moderní softwarové vývojové týmy, lokalizační týmy a globální
+            značky.
+        recommendation: Nejpopulárnější
+        seats_included: "%{count} zahrnutých uživatelů"
+        signup_cta: Zkuste zadarmo
+      price_month: "/ měsíc"
+      startup:
+        cta: Použít nyní
+        description: Nabízíme 50% slevu vybraným startupům a bezplatné plány pro open
+          source projekty.
+        headline: Předčasné spuštění?
+      subline: |-
+        Všechny plány nemají žádný limit na uložená slova a projekty. <br>
+         Vyberte si plán, který je vhodný pro velikost vašeho týmu a případ použití.
+    privacy:
+      content: 
+      headline: Ochrana osobních údajů
+      last_revised: naposledy revidováno na %{revised_at}
+      meta_description: PhraseApp bere vaše soukromí dat velmi vážně. Veškerá shromážděná
+        data budou zpracována společností PhraseApp v souladu s právními předpisy.
+    sketch:
+      meta_description: 
+      page_title: 
+    sketchplugin:
+      claim: 
+      claim_sub: 
+      docs_cta: 
+      features_headline: 
+      features_sub_headline: 
+      function_pull: 
+      function_pull_tooltip: 
+      function_push: 
+      function_push_tooltip: 
+      function_translate: 
+      function_translate_tooltip: 
+      headline: 
+      main_cta: 
+      sub_headline: 
+      usecase_iterations: 
+      usecase_iterations_tooltip: 
+      usecase_placeholder: 
+      usecase_placeholder_tooltip: 
+      usecase_sync: 
+      usecase_sync_tooltip: 
+      webinar_cta: 
+    terms:
+      headline: Všeobecné obchodní podmínky (VOP)
+      meta_description: Tyto podmínky služby upravují váš přístup k webům a službám
+        PhraseApp a jejich používání. Před použitím služby lokalizace si je prosím
+        pozorně přečtěte.
+  personas:
+    developers:
+      metrics:
+        metric_1: '50'
+        metric_2: '48'
+        metric_3: '95'
+        text_1: Snížení doby nasazení
+        text_2: Průměrně se ukládá na jedno vydání
+        text_3: Rychlejší doba obratu
+      quote:
+        headline: Proč vývojáři milují PhraseApp
+      stage:
+        slogan: Management překladů vytvořený pro vývojáře
+        slogan_tagline: Pokud jde o vývoj, vždy se snažíme o nejjednodušší řešení.
+          Vysoce intuitivní, efektivní a snadno integrovatelný, PhraseApp byl vytvořen
+          pro vývojáře vývojáři.
+      tabbed_content:
+        api_text: Upravte PhraseApp vašemu pracovnímu postupu. Naše <a href="https://help.phraseapp.com/phraseapp-api/phraseapp-api-docs"
+          target="_blank">API</a> vám umožňuje importovat soubory s překlady, stahovat
+          soubory s překlady, označovat klíče nebo komunikovat jinými způsoby s lokalizačními
+          daty uloženými v PhraseApp pro váš účet.
+        autopilot_text: Nechte PhraseApp automaticky přeložit nový obsah pomocí Strojového
+          překladu a Překladové paměti. S Autopilotem můžete automaticky přeložit
+          nové klíče nebo soubory do více jazyků přímo po jejich nahrání do aplikace
+          PhraseApp.
+        branching_support_text: Pracujte na více vydáních a verzích současně - stejně
+          jako v Git.
+        cli_text: Nástroj příkazového řádku umožňuje rychle procházet vaše projekty
+          a překlady z příkazového řádku namísto toho, abyste se obtěžovali s dlouhými
+          požadavky. K dispozici pro Linux, Mac OS X a Windows.
+        formats_text: PhraseApp podporuje obrovské množství způsobů, jak exportovat
+          a importovat překlady pro všechny běžné formáty souborů pro lokalizaci.
+          Při importu souborů, exportu souborů a přístupu API podporujeme následující
+          formáty.
+        nav_headline: Funkce pro vývojáře
+        ota_text: Publikujte své překlady rychleji a snadněji než kdykoli předtím.
+          Přestaňte čekat na další a začněte publikovat všechny vaše překlady v reálném
+          čase přímo v aplikaci PhraseApp s OTA.
+        repository_sync_text: PhraseApp nabízí nativní integraci GitHub a integraci
+          Bitbucket
+        webhook_text: Přizpůsobte si tok oznámení tím, že umožníte Webhooks upozornit
+          externí služby, jako jsou klienti chatu, nástroje pro řízení projektů nebo
+          externí rozhraní API událostí.
+    managers:
+      metrics:
+        metric_1: '50'
+        metric_2: '80'
+        metric_3: 2-3
+        text_1: Vyžadováno méně pracovní síly
+        text_2: Výrazný rozdíl v uživatelské zkušenosti a zapojení
+        text_3: Z práce ušetřené v průměru každý měsíc
+      quote:
+        headline: Proč manažeři milují PhraseApp
+      stage:
+        slogan: Nejlepší zkušenosti s lokalizačním softwarem
+        slogan_tagline: "Manažeři lokalizace, produktoví manažeři, techničtí manažeři
+          a další, všichni používají PhraseApp ke zlepšení, urychlení a rozšíření
+          svých lokalizačních projektů. Začněte s PhraseApp zvládat své pracovní postupy
+          z oblasti lokalizace.\n\n"
+      tabbed_content:
+        email_app_notifications_text: Vždy se informujte o všech nejnovějších změnách
+          v projektu prostřednictvím oznámení přímo ve službě PhraseApp a prostřednictvím
+          e-mailu.
+        jobs_text: Uspořádejte všechny své překladatelské úkoly přidělením členům
+          týmu, poskytnutím briefingů a nastavením termínů překladům podle vašeho
+          výběru.
+        nav_headline: Funkce pro manažery
+        proofreading_text: Snadno implementujte pracovní postup korektury a ověřování
+          pro nové a aktualizované překlady.
+        statistics_per_locale_text: Buďte vždy informováni o jednotlivých činnostech
+          členů týmu, včetně množství přeložených a ověřených slov, klíčů a mnoho
+          dalšího.
+        user_roles_text: Organizujte svůj lokalizační tým přiřazením dedikovaných
+          rolí a přístupových práv každému členovi týmu podle projektů a jazyků.
+    metrics:
+      headline: Máme důkaz
+      tagline: PhraseApp poskytuje silné, měřitelné výsledky pro naše zákazníky po
+        celém světě.
+      unit_days: dnů
+      unit_hours: hod
+      unit_percentage: "%"
+    translators:
+      metrics:
+        metric_1: '21'
+        metric_2: '90'
+        metric_3: '100'
+        text_1: Rychlejší překlady s aplikací SmartSuggest
+        text_2: Snížení počtu chyb
+        text_3: Méně tabulek
+      quote:
+        headline: Proč překladatelé milují PhraseApp
+      stage:
+        slogan: Skvělý nástroj pro překladatele
+        slogan_tagline: Na kontextu záleží. Proto se Phraseapp neustále snaží poskytovat
+          překladatelům zkušenosti s lokalizačním softwarem s hlubší kontextovou hodnotou.
+          Naše funkce In-Context Editor a Screenshot dosahují právě toho.
+      tabbed_content:
+        comments_text: Informovat, diskutovat nebo klást otázky členů týmu ohledně
+          konkrétních překladů komentováním jednotlivých klíčů.
+        editor_text: PhraseApp poskytuje užitečné nástroje a mechanismy pro řešení
+          velkého počtu klíčů a technických omezení v komplexních překladatelských
+          projektech.
+        history_text: Zkontrolujte všechny předchozí verze překladu v záložce Historie
+          našeho Editoru překladů.
+        in_context_editor_text: Editor PhraseApp In-Context lze integrovat téměř do
+          každé webové aplikace a poskytuje možnost přeložit obsah přímo na vaše stránky.
+        nav_headline: Funkce pro překladatele
+        search_key_tagging_text: Přidat více označení a sledovat, které klíče patří
+          do které části projektu.
+  selection_msg:
+    few: 
+    one: 
+    other: 
+    zero: 
+  simple_form:
+    hints:
+      package_offer:
+        pricing:
+          currency: Měna
+    labels:
+      contact:
+        email: E-mail
+        message: Zpráva
+        name: Název
+      demo_request:
+        company: Společnost
+        country_area_code_phone: 
+        email: E-mail
+        help_message: Zpráva
+        name: Název
+        other_country_area_code_phone: 
+        phone: Telefon
+  team:
+    fact:
+      aleks_maksimow: 'Bouchla jsem hlavou do kovu! : the_horns: Oh, a já pracuji
+        na dálku! : house_with_garden:'
+      christopher_murach: Jsem fanouškem DJ Bobo!
+      colin_witt: 
+      corinna_maier: 
+      dalibor_stajic: '"Faraway bojovník" podle jména, hedonist v srdci: úsměv:'
+      david_ost: 'Brzy budu vydávat svou vlastní hudbu, podívejte se na: smooth_smiling_face:'
+      edin_hadzic: 'Moji rodiče žijí v Ohiu. (pravdivý příběh!) Žiju v okamžiku: mrknutí:'
+      elina_eickstaedt: 
+      elizabeth_orwig: Kodér, cestovatel a běžec maratonu
+      fabian_kirchner: 'I když jsem šel do školy v blízkosti místa zvaného "Jižní
+        pól", dávám přednost létě! :slunný:'
+      felix_meese: 'Říkají tomu „royale se sýrem: cheese_wedge:'
+      frederik_vollert: 'Mám velkou sbírku rap-vinylu: sluchátka :, hrajte na violoncello:
+        poznámky: a já se učím mluvit rusky: Здравствуйте!'
+      gamze_kaplan: 
+      henning_schlinkmann: 'Přeložila jsem středověkou japonskou literaturu pro zábavu.
+        Mluvte se mnou o nápadech na tetování s použitím masky Kanji: tajemství:'
+      jana-marie_lecher: 'Dělat skládačky - to je můj druh jógy: mierne_smiling_face:'
+      jannis_rhein: 'Schwäbisch od přírody: sval:'
+      jenifer_eggeling: 
+      kathryn_ross: 'Od: flag-ca: do: flag-gb: then: flag-us: now: flag-de:'
+      kristina_reinhardt: Vycházeli z dna „Publius rusticus est“ a „Arthur est un
+        perroquet“.
+      malte_jansen: 'Když nejsem v kanceláři, najdete mě u stolního fotbalu: fotbal:'
+      manuel_boy: 'Hrdý autor prvních řádků kódu PhraseApp: počítač:: sval:'
+      mariana_tutlys: 'Když nejsem v kanceláři, tak mě najdete v HipHop Crew: tanečníci::
+        sluneční brýle:'
+      matthias_nitsche: 'V životě jsem vylezl přes 3000 balvanů - uvnitř i vně. A
+        je to pořád zábavné: mierne_smiling_face:: mountain:'
+      maximilian_schroeder: 'Zajímá vás jakýkoliv druh sportu - kromě Curlingu! #sorrycurling'
+      moritz_helbich: Moje pracovní místo je vzdálené 9,229,97 km od velitelství PhraseApp
+      mustafa_cetin: V mém životě jsem měl více než 2 400 000 plechovek Red Bull.
+      pierre_zenker: Život je příliš krátký na pití špatného vína
+      sharona_allameh: 'Mám tři kočky a ne to není příliš mnoho: cat2:: červenat se:'
+      soenke_behrendt: 'Vítěz 3 PhraseApp hackathons v řadě: trofej:: sval:'
+      sonja_gaertner: 
+      stefan_bruhns: 'Hudební chuť? Kytary prosím! :kytara:'
+      stephan_schoening: 'V mém životě jsem natočil více než 2 400 000 obrázků: camera_with_flash:'
+      sven_dunemann: 'V létě budu surfovat na pláži :ocean: :surfer: a v zimě mě můžete
+        chytit snowboarding :snow_capped_mountain: :snowboarder:'
+      til_fabel: 'Vášnivý motocyklista: racing_motorcycle:'
+      tim_ibo_leers: 'Zpátky! I do Capoeira: flag-br:: sluneční brýle:: stuck_out_tongue:'
+      tina_heit: 'Dokonalý večer: Užijte si :wine_glass: & :cheese_wedge: v Alsteru'
+      tobias_schwab: 'Jednou jsem cestoval 6.462 mil taxíkem a letadlem, jen abych
+        sledoval jeden fotbalový zápas: letadlo:: fotbal:'
+      torben_fabel: 'Jednou jsem začal svou profesionální kariéru jako pes sitter.
+        Když se podíváme zpět jako finančník, nebylo to špatné z práce: stuck_out_tongue:'
+      vincent_dahmen: 'V mém životě jsem zastřelil více než 2 400 000 nerfových šipek:
+        sluneční brýle:'
+      wolfram_graetz: Jsem fanouškem Dr. Dre!
+      ziwei_liu: Moje nejoblíbenější zvíře je lenochod, ten trojprstý s úsměvem Mona-Lisa.
+        Věděli jste, že můžete přijmout WWF?
+    role:
+      account_director: Vedoucí účtárny
+      account_executive: Vedoucí účtu
+      account_manager: Správce účtu
+      brand_manager: Správce značek
+      business_development_manager: Business Development Manager
+      business_development_student: Student pro rozvoj podnikání
+      ceo: Generální ředitel (CEO)
+      content_marketing_manager: Content Marketing Manager
+      csm: Správce úspěchu zákazníka
+      cso: Chief Strategy Officer (CSO)
+      cto: Chief Technology Officer (CTO)
+      engineer: Inženýr
+      engineering_intern: Inženýrství Intern
+      head_of_cs: Vedoucí úspěchu zákazníka
+      head_of_hr: Vedoucí oddělení lidských zdrojů
+      head_of_marketing: Vedoucí marketingu
+      head_of_product: Vedoucí produktu
+      head_of_sales: Vedoucí prodeje
+      hr_coordinator: HR koordinátor
+      hr_manager: Manažer lidských zdrojů
+      junior_sales_manager: Junior Sales Manager
+      lead_generation: Vedoucí generace
+      marketing_manager: Marketingový manažer
+      online_marketing_student: Online Marketing Student
+      operations_manager: Finance Student
+      product_manager: Produktový manažer
+      product_marketing_manager: 
+      recruiter_female: Náborář
+      sales_development_rep: Zástupce pro rozvoj prodeje
+      startegic_project_manager: Vedoucí provozu
+      technical_lead_gen: Inženýr růstu
+      visual_designer: 
+  user_requests:
+    form:
+      cause_for_help: Jak jsi nás našel?
+      pressing_problem: Jaký je váš nejnaléhavější problém?
+      send_message: Zkontaktovat
+      who_are_you: Kdo jsi?
+      your_email_address: Jaká je vaše e-mailová adresa?
+      your_message: S čím vám můžeme pomoci?
+    new:
+      how_can_we_help: Jak vám můžeme pomoci?
+  user_requests_controller:
+    message_sent_successfully: Zpráva úspěšně odeslána

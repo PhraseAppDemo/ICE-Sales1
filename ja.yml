@@ -1,0 +1,1449 @@
+---
+ja:
+  about:
+    work_with_us:
+      cta: 現在募集中の求人をみる
+      headline: 私たちと働く
+      text: 何か素晴らしいものを作り出す情熱、創造性を開花できるスペース、自分の能力を表現して、自分らしくいることを受け入れてくれる場所。そんな風に団結されているチームの一員となって仕事をしたいですか？連絡をください。自分の場所を見つけて、一緒に仕事をしましょう！
+  application:
+    application:
+      contact_information:
+        question: 何か質問がありますか?  <a href="mailto:%{email_address}">%{email_address}</a>
+          に連絡していただくか、あるいは、私たちのセールスチームに電話してください <a href="tel:%{phone_number}">%{phone_number}</a>
+      footer:
+        about: 
+        api: API
+        blog: 
+        contact: お問い合わせ
+        demo: デモ
+        docs: ドキュメンテーション
+        enterprise: 
+        features: 機能
+        home: ホーム
+        imprint: 奥付
+        jobs: キャリア
+        landing_pages: 
+        migrating: 移行
+        partner: パートナー
+        press: 
+        pricing: 料金
+        privacy: プライバシー
+        solutions:
+          dropdown: ソリューション
+        status: サービス ステータス
+        terms: 約款
+        topics:
+          company: 企業
+          info: 製品情報
+          solutions: ソリューション
+          support: サポート
+        webinars: ウェビナー
+      landingpage_navigation:
+        contact_us: 
+      navigation:
+        account_management: アカウント マネージメント
+        blog: ブログ
+        blog_text: 最新のローカライゼーション考察およびチュートリアルを読む
+        code_samples: コード サンプル
+        customers: カスタマー
+        demo: デモ
+        demo_text: PhraseApp を試す
+        developers: 開発者
+        developers_text: コマンドラインから直接、簡単な統合、シンプルな管理
+        documentation: ドキュメンテーション
+        documentation_text: 使用を開始するために必要な全情報
+        features: 機能
+        getting_started: 開始
+        installation: インストール
+        login: ログイン
+        managers: マネージャー
+        managers_text: 役割、割当て可能なジョブとチームをコーディネートする
+        notifications: 通知
+        pricing: 料金
+        quickstart: 開発者用クイックスタート
+        reports_statistics: リポートおよび統計
+        resources: 資料元
+        signup: 無料トライアル
+        solutions: ソリューション
+        solutions_text: チーム全体をまとめる、ただひとつのプラットフォーム
+        toggle_navigation: トグル型ナビゲーション
+        tools_libraries: ツールおよびライブラリ
+        translators: トランスレーター
+        translators_text: ワークフローをより迅速にし、コピーチェンジを現実のコンテキストに合わせて調整
+        user_management: ユーザー管理
+        webinars: ウェビナー
+        webinars_text: 更になる特徴と最善の方法を知る
+  apply:
+    button: 
+    form:
+      hints:
+        certificates: 
+        cv: 
+      labels:
+        certificates: 
+        cv: 
+        department: 
+        email: 
+        letter_of_motivation: 
+        name: 
+        phone_number: 
+        photo: 
+        referrer: 
+      placeholders:
+        your_email_address: 
+        your_name: 
+        your_phone_number: 
+    headline: 
+    subheader: 
+    title: 
+  cli_examples:
+    labels:
+      create_job: 
+      download_locale: 
+      more: 
+      upload_file: 
+  contacts:
+    form:
+      send_message: メッセージを送る
+      your_email_address: あなたのEメールアドレス
+      your_message: あなたのメッセージ
+      your_name: あなたのお名前
+    intro: PhraseAppで何かお困りですか? 下のフォームから、サポートチームまでメッセージをお送りください。
+    new:
+      contact_us: コンタクト
+      we_re_here_to: 私たちはどのような質問やコメントにも協力するためにここにいます。
+    view_documentation: ドキュメンテーションを見る
+  contacts_controller:
+    message_could_not_be_sent: 
+    message_sent_successfully: 
+  date:
+    abbr_month_names: 
+    formats:
+      default: 
+      long: 
+      short: 
+    month_names: 
+  demo_requests:
+    form:
+      company: あなたの会社
+      email: お客様のビジネスメール
+      help_message: どうかしましたか？
+      name: お名前 *
+      other-country-code-phone-hint: 
+      phone: あなたの電話番号
+      send_message: リクエストを送信する
+    headline: デモバージョンのダウンロード
+    subline: 個人用デモをスケジュールする
+  demo_requests_controller:
+    message_sent_successfully: 
+  errors:
+    messages:
+      invalid_email_format: 
+  features:
+    best_choice: 
+    enterprise:
+      contact_us: 
+      headline: 
+      optional_available: 
+    groups:
+      automated_communication: 
+      change_tracking: 
+      context: 
+      control: 
+      edit_and_organize: 
+      integration: 
+      proofreading_workflows: 
+      quality: 
+      special_requirements: 
+      user_management: 
+    list:
+      acl:
+        description: <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/user-management"
+          target="_blank">プロジェクトおよび言語に合わせて、各チームメンバーに役割とアクセス権を割当てることで、</a>ローカライゼーションチームを組織します。
+        title: ユーザーロールおよびアクセスコントロール
+      api:
+        description: <a href="https://help.phraseapp.com/phraseapp-api/phraseapp-api-docs"
+          target="_blank">API</a>により、PhraseApp をワークフローに合わせて、調整します。API により、ローカルファイルのインポート、ローカルファイルのダウンロード、Key
+          のタグ、PhraseApp アカウントに保存されたローカライゼーションデータのその他の処理が、可能になります。
+        title: API
+      autopilot:
+        description: PhraseApp <a href="https://help.phraseapp.com/translate-website-and-app-content/let-phraseapp-translate-for-you-using-machine-translation/autopilot"
+          target="_blank"> の機械翻訳機能および Translation Memory により、</a>新しいコンテンツを自動翻訳することができます。
+        title: Autopilot
+      branching:
+        description: Git のように、<a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-use-version-control-with-phraseapp/branches"
+          target="_blank">複数のリリースおよびバージョン</a>を、同時に処理することができます。
+        title: ブランチングおよびバージョニング
+      cli:
+        description: <a href="https://help.phraseapp.com/setup/set-up-phraseapp-for-any-technology-or-platform/other-technologies"
+          target="_blank">Command Line Tool</a> なら、もう、ロングカール リクエストでの面倒な処理の必要はありません。コマンドラインから直接、迅速にプロジェクトおよび翻訳を操作することができます。Linux、macOS、
+          Windows に対応しています。
+        title: Command Line Tool
+      comments:
+        description: Inform, discuss or ask team members questions regarding specific
+          translations by <a href="https://help.phraseapp.com/" target="_blank">各
+          Key へのコメント</a> 機能を使って、翻訳に関して、チームメンバーと情報を交換したり、ディスカッションしたり、質問したりすることができます。
+        title: コメントおよびメンション
+      conversion:
+        description: <a href="https://help.phraseapp.com/" target="_blank">PhraseApp
+          妥当性チェック</a> により、言語ファイルの破損を回避します。
+        title: ファイル形式変換およびシンタックス検証
+      formats:
+        description: PhraseApp は、<a href="https://phraseapp.com/docs/guides/formats/"
+          target="_blank">一般的なローカライゼーション ファイル形式</a> の翻訳のエクスポートおよびインポート方法に、幅広く対応しています。ファイルのインポート、エクスポート、API
+          アクセスにおいて、次の形式に対応しています。
+        title: 40+ ファイル形式
+      glossary:
+        description: 一貫性は、とても大切です。<a href="https://help.phraseapp.com/improve-translation-quality/use-glossary/translation-glossary"
+          target="_blank">Glossary</a> は、全言語に一貫して使用される、ビジネスに適した専門用語のリストです。
+        title: Glossary
+      history:
+        description: Translation Editor の<a href="https://help.phraseapp.com/translate-website-and-app-content/phraseapp-translation-editor/translation-editor"
+          target="_blank">History</a> タブでは、以前の翻訳を確認することができます。
+        title: History
+      in_context_editor:
+        description: <a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-setup-and-configure-the-phraseapp-in-context-editor-ice/"
+          target="_blank">In-Context Editor</a> は、どんなウェブアプリケーション内にでも、統合することができ、サイトのコンテンツを、その場で翻訳することができます。
+        title: ウェブ用 In-Context Editor
+      jobs:
+        description: チームメンバーの指名、ブリーフィングの提供、選択した地域の期日の設定により<a href="https://help.phraseapp.com/manage-translations-and-languages/assign-translation-work-with-jobs/jobs"
+          target="_blank">翻訳タスクの管理</a>を行います。
+        title: ジョブの割当て
+      mfa:
+        description: セキュリティスタンダードをアップし、2FA トークンや Oauth アクセストークン等の<a href="https://help.phraseapp.com/"
+          target="_blank">二要素承認</a> を行います。
+        title: 二要素承認 (2FA/MFA)
+      notifications:
+        description: PhraseApp および E メールの通知により、プロジェクトの変更に関する最新情報を、常に<a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/communicate-with-your-team/notifications"
+          target="_blank">取得</a>することができます。
+        title: E メールおよび In-App 通知
+      ota:
+        description: 今まで以上に素早く、簡単に翻訳を完成させ、リリースすることができます。次の展開を待つ必要は、もうありません。PhraseApp
+          の <a href="https://help.phraseapp.com/phraseapp-over-the-air-ota/phraseapp-over-the-air-introduction"
+          target="_blank">OTA</a> により、リアルタイムで翻訳を公開することができます。
+        title: Over the Air (OTA)
+      proofreading:
+        description: 新しい翻訳や改訂された翻訳の<a href="https://help.phraseapp.com/translate-website-and-app-content/verify-and-proofread-translations/verification-and-proofreading"
+          target="_blank">プルーフリーディングおよび認証ワークフロー</a>を、簡単に実装することができます。
+        title: プルーフリーディング ワークフロー
+      repo_sync:
+        description: PhraseApp では、<a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-use-version-control-with-phraseapp/github-sync"
+          target="_blank">GitHub 統合および Bitbucket 統合</a>を提供しています。
+        title: GitHub および Bitbucket Sync
+      screenshots:
+        description: 翻訳 Key へ<a href="https://help.phraseapp.com/manage-translations-and-languages/manage-keys-efficiently/screenshots"
+          target="_blank">スクリーンショットを添付</a>することにより、コンテキスト情報を増大させます。
+        title: 添付可能なスクリーンショット
+      search:
+        description: <a href="https://help.phraseapp.com/manage-translations-and-languages/manage-keys-efficiently/working-more-efficiently-with-tags"
+          target="_blank">複数のタグを追加</a>し、Key が属するプロジェクトセクションを追跡します。
+        title: 検索および Key のタグ付け
+      smartsuggest:
+        description: PhraseApp Translation Editor での翻訳にて、リアルタイムでの翻訳提案を活用することができます。<a
+          href="https://help.phraseapp.com/translate-website-and-app-content/phraseapp-translation-editor/smartsuggest"
+          target="_blank">SmartSuggest</a> なら、翻訳作業をスピードアップし、翻訳の一貫性を改善することができます。
+        title: SmartSuggest
+      source_copy_editing:
+        description: PhraseApp で直接、<a href="https://help.phraseapp.com/manage-translations-and-languages/manage-locales-and-languages/managing-locales-and-languages"
+          target="_blank">言語ファイルを編集</a>することができます。
+        title: 資料コピーの編集
+      stats:
+        description: 翻訳および認証したワード、Key 等の量を含む、チームメンバーの活動に関する<a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/reports-and-statistics"
+          target="_blank">最新情報を、常に把握</a>しましょう。
+        title: ユーザー / 地域による統計
+      tm:
+        description: <a href="https://help.phraseapp.com/improve-translation-quality/use-translation-memory/translation-memory"
+          target="_blank">Translation Memory</a> により、ローカリゼーションプロセスを、スピードアップすることができます。Translation
+          Memory は、プロジェクトで使用された翻訳を記憶し、マッチする結果を提案します。
+        title: Translation Memory
+      tracking:
+        description: <a href="https://help.phraseapp.com/manage-accounts-teams-and-projects/reports-and-statistics"
+          target="_blank">最新の活動をモニタリング</a>し、ユーザー、イベント、特定の期間によるフィルタリングにより、プロジェクトの動向を把握することができます。
+        title: Acitivity Tracking
+      webhooks:
+        description: チャット クライアント、プロジェクト管理ツール、イベントや変更の外部 API 等の外部サービスへの通知を<a href="https://help.phraseapp.com/phraseapp-for-developers/how-to-configure-webhooks/webhooks"
+          target="_blank">Webhook</a> に許可することで、通知機能をカスタマイズします。
+        title: 'Webhook 統合 (例: Slack)'
+    names:
+      2fa: 
+      access_control: 
+      account_manager: 
+      advanced_workflows: 
+      api_access: 
+      attachable_screenshots: 
+      autopilot: 
+      bitbucket_sync: 
+      branching: 
+      comment_mentionings: 
+      extended_statistics: 
+      filterable_activities: 
+      formats_and_syntax_validation: 
+      github_and_bitbucket_sync: 
+      github_sync: 
+      glossary: 
+      history: 
+      in_context_editor: 
+      jobs: 
+      mobile_statistics: 
+      notifications: 
+      onboarding_support: 
+      on_premise_hosting: 
+      ordering: 
+      ota: 
+      pci: 
+      pre_translations: 
+      proofreading: 
+      search_and_tagging: 
+      single_sign_on: あなたの選んだアイデンティティプロバイダで、SAML経由で便利にPhraseAppにアクセスしてください。
+      sketch: 
+      sla: 
+      smart_suggestions: 
+      source_copy_editing: 
+      support: 
+      translation_memory: 
+      verification_system: 
+      webhook_integrations: 
+      workflow: 
+    package_prices_per_user_per_month: 
+    sections:
+      developer_centric:
+        description: PhraseApp は、開発者のニーズに焦点を置いてデザインされています。つまり、迅速で信頼性の高い言語ファイルのインポート、エクスポート、多彩な
+          API、専用 CLI ツール、40+ ファイル形式への対応、PhraseApp のブランチング機能等、様々なメリットを活用することができます！
+        items:
+          api: 強靭な API
+          branching: ブランチング & バージョニング
+          cli: CLI Tool
+          formats: 40+ ファイル形式
+          repo_sync: Repository Sync
+          webhooks: Webhook
+        title: 開発者第一主義
+      formats:
+        description: 様々なプラットフォームおよびプログラミング言語を用意し、幅広いローカライゼーションファイル形式に対応しています。
+        title: あらゆる形式に対応
+      getting_things_done:
+        description: PhraseApp で直接、ジョブ形式のソフトウェア翻訳プロジェクトを管理することができます。翻訳が必要な場合、あるいは翻訳が完了した場合、関係するチームメンバーに、自動的に通知します。リアルタイムのプロセス
+          モニタリング、レポート、統計を、常に制御します。
+        items:
+          jobs: ジョブの割当て
+          notifications: 通知 & コメント
+          proofreading: プルーフリーディング ワークフロー
+          stats: プログレス統計
+        title: GTD
+      workflow:
+        description: React コンポーネントからリアルタイム webhook まで、最新のツールによる迅速な取付け、即製造可能な統合が実現しました。
+        title: より迅速な翻訳ワークフロー
+    table_head:
+      description:
+        column-1: 
+        column-2: 
+        column-3: 
+        column-4: 
+    tooltips:
+      2fa: 
+      access_control: 
+      account_manager: 
+      advanced_workflows: 
+      api_access: 
+      attachable_screenshots: 
+      autopilot: 
+      bitbucket_sync: 
+      branching: 
+      comment_mentionings: 
+      extended_statistics: 
+      filterable_activites: 
+      filterable_activities: 
+      formats_and_syntax_validation: 
+      github_and_bitbucket_sync: 
+      github_sync: 
+      glossary: 
+      history: 
+      in_context_editor: 
+      jobs: 
+      mobile_statistics: 
+      notifications: 
+      onboarding_support: 
+      on_premise_hosting: 
+      ordering: 
+      ota: 
+      pci: 
+      pre_translations: 
+      proofreading: 
+      search_and_tagging: 
+      single_sign_on: あなたの選んだアイデンティティプロバイダで、SAML経由で便利にPhraseAppにアクセスしてください。
+      sketch: 
+      sla: 
+      smart_suggestions: 
+      source_copy_editing: 
+      support: 
+      translation_memory: 
+      verification_system: 
+      webhook_integrations: 
+      workflow: 
+    your_choice: 
+  general:
+    beta: 
+    check_out_the_live_demo: 
+    coming_soon: 
+    cta:
+      get_a_demo: デモの予約
+    new: 
+    read_more: 
+    see_details_in_our_documentation: ドキュメンテーションで詳細を読む
+    trial:
+      start_your_free_trial: 無料トライアル
+      subline: 簡単なセットアップ、14 日間の無料トライアル。いつでも、購入もしくはキャンセルが可能です。
+      teaser_headline: 開始！
+    users: 
+    we_are_hiring: キャリア
+  home:
+    cli:
+      available_on_github: 
+      free_download: 無料ダウンロード
+      headline: |-
+        あなたのターミナル内でPhraseApp API全てを。
+        PhraseApp CLIツールと共に。
+      learn_more: より詳しく知る
+      meta_description: 
+      page_title: PhraseApp CLIツールのダウンロード
+      step1_headline: 1. ダウンロードとインストール
+      step1_text: クライアントを%{link}からダウンロードしてインストール。
+      step2_headline: 2. 初期化
+      step2_text: あなたのプロジェクトを初期化し設定するには%{command}コマンドを使用してください。
+      step3_headline: 3．アップロード
+      step3_text: PhraseAppへとあなたの現存のローカルファイルをアップロードするには%{command}コマンドを使用してください。
+      sub_headline: 長いcurlリクエストを弄る代わりに、PhraseApp CLIツールはあなたのプロジェクトと翻訳を素早くコマンドラインからナビゲートすることを可能にします。Linux、
+        Mac OS X そして Windows向けに利用可能です。
+      view_on_github: Githubで閲覧
+    enterprise:
+      account_manager_text: でも、初期セットアップを超えて、私たちはあなたの側に常にあり、迅速かつ単純な方法で任意の懸念の世話をする中央の接触担当者とあなたとあなたのチームに同行します。
+      account_manager_title: パーソナル アカウント マネージャー
+      availability_description: 
+      availability_headline: 
+      get_in_touch: 
+      headline: 
+      integrate_text: 
+      integrate_title: 
+      meta_description: PhraseAppオンプレミスは、ホスティングインフラストラクチャまたはクラウドプロバイダー内のPhraseAppです。
+        フレーズアプリは、Azure、アマゾン AWS、および Google クラウドプラットフォームをサポートしています。
+      page_title: 
+      secure_desc: 
+      secure_headline: 
+      security_description: PhraseApp オンプレミスは、厳格なデータホスティング規制を持つ企業に最適なソリューションです。 会社のファイアウォールの背後にある独自のITインフラストラクチャに簡単に統合できます。
+        PhraseApp オンプレミスを使用すると、すべてのデータを制御できます。
+      security_headline: データ主権
+      support_description: デルのエンタープライズレベルのサービスとプレミアサポートは、お客様のチームの成功に専念しています。 必要に応じて、包括的なドキュメント、統合チュートリアル、および個人的なサポートを提供します。
+      support_headline: 
+      support_text: デルは、お客様のチームの成功に尽力し、セットアップフェーズ全体でエンタープライズのお客様としてお客様をサポートします。
+      support_title: 
+      translate_on_infrastructure: 会社のファイアウォールの背後にある独自のハードウェア上の翻訳管理ソリューション。 チームと共同作業を行い、プロの翻訳者を見つけてプロセスを最優先します。
+      trusted_by: 
+    index:
+      boost_localization:
+        api_headline: API
+        api_text: API ​は、あらゆるソフトウェア ローカライゼーション プロセスに対応できるように、設計されています。重要なローカルファイルのインポート、ローカルファイルのダウンロード、Key
+          のタグ付け、API を介した PhraseApp に保存されているローカライゼーション データの処理が、可能になります。
+        editor_headline: Translation Editor
+        editor_text: 様々なコンテキストおよびサポート機能により、翻訳をできるだけ早く管理できるように、Translation Editor は構築されています。ジョブにあった適切なツールを活用して、より迅速な業務処理を行いましょう。
+        features: PhraseApp 機能についての詳細
+        headline: ローカリゼーションを迅速化する必須機能を全て網羅
+        integrations_headline: 統合
+        integrations_text: 世界中のそれぞれの地域において、ローカライゼーションチームが有する要件は、異なります。API、Over the
+          Air、GitHub Sync 等、様々な統合バリエーションを提供することにより、PhraseApp の簡単なワークフローへの統合を実現しました。
+        quality_headline: クオリティ
+        quality_text: PhraseApp には、Glossary、Translation Memory、In-Context Editor、SmartSuggest
+          等、翻訳のクオリティ、そして一貫性を向上するための様々な機能が、搭載されています。
+        tagline: PhraseApp は、ローカライゼーションチームが集結し、翻訳をより速く、簡単に発表することができるプラットフォームです。
+      customer_logos_tagline: 1,000+ 社以上が使用
+      features:
+        developer: 開発者
+        headline: 全ての人々にとって、より良いローカライゼーション体験
+        manager: マネージャー
+        tagline: PhraseApp は、全チームメンバーを考慮に入れて構築された翻訳管理ソリューションです。
+        translator: トランスレーター
+      quote_slider:
+        headline: PhraseApp が愛される理由
+        read_study: フル ケース スタディを読む
+      references:
+        headline: 世界中 1000 社以上の企業が選んだ翻訳ソリューション
+        tagline: ビジネスのグローバルな測定、市場へのより迅速なアクセス、より良いユーザー体験の実現は、多くの企業がローカライゼーションにおいて PhraseApp
+          に求めることへの一部に過ぎません。
+      slogan: ローカライゼーションの成功を目指して
+      slogan_tagline: '膨大な翻訳スプレッドシート、長々とした E メールでのコミュニケーション、破損した言語ファイル、不十分なコンテキスト、不透明なプロセス、翻訳リリースの保留等、ローカライゼーションを困難にする全てのことに、今こそ、別れを告げる時です。
+
+'
+      submit_button_label: 無料トライアル
+      testimonials:
+        kreditech:
+          author_name: 
+          author_position: Kreditechの取締役副社長
+          quote: "„PhraseAppは、Kreditechが国レベル・製品レベル両方で国際的展開に成功したことの重要な要素の一つでした。”"
+        uship:
+          author_name: 
+          author_position: uShipのトップ ソフトウェア アーキテクト
+          quote: "„PhraseAppは、現在市場で最もデベロッパー フレンドリーで継続的デプロイメント フレンドリーなソリューションです。”"
+    jobs:
+      apply_now_label: 
+      benefits:
+        headline: 得られるメリット
+      benifits:
+        expertise:
+          headline: あらゆる種類の専門知識を有している人々から学びます
+          text: 当社は絶えず発達しており、チーム間でいつも知識と個人の長所を共有するよう常に努めています。ソフトウェアエンジニアリングとローカリゼーションの専門家から学んで、自分の道を探ることができます。
+        flexible:
+          headline: 楽しく働ける柔軟な環境
+          text: 生産性が高く楽しい職業環境で働くことができます。お互いに支え合い、効果的に働けるように自由を与えます。
+        free_drinks:
+          headline: 無料の飲み物と果物
+          text: 一緒に座って昼食を取れる空間と必要なすべてのものが備えられているキッチンを楽しむことができます。また健康に良い無料の飲み物と果物が常にあります。
+        hierarchy:
+          headline: 漸進的な階層システム
+          text: 当社は、各チームメンバーが貢献し、自分の創造力、個人的なスキルと才能を完全に発揮できるようにする機動的な自己組織化システムに構造化されています。
+        latest_technology:
+          headline: 最新の技術を利用します。
+          text: 当社は、常にソフトウェア開発の最新技術を利用しており、最高のコード品質を追求し、次の人もこのように働くように気を配っています。
+        location:
+          headline: 'とても完璧に位置している最上階のオフィス '
+          text: 'ハンブルグの中心部にある明るく広々としたデザイナーオフィスで楽しく仕事をすることができます。すべての従業員に思考に必要な独自の場所と協力の空間を与えます。 '
+        team_events:
+          headline: '定期的なチームイベント '
+          text: ハンブルグの全景を見渡せる屋上のテラスをぜひお楽しみください。仕事が終わった後、冷えたビールや素敵な朝食付きの古き良きバーベキューを同僚と一緒に食べることができます。
+        work_with:
+          headline: 多数の人々と共に働くことができます
+          text: '異なるスキルと才能を持っているが、重要なものを作ろうという情熱によって一つにまとめられている多数の開放的な若者のチームの一員になることができます。 '
+      core_value:
+        be_friendly_helpful: 
+        be_open_awesome: 
+        move_fast_agile: 
+        stay_hungry_challenging: 
+        think_ahead_outstanding: 
+        trust_yourself_others: 
+      core_values:
+        headline: 当社の基本的価値観
+        text: 当社のPhraseAppチームは、日常のビジネスで指針となるいくつかの簡単な価値観に従って事業を行っています。
+      employee:
+        david: 
+        fabian: 
+        jannis: 
+        kathryn_ross: 
+        manuel: 
+        tim: 
+        tina_heit: 
+        ziwei_liu: 
+      jobs: PhraseAppに参加してください！
+      meta_description: 市場商人、Ruby/Go開発者としてPhraseAppチームに参加するか、または営業チームの一員になることができます。
+      positions:
+        headline: 現在の就職口
+        initiative:
+          headline: 探している職が見つかりませんでしたか？
+          text: ぜひともご連絡ください当社にお問い合わせするか、または積極的に応募してください！
+      subline: 当社は、迅速かつ簡単で透過的な翻訳管理ソリューションを提供することで、世界中のソフトウェアローカライゼーションチームの生産性を向上させています。
+      view_current_openings: 現在の就職口を見る
+      what_our_employees_say:
+        headline: 従業員の言葉
+    on_premise:
+      contact:
+        teaser_headline: 
+        teaser_tagline: 
+      features_headline: 
+    voucher:
+      messages:
+        success: バウチャーの有効化が成功しました。あなたの初めてのオーダーの際に、あなたの個有のバウチャーコードを入力できます。
+  job_applications:
+    create:
+      success_message: 
+  landingpage:
+    home:
+      enterprise:
+        get_in_touch: 繋がりましょう
+  layouts:
+    application:
+      contacts:
+        new:
+          page_title: PhraseAppチームに連絡を取る
+      demo_requests:
+        new:
+          page_title: 個人的なデモにサインアップ
+      home:
+        index:
+          page_title: 'PhraseApp: ソフトウェア翻訳管理'
+          schema_contact_option: 
+        jobs:
+          page_title: 当社はハンブルグで職員を雇っています
+      pages:
+        about:
+          page_title: PhraseAppについて
+        demo:
+          page_title: PhraseApp を実体験する
+        features:
+          page_title: 翻訳管理が容易
+        features_developers:
+          page_title: 
+        features_managers:
+          page_title: 
+        features_translators:
+          page_title: 
+        imprint:
+          page_title: インプリント
+        pricing:
+          page_title: PhraseApp のフリートライアル、規模拡大に対応可能でフェアな価格
+        privacy:
+          page_title: PhraseApp プライバシーポリシー
+        terms:
+          page_title: PhraseApp 利用規約
+      page_title: 'PhraseApp: ソフトウェア翻訳管理'
+      user_requests:
+        new:
+          page_title: PhraseAppチームに連絡を取る
+  meta:
+    description: あなたのソフトウェアをより良く翻訳しましょう。ロケールファイルをオンラインで編集したり共有したりしましょう。あなたの翻訳家と作業に取り組むか、あるいはプロフェッショナルな翻訳をあなたのローカリゼーションプロジェクトのために注文しましょう。
+  packages:
+    description:
+      control: 
+      core: 
+      quality: 
+    feature_teaser:
+      control: 検証システム、高度なワークフロー、レポート作成と　<a data-turbolinks="false" data-anchor="#control-features"
+        href="#">more</a>
+      core: |-
+        無制限の単語、API、翻訳の順序、
+        オンラインサポートと　<a data-turbolinks="false" data-anchor="#core-features" href="#">more</a>
+      quality: Translation Memory、用語集、In-Context-Editorと　<a data-turbolinks="false"
+        data-anchor="#quality-features" href="#">more</a>
+    intro:
+      header: 3つのプランがあります。あなたが選択します。
+      text: コアから始めるか、プランに付加的機能を追加してください。すべての機能を試して、適切なプランを選択することができます。いつでもプランをアップグレードできます。
+  pages:
+    about:
+      about: PhraseAppについて
+      blog:
+        cta: 記事をもっとみる
+      customer-stories:
+        headline: 'サクセスストーリー '
+        paragraph: PhraseAppを他社がどのように利用して顧客との強い関係を構築し、ビジネス方法を変えているのかを学びましょう。
+      for_software_creators_translating: ソフトウェア製作者にとって、製品翻訳は自然に努力不要でできるべきです。
+      from_our_blog:
+        headline: ブログから
+      get_social: ソーシャルメディアでフォローする
+      meta_description: PhraseAppは「phrase」という名のプロトタイプからスタートしました。PhraseAppは現在40ヵ国を超える何百ものビジネスで利用され、急速に成長しています。
+      mission-paragraph: ソフトウェアのローカリゼーションをより迅速に、より簡単に、より透明にすることで、世界中のチームの生産性を高めています。
+      misson-headline: '私たちのミッション: 痛みのないソフトウェアローカリゼーション'
+      our-team: 素晴らしいチームメイトたちと出会う
+      our_team:
+        and_you:
+          text: 一緒にやりましょう
+          title: あなたは？
+      phraseapp-story-1: 投資家が「4週間でプラットフォームを仕上げなければならない！」と当時私たちが取り組んでいた旅行予約のプラットフォームについて言いました。そして「24ヵ国語で利用できるようにもしてほしい」と加えたのです。当時私たちのチームは、急成長しているスタートアップのソフトウェア開発への経験はありましたが、このようなペースでの国際化は急速すぎました。リサーチの結果、この規模のソフトウェアを容易にローカリゼーションできる製品を探すのは難しいことでした。結局私たちは、翻訳者が予約プラットフォームを閲覧しながら、所定のWebテンプレートをローカライズできるアプリケーションを構築することにしたのです。所定のテンプレートを編集するという方法は、即座にプロセスをスピードアップさせ、最終的に『In-Context
+        Editor』の基盤となりました。
+      phraseapp-story-2: 同僚の開発者たちの反応はというと、多くのポジティブなフィードバックが集まり、是非彼らのプロジェクトで利用したいとの申し出を受けたのです。こうして2011年後半、私たちが作り出したこのツールを使ってプラットフォームのローカリゼーションするというアイディアがPhraseAppのプロトタイプとして開発されました。
+      phraseapp-story-3: 1年後には顧客数も増え、完全ローカリゼーションプロセスを目指し、APIクライアント、統合ツール、ワークフローサポートを提供して、このツールがプラットフォームに拡張されました。私たちの目標は明らかなものとなりました。ソフトウェア開発者のローカリゼーション問題を解決し、ローカリゼーションマネージャやソフトウェア翻訳者の一般的なタスクに対しても、より簡単なソリューションを実現させることです。
+      phraseapp-story-4: これこそが、私たちがここに存在している理由であり、今後も継続してゆきます。私たちは、ローカリゼーションプロセスから不要な手順を排除し、すべての方法においてソフトウェアのローカライズを簡単にすることを常に目標としています。PhraseAppは急速に成長し、現在60ヵ国をも超える何百ものビジネスで利用されています。
+      stats:
+        countries:
+          label: ヵ国
+          value: 60+
+        languages:
+          label: 様々な言語
+          value: 145+
+        translated_words:
+          label: 万の翻訳語数
+          value: 260+
+        users:
+          label: PhraseAppユーザー
+          value: 30k+
+      story: ウラ話
+      subline: PhraseAppはウェブサイトや携帯アプリケーションをローカライズする一番シンプルな方法ですPhraseAppを利用している世界中のお客様が、最も包括的でディベロッパーフレンドリーな翻訳管理ソリューションであるとしています。
+      we_believe_in_a: 私たちは全ての人々が母国語でソフトウェアを使えるべきであると思っています。
+    customers:
+      customer_story:
+        comdirect:
+          company: 
+        companies: 
+        company: 
+        cvent:
+          company: 
+          headline: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          headline_5: 
+          headline_6: 
+          headline_7: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_11_1: 
+          p_11_2: 
+          p_11_3: 
+          p_11_4: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: ソフトウェアエンジニア主任、Cvent
+            text: "『PhraseApp により、ローカライゼーションプロセスの最新化、そしてアプリケーションのグローバルな展開を実現することができました。』"
+          result_1: 
+          result_2: 
+          result_3: 
+        download: 
+        fair-trade-usa:
+          benefits:
+            headline: 
+            p_1: 
+            p_2: 
+            p_3: 
+            subhead: 
+          challenge:
+            headline: 
+            p_1: 
+            p_2: 
+            p_3: 
+            subhead: 
+          company: 
+          headline: 
+          introduction:
+            headline: 
+            p_1: 
+          quote1:
+            author_position: 技術革新副社長、Fair Trade USA
+            text: "『PhraseApp は、デジタルアプリケーションのシームレスなローカライゼーションを行う、小規模ながらも力強いエンジニアリングチームの中心的役割を担っていました。』"
+          result_1: 
+          result_2: 
+          result_3: 
+          solution:
+            headline: 
+            p_1: 
+            p_2: 
+            p_3: 
+            p_4: 
+            subhead: 
+          stats:
+            countries:
+              label: 
+              value: 
+            partners:
+              label: 
+              value: 
+            process_time:
+              label: 
+              value: 
+            reached:
+              label: 
+              value: 
+        familo:
+          '1': 
+          '10': "『PhraseApp は、私達のエクスペクテーション、つまり期待を大幅に上回るものでした。ソフトウェアにより、ローカライゼーションを合理化し、産業におけるトップ企業となることができました。その結果、大規模なローカライゼーションが可能になりました。』"
+          '11': 
+          '12': 
+          '13': 
+          '14': 
+          '15': 
+          '2': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          author:
+            name: Hauke Windmueller（ハウケ・ヴィンドミュラー）
+            position: CEO、FAMILO
+          headline: 
+          result_1: 
+          result_2: 
+          result_3: 
+        features_used: 
+        headline: 
+        kreditech:
+          '1': 
+          '10': 
+          '11': 
+          '12': 
+          '2': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          author:
+            position: 上席副社長 & 製品管理責任者、Kreditech
+          company: 
+          headline: 
+          quote: "『PhraseApp は、Kreditech の国際的事業拡張の成功に、とても重要な役割を担っています。国レベルそして製品レベルの両方において！』"
+          results:
+            '1': 
+            '2': 
+            '3': 
+        livestorm:
+          company: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_16: 
+          p_2: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: グロースエンジニア、Livestorm
+            text: "『ローカライゼーションプロセスを大幅に合理化することができました。これにより、新バージョンのリリース、および新たな地域の追加が、より簡単になりました。』"
+          result_1: 
+          result_2: 
+          result_3: 
+        njiuko-comdirect:
+          headline: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          headline_5: 
+          headline_6: 
+          headline_7: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_16: 
+          p_17: 
+          p_18: 
+          p_19: 
+          p_2: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: 
+            text: 
+          quote2:
+            author_position: 上席副社長 ユーザーインターフェース、comdirect
+            text: "『PhraseApp の反応バリエーションにより、ツールの言語クオリティを、大幅に改善することができます。当社のお客様にとって魅力的な、より自然な響きの表現を実現することが可能になりました。』"
+          result_1: 
+          result_2: 
+          result_3: 
+        njiuko:
+          company: 
+        results: 
+        stats:
+          countries: 
+          first: 
+          in_german_banking: 
+          languages: 
+          localization_costs: 
+          markets: 
+          needed_manpower: 
+          process_time: 
+          projects: 
+          recognized_queries: 
+          saved_per_release: 
+          team_size: 
+          users_since_phraseapp: 
+          words: 
+        the_conversation:
+          '1': 
+          '10': 
+          '11': 
+          '12': "『PhraseApp の簡単な、直観的操作が可能なコラボレーションプラットフォームは、フランスでの事業拡張において、重要な信頼できるツールとして、活躍してくれました。』"
+          '13': 
+          '14': 
+          '15': 
+          '16': 
+          '17': 
+          '2': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          company: 
+          headline: 
+          quote_author_name: James Healy（ジェームズ・ハーリー）
+          quote_author_position: 技術責任者、Conversation
+          result_1: 
+          result_2: 
+          result_3: 
+        uship:
+          '1': 
+          '10': 
+          '11': 
+          '12': 
+          '13': 
+          '14': 
+          '15': 
+          '16': 
+          '17': 
+          '18': 
+          '19': 
+          '2': 
+          '20': "『PhraseApp は、開発者にとって操作しやすい、継続的展開が可能なソリューションです。現在、ソリューションを探している最中ですが、その中でも
+            PhraseApp は際立っています。』"
+          '23': 
+          '24': 
+          '25': 
+          '26': 
+          '27': 
+          '3': 
+          '4': 
+          '5': 
+          '6': 
+          '7': 
+          '8': 
+          '9': 
+          author_name: Ed Vinyard（エド・ヴィンヤード）
+          author_position: リーディング ソフトウェア設計者、uShip
+          company: 
+          headline: 
+          result_1: 
+          result_2: 
+          result_3: 
+          result_4: 
+        xing:
+          company: 
+          headline: 
+          headline_2: 
+          headline_3: 
+          headline_4: 
+          headline_5: 
+          headline_6: 
+          headline_7: 
+          p_1: 
+          p_10: 
+          p_11: 
+          p_12: 
+          p_13: 
+          p_14: 
+          p_15: 
+          p_2: 
+          p_3: 
+          p_4: 
+          p_5: 
+          p_6: 
+          p_7: 
+          p_8: 
+          p_9: 
+          quote1:
+            author_position: 著作権 & コンテンツ戦略チーム責任者、XING
+            text: "『PhraseApp のおかげで、ローカライゼーションに関する心配をすることなく、ビジネスおよび製品ポートフォリオを拡張することができました。』"
+          result_1: 
+          result_2: 
+          result_3: 
+      cvent:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      fair-trade-usa:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      familo:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      features:
+        api:
+          description: 
+          name: 
+        buy_translations:
+          description: 
+          name: 
+        integration:
+          description: 
+          name: 
+        in_context_editor:
+          description: 
+          name: 
+        jobs:
+          description: 
+          name: 
+        notifications:
+          description: 
+          name: 
+        projects:
+          description: 
+          name: 
+        translation_memory:
+          description: 
+          name: 
+        user_management:
+          description: 
+          name: 
+        verification_system:
+          description: 
+          name: 
+      kreditech:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      livestorm:
+        excerpt: 
+        headline: 
+        meta_description: 
+        page_title: 
+        subline: 
+        type: 
+      meta_description: 
+      njiuko-comdirect:
+        excerpt: 
+        headline: 
+        meta_description: 
+        page_title: 
+        subline: 
+        type: 
+      page_title: 
+      read_casestudy: 
+      read_more: 続きを読む
+      the_conversation:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      uship:
+        headline: 
+        meta_description: 
+        page_title: 
+        type: 
+      xing:
+        excerpt: 
+        headline: 
+        meta_description: 
+        page_title: 
+        subline: 
+        type: 
+    demo:
+      api_documentation: API のドキュメンテーション
+      in_context_editor: In-Context-Editor
+      in_context_editor_demo: In-Context Editor のデモ版
+      localization_api: ローカリゼーション API
+      meta_description: Translation Center、In-Context Editor、APIを提供する PhraseApp を実体験
+      our_api_lets_you: PhaseApp の API は、クライアント独自のローカリゼーション・プロジェクトのプロセスに PhraseApp
+        を統合し、ワークフローをカスタマイズすることで、プロセスを改善させることができます。
+      password_label: パスワード
+      phraseapp_in_action: PhraseApp を実体験
+      run_command: ブラウザで起動する
+      the_phraseapp_in_context: PhraseApp の In-Context Editor は、ほぼすべてのWebアプリケーションに統合することが可能です。サイト上で直接コンテンツを翻訳することができます。
+      the_translation_center_is: Translation Center は、PhraseApp の翻訳管理システムのバックボーンとなるシステムです。多様なプラットフォーム上の全ての言語および翻訳プロジェクトを
+        Translation Center の Web 画面で管理することができます。
+      the_translation_odering_works: 自社の翻訳者チームのプロジェクトで利用することもできますが、PhraseApp のパートナー企業にプロの翻訳を依頼することも可能です。新しい言語に対応したビジネス展開は、今や数時間以内に実現する時代となりました。
+      translation_center: Translation Center
+      translation_center_demo: Translation Center のデモ版
+      translation_center_in_context: Translation Center、In-Context Editor、API
+      translation_odering: 翻訳サービス
+      translation_odering_demo: 詳細を見る
+      user_label: ユーザー名
+    features:
+      40_formats: 形式
+      api: API
+      autopilot_headline: オートパイロット
+      branching_support: ブランチング機能とバージョン管理
+      cli: CLI Tool（コマンドラインツール）
+      comments: コメント
+      editor: Translation Editor
+      email_app_notifications: メール通知とアプリ内の通知
+      feature_list_headline: スピードアップに欠かせない機能を網羅
+      formats:
+        show_all: すべての形式を表示する
+      format_finder:
+        cta: <a href="%{format_finder_path}">Format Finder</a> でプロジェクトのフレームワークに適したローカリゼーション形式を検索する
+      history: 履歴の参照
+      in_context_editor: In-Context-Editor
+      jobs: 割り当て可能なジョブの管理
+      meta_description: |-
+        翻訳管理ソリューション
+        Web およびモバイルアプリケーション対応。チーム内のコラボレーション、プロの翻訳者の検索を提供するプラットフォームで、余裕のプロジェクト管理
+      oneclick_headline: ワンクリック翻訳
+      oneclick_text: 自社の翻訳チームで作業を進めたり、 PhraseApp の パートナー企業のプロによる翻訳を依頼することもできます。
+      ota: Over the Air （OTA）
+      proofreading: 校正
+      repository_sync: GitHub および Bitbucket との同期
+      search_key_tagging: 検索とタグ付け
+      slogan: 複雑なローカリゼーション・プロジェクトを刷新するプラットフォーム
+      slogan_tagline: ローカリゼーション業界最前線のソリューション、PhraseApp を実際にお使いになると、ローカリゼーションがもはや難解な問題ではないことが実感できるはずです。
+      statistics_per_locale: 'ユーザー別・ロケール別の統計
+
+'
+      user_roles: ユーザーの役割とアクセス権限の管理
+      versioning_headline: バージョン管理とブランチング機能
+      versioning_text: PhraseApp プロジェクトを GitHub または Bitbucket のリポジトリと自動同期すると、複数のバージョンでの作業を平行して進められます。
+      webhook: Webhook
+      workflow_gallery:
+        dashboard:
+          link: Dashboard
+          text: 'Dashboard には、プロジェクトに関連するすべての情報が集約されています。各メンバーに割り当てられたジョブの進捗状況、および全体的な翻訳作業の進捗状況などをここでモニターすることができます。その他の機能も充実しています。
+
+'
+        project_overview:
+          link: Project Overview
+          text: Project Overview は、すべてのローカリゼーション・プロジェクトをまとめたメインの概要ページです。特定のローカリゼーション・プロジェクトの目的に沿った全訳文の整理、アクセス権限の設定、スクリーンショットの添付をここで管理します。
+        translation_editor:
+          link: Translation Editor
+          text: |-
+            Translation Editor は、訳語の検索、キー管理等の機能を提供し、実際の翻訳作業をサポートします。 翻訳中には便利なメタ情報が提供され、翻訳者やマネージャーは集中力を妨げられることなく、
+            迅速にコンテンツを翻訳することができます。
+    features_developers:
+      meta_description: 
+    features_managers:
+      meta_description: 
+    features_translators:
+      meta_description: 
+    imprint:
+      headline: インプリント
+    migrations:
+      read_guide: 
+      stage_headline: 
+      stage_subline: 
+    pricing:
+      enterprise:
+        cta: コンタクト
+        description_short: 50 名以上のユーザー？SLA やオンプレミスホスト要件？当社のチームに、ぜひご相談ください。
+        headline: 企業としてのニーズはありますか？
+        plan_name: 
+      faqs:
+        add_user:
+          answer: '関係するユーザー数のシートを完備して、全プランが納品されます。また、いつでも、プランにユーザーシートを追加することができます。次の料金が、各プランの追加ユーザーに適用されます:'
+          headline: 'ユーザシートをプランに追加することはできますか？
+
+'
+        faqs: よくある質問
+        payment_options:
+          answer: |-
+            支払いは、クレジットカード（Visa、MasterCard、American Express）、SEPA、銀行振り込み、PayPal で行うことができます。注文プロセスにおいて特殊な要件が存在する場合は、当社のカスタマー サクセス チームにお問い合わせください。
+
+            当社の初期設定支払い約款は、Net 14 に記載されています。
+          headline: PhraseApp には、どのような支払いオプションがありますか？
+        startup_plan:
+          answer: プロジェクトを開設するために選択したスタートアップおよびフリープランの特殊料金を、提供しています。料金を全額支払っていない場合は、当社のサポートチームにご連絡ください。
+          headline: 5 名以下のユーザーの場合、何が必要ですか？
+        trial:
+          answer: 14 日間のフリートライアルでは、Pro プランの全機能にアクセスすることができます。ニーズにあった最良のプランを見つけるためのサポートを、喜んで提供させていただきます。API
+            アクセスを含む全プラン、Translation Center、Source Code Repository Sync、全対応形式へのアクセスが可能です。ワード、セグメント、Key、プロジェクトに制限はありません。
+          headline: トライアルには何が含まれていますか？
+        upgrade:
+          answer: いつでもプランをアップグレードすることができます。約款および条件に従って使用契約を解除しない限り、定期使用は、支払期限の終了時に、自動的に更新されます。ダウングレードは、現在の支払い期限の終了後、有効になります。
+          headline: アップグレードは可能ですか？
+      headline: 値段
+      meta_description: あなたのグローバルなビジネスについて行き、かつ手頃な料金プランでお求めになりやすい、ウェブとモバイルアプリケーションの簡単でパワフルなローカリゼーション業務です。フリートライアルで試してみましょう。
+      modal:
+        features:
+          headline: 
+      plan:
+        additional_user: "%{plan_name} プラン: 追加ユーザーシート %{costs} ユーザー/月"
+        billing_period:
+          annually: 年間支払い
+          monthly: 月額支払い
+        exclusive:
+          feature:
+            line_1: API、In-Context Editor & Translation Center
+            line_2: パーソナル アカウント マネージャー
+            line_3: カスタマー サービス レベル アグリーメント
+            line_4: '1,200,000 MAU 用モバイル SDK '
+            line_5: 
+          title: エクスクルーシブ
+          usecase: サービスレベルアグリーメントのカスタマイズド PhraseApp 体験
+        features:
+          more_link:
+            text: プランの比較
+        lite:
+          feature:
+            line_1: API、GitHub & Bitbucket Sync
+            line_2: シンプル レビュー ワークフロー
+            line_3: ブランチング サポート
+            line_4: 200,000 MAU 用モバイル SDK
+            line_5: 全形式 - <a href="https://phraseapp.com/docs/guides/format-finder/">フルリスト</a>
+          title: ライト
+          usecase: 複雑なローカライゼーション プロセスに取組む製品チーム。
+        period_switch:
+          to_monthly: 月額支払いに切替え
+          to_yearly: 年間支払いに切替え
+        pro:
+          feature:
+            line_1: API、GitHub & Bitbucket Sync
+            line_2: Translation Memory および Glossary
+            line_3: 先進レビュー ワークフロー & ブランチング
+            line_4: 自動翻訳 Autopilot
+            line_5: 全形式 - <a href="https://phraseapp.com/docs/guides/format-finder/">フルリスト</a>
+            line_6: 1,000,000 MAU 用モバイル SDK
+            line_7: 
+          title: Pro
+          usecase: 最新のソフトウェア開発チーム、ローカライゼーションチーム、グローバルブランドのために。
+        recommendation: 最も人気
+        seats_included: "%{count} ユーザーを含む"
+        signup_cta: 無料トライアル
+      price_month: "/ 月"
+      startup:
+        cta: 適用
+        description: プロジェクトを開設する 50% 割引のスタートアップおよびフリープランを提供しています。
+        headline: 初期ステージスタートアップ？
+      subline: 保存できる単語数およびプロジェクト数はすべてのプランで無制限です。<br>チームの規模とユースケースに合ったプランを選択してください。
+    privacy:
+      content: 
+      headline: プライバシーポリシー
+      last_revised: 
+      meta_description: Phraseapp は、あなたのデータプライバシーを非常に重く捉えています。収集されたいかなるデータも法規制に従ってPhraseapp
+        が厳重に扱います。
+    sketch:
+      meta_description: 
+      page_title: 
+    sketchplugin:
+      claim: 
+      claim_sub: 
+      docs_cta: 
+      features_headline: 
+      features_sub_headline: 
+      function_pull: 
+      function_pull_tooltip: 
+      function_push: 
+      function_push_tooltip: 
+      function_translate: 
+      function_translate_tooltip: 
+      headline: 
+      main_cta: 
+      sub_headline: 
+      usecase_iterations: 
+      usecase_iterations_tooltip: 
+      usecase_placeholder: 
+      usecase_placeholder_tooltip: 
+      usecase_sync: 
+      usecase_sync_tooltip: 
+      webinar_cta: 
+    terms:
+      headline: 利用規約
+      meta_description: これらの利用規約はあなたのアクセス、そして PhraseApp のウェブサイトとサービスの使用を管理します。ローカリゼーションサービスをご利用になる前に、利用規約を注意して読んでください。
+  personas:
+    developers:
+      metrics:
+        metric_1: '50'
+        metric_2: '48'
+        metric_3: '95'
+        text_1: 開発時間を短縮
+        text_2: リリース毎の節約時間平均
+        text_3: プロジェクト納期の短縮
+      quote:
+        headline: 開発者が PhraseApp を利用し続ける理由
+      stage:
+        slogan: 開発者向けに構築された翻訳管理機能
+        slogan_tagline: '最もシンプルなソリューションを提供することが、PhraseApp の開発哲学です。非常に直感的で、かつ効率的、そして容易に統合可能な
+          PhraseApp は、開発者によって、開発者のために構築されたプラットフォームです。
+
+'
+      tabbed_content:
+        api_text: PhraseApp は、既存のワークフローに合わせた調整が可能です。PhraseApp の<a href="https://help.phraseapp.com/phraseapp-api/phraseapp-api-docs"
+          target="_blank">API</a> を利用すれば、ロケールファイルのインポート、ロケールファイルのダウンロード、キーへのタグ付けなど、ご使用のアカウントの
+          PhraseApp に保存されたローカライズデータと多様な仕方のインタラクションが可能です。
+        autopilot_text: 'PhraseApp は、機械翻訳および翻訳メモリを使用して、新しいコンテンツを自動的に翻訳することができます。オートパイロット機能を利用すると、新しいキー、ロケール、またはファイルを
+          PhraseApp にアップロードした直後に、複数の言語への訳文が自動的に生成されます。
+
+'
+        branching_support_text: Git 環境と同様に、複数のリリースおよびバージョンの作業が同時に進められます。
+        cli_text: 'CLI Tool（コマンドラインツール）を使用すると、冗長で複雑な要求文を入力せずに、コマンドラインから即座にプロジェクトおよび訳文にアクセスすることができます。Linux、Mac
+          OS X、および Windows に対応しています。
+
+'
+        formats_text: PhraseApp では、ローカリゼーション・プロジェクトで一般的に使用されるすべてのファイル形式で訳文をエクスポートおよびインポートするための多種多様な方法を提供しています。ファイルのインポートおよびエクスポート、また
+          API を介して、以下の形式がサポートされています。
+        nav_headline: 開発者向けの機能
+        ota_text: '翻訳も以前より迅速かつ容易に公開することが可能です。次回のバージョンアップまで待たずに、OTAを使用して、PhraseApp
+          から直接すべての翻訳をリアルタイムで公開することができます。
+
+'
+        repository_sync_text: PhraseApp では GitHub および Bitbucket へのネイティブ統合が提供されます。
+        webhook_text: チャットクライアント、プロジェクト管理ツール、または外部の API イベントなどの外部サービスへの Webhook の通知を許可すると、通知フローをカスタマイズすることができます。
+    managers:
+      metrics:
+        metric_1: '50'
+        metric_2: '80'
+        metric_3: 2〜3
+        text_1: プロジェクトに必要なマンパワーが削減されます
+        text_2: ユーザーエクスペリエンスおよびエンゲージメントに大きな変化をもたらします
+        text_3: 月毎の仕事量が低減します
+      quote:
+        headline: マネージャーが PhraseApp を利用し続ける理由
+      stage:
+        slogan: ローカリゼーションのソフトウェアの中でもベストの使用体験
+        slogan_tagline: ローカリゼーションマネージャー、プロダクトマネージャー、エンジニアリングマネージャなど、多くのマネージャーが PhraseApp
+          を利用してローカリゼーションのプロジェクトの管理の強化、プロセスの迅速化、およびスケールの拡大を容易に実現しています。PhraseApp では、プロジェクトのワークフローを管理することができます。
+      tabbed_content:
+        email_app_notifications_text: "PhraseApp 内での直接的な通知と、Eメール経由の通知により、プロジェクトに関するすべての変更についての最新情報が常に入手可能です。\n\n"
+        jobs_text: チームメンバーの割り当て、ブリーフィングの提供、選択したロケールの期日の設定を行うことで、すべての翻訳作業をまとめて管理することができます。
+        nav_headline: マネージャー向けの機能
+        proofreading_text: '新規の訳文でも、編集後の訳文に対しても、校正および検証のワークフローの展開が容易です。
+
+'
+        statistics_per_locale_text: 翻訳済み・検証済みの単語数およびキー数など、チームの個々のメンバーの活動について常に最新情報を入手することができます。
+        user_roles_text: 'プロジェクトと対応言語に応じて各チームメンバーに独自の役割とアクセス権を割り当てて、ローカリゼーションのプロジェクトチームを組むことができます。
+
+'
+    metrics:
+      headline: 数字に反映される成果
+      tagline: 'PhraseApp は、ご利用になる世界中のお客様に測定可能で強力な成果をもたらすプラットフォームです。
+
+'
+      unit_days: 日
+      unit_hours: 時間
+      unit_percentage: "%"
+    translators:
+      metrics:
+        metric_1: '21'
+        metric_2: '90'
+        metric_3: '100'
+        text_1: SmartSuggest を活用することで、翻訳作業のスピードアップが実現
+        text_2: エラーの減少
+        text_3: スプレッドシートへの依存からの脱却
+      quote:
+        headline: 翻訳者が PhraseApp を利用し続ける理由
+      stage:
+        slogan: '翻訳者向けの有能なツール
+
+'
+        slogan_tagline: '翻訳作業では、文脈が重要です。Phraseapp では、ソフトウェアローカリゼーションの作業に際して、より詳細な文脈的意味が翻訳者に提供されるツールを構築することを常に念頭において邁進しています。
+
+'
+      tabbed_content:
+        comments_text: 個々のキーにコメントを追加し、チームメンバーに特定の翻訳に関して通知・議論・質問することができます。
+        editor_text: 'PhraseApp は、複雑な翻訳プロジェクトにおける大量のキーおよび技術的な制約に対応できる便利なツールとメカニズムを提供します。
+
+'
+        history_text: Translation Editor の [履歴]タブで以前の訳の編集履歴を参照することができます。
+        in_context_editor_text: PhraseApp の In-Context Editor は、ほぼすべてのWebアプリケーションに統合することが可能です。サイト上で直接コンテンツを翻訳することができます。
+        nav_headline: 翻訳者向けの機能
+        search_key_tagging_text: 複数のタグが追加できるため、どのキーがプロジェクト内のどのセクションに属しているかを容易に追跡することができます。
+  selection_msg:
+    other: 
+    zero: 
+  simple_form:
+    hints:
+      package_offer:
+        pricing:
+          currency: 
+    labels:
+      contact:
+        email: Eメール
+        message: メッセージ
+        name: 名前
+      demo_request:
+        company: 企業
+        country_area_code_phone: 
+        email: Eメール
+        help_message: メッセージ
+        name: 名前
+        other_country_area_code_phone: 
+        phone: 電話番号
+  team:
+    fact:
+      aleks_maksimow: 
+      christopher_murach: 
+      colin_witt: 
+      corinna_maier: 
+      dalibor_stajic: 
+      david_ost: 
+      edin_hadzic: 
+      elina_eickstaedt: 
+      elizabeth_orwig: 
+      fabian_kirchner: 
+      felix_meese: 
+      frederik_vollert: 
+      gamze_kaplan: 
+      henning_schlinkmann: 
+      jana-marie_lecher: 
+      jannis_rhein: 
+      jenifer_eggeling: 
+      kathryn_ross: 
+      kristina_reinhardt: 
+      malte_jansen: 
+      manuel_boy: 
+      mariana_tutlys: 
+      matthias_nitsche: 
+      maximilian_schroeder: 
+      moritz_helbich: 
+      mustafa_cetin: 
+      pierre_zenker: 
+      sharona_allameh: 
+      soenke_behrendt: 
+      sonja_gaertner: 
+      stefan_bruhns: 
+      stephan_schoening: 
+      sven_dunemann: 
+      til_fabel: 
+      tim_ibo_leers: 
+      tina_heit: 
+      tobias_schwab: 
+      torben_fabel: 
+      vincent_dahmen: 
+      wolfram_graetz: 
+      ziwei_liu: 
+    role:
+      account_director: 
+      account_executive: 
+      account_manager: 
+      brand_manager: 
+      business_development_manager: 
+      business_development_student: 
+      ceo: 
+      content_marketing_manager: 
+      csm: 
+      cso: 
+      cto: 
+      engineer: 
+      engineering_intern: 
+      head_of_cs: 
+      head_of_hr: 
+      head_of_marketing: 
+      head_of_product: 
+      head_of_sales: 
+      hr_coordinator: 
+      hr_manager: 
+      junior_sales_manager: 
+      lead_generation: 
+      marketing_manager: 
+      online_marketing_student: 
+      operations_manager: 
+      product_manager: 
+      product_marketing_manager: 
+      recruiter_female: 
+      sales_development_rep: 
+      startegic_project_manager: 
+      technical_lead_gen: 
+      visual_designer: 
+  user_requests:
+    form:
+      cause_for_help: どうやって私たちのことを知りましたか？
+      pressing_problem: あなたの最も深刻な問題は何ですか？
+      send_message: 繋がりましょう
+      who_are_you: どちら様でしょうか？
+      your_email_address: あなたのメールアドレスは何ですか？
+      your_message: どうかしましたか？
+    new:
+      how_can_we_help: どうかしましたか？
+  user_requests_controller:
+    message_sent_successfully: メッセージは問題なく送信されました
